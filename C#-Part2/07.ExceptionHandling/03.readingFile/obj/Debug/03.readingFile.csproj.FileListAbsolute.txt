@@ -1,0 +1,4 @@
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\07.ExceptionHandling\03.readingFile\bin\Debug\03.readingFile.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\07.ExceptionHandling\03.readingFile\bin\Debug\03.readingFile.pdb
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\07.ExceptionHandling\03.readingFile\obj\Debug\03.readingFile.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\07.ExceptionHandling\03.readingFile\obj\Debug\03.readingFile.pdb

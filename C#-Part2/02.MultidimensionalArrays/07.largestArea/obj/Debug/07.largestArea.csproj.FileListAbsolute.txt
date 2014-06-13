@@ -1,0 +1,5 @@
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\02.MultidimensionalArrays\07.largestArea\bin\Debug\07.largestArea.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\02.MultidimensionalArrays\07.largestArea\bin\Debug\07.largestArea.pdb
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\02.MultidimensionalArrays\07.largestArea\obj\Debug\07.largestArea.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\02.MultidimensionalArrays\07.largestArea\obj\Debug\07.largestArea.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\02.MultidimensionalArrays\07.largestArea\obj\Debug\07.largestArea.pdb

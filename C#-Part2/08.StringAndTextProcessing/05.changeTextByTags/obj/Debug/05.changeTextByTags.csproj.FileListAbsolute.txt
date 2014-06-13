@@ -1,0 +1,4 @@
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\08.StringAndTextProcessing\05.changeTextByTags\bin\Debug\05.changeTextByTags.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\08.StringAndTextProcessing\05.changeTextByTags\bin\Debug\05.changeTextByTags.pdb
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\08.StringAndTextProcessing\05.changeTextByTags\obj\Debug\05.changeTextByTags.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\08.StringAndTextProcessing\05.changeTextByTags\obj\Debug\05.changeTextByTags.pdb

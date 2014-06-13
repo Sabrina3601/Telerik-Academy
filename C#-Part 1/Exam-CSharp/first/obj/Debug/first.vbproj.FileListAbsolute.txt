@@ -1,1 +1,0 @@
-D:\Telerik\TelerikAcademy\Projects\Exam-CSharp\first\bin\Debug\first.exe.config

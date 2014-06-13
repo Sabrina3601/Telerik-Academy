@@ -1,0 +1,5 @@
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\05.UsingClassesAndObjects\01.checkWhether\bin\Debug\01.checkWhether.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\05.UsingClassesAndObjects\01.checkWhether\bin\Debug\01.checkWhether.pdb
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\05.UsingClassesAndObjects\01.checkWhether\obj\Debug\01.checkWhether.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\05.UsingClassesAndObjects\01.checkWhether\obj\Debug\01.checkWhether.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\05.UsingClassesAndObjects\01.checkWhether\obj\Debug\01.checkWhether.pdb

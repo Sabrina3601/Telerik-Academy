@@ -1,0 +1,4 @@
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\01.Arrays\21.generateCombinations\bin\Debug\21.generateCombinations.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\01.Arrays\21.generateCombinations\bin\Debug\21.generateCombinations.pdb
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\01.Arrays\21.generateCombinations\obj\Debug\21.generateCombinations.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\01.Arrays\21.generateCombinations\obj\Debug\21.generateCombinations.pdb

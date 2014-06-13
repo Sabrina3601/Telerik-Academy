@@ -1,0 +1,6 @@
+D:\MY FOLDER\MY SW STUDIES\COURSES\C# - Part 2\MY HOMEWORKS\C#2MYHW8\HW8StringsAndTextProcessing\21DifferentLetterInString\bin\Debug\21DifferentLetterInString.exe.config
+D:\MY FOLDER\MY SW STUDIES\COURSES\C# - Part 2\MY HOMEWORKS\C#2MYHW8\HW8StringsAndTextProcessing\21DifferentLetterInString\bin\Debug\21DifferentLetterInString.exe
+D:\MY FOLDER\MY SW STUDIES\COURSES\C# - Part 2\MY HOMEWORKS\C#2MYHW8\HW8StringsAndTextProcessing\21DifferentLetterInString\bin\Debug\21DifferentLetterInString.pdb
+D:\MY FOLDER\MY SW STUDIES\COURSES\C# - Part 2\MY HOMEWORKS\C#2MYHW8\HW8StringsAndTextProcessing\21DifferentLetterInString\obj\Debug\21DifferentLetterInString.csprojResolveAssemblyReference.cache
+D:\MY FOLDER\MY SW STUDIES\COURSES\C# - Part 2\MY HOMEWORKS\C#2MYHW8\HW8StringsAndTextProcessing\21DifferentLetterInString\obj\Debug\21DifferentLetterInString.exe
+D:\MY FOLDER\MY SW STUDIES\COURSES\C# - Part 2\MY HOMEWORKS\C#2MYHW8\HW8StringsAndTextProcessing\21DifferentLetterInString\obj\Debug\21DifferentLetterInString.pdb

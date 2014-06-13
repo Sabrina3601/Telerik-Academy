@@ -1,0 +1,6 @@
+D:\MY FOLDER\MY SW STUDIES\COURSES\C# - Part 2\MY HOMEWORKS\C#2MYHW8\HW8StringsAndTextProcessing\19DatesExtractionFromText\bin\Debug\19DatesExtractionFromText.exe.config
+D:\MY FOLDER\MY SW STUDIES\COURSES\C# - Part 2\MY HOMEWORKS\C#2MYHW8\HW8StringsAndTextProcessing\19DatesExtractionFromText\bin\Debug\19DatesExtractionFromText.exe
+D:\MY FOLDER\MY SW STUDIES\COURSES\C# - Part 2\MY HOMEWORKS\C#2MYHW8\HW8StringsAndTextProcessing\19DatesExtractionFromText\bin\Debug\19DatesExtractionFromText.pdb
+D:\MY FOLDER\MY SW STUDIES\COURSES\C# - Part 2\MY HOMEWORKS\C#2MYHW8\HW8StringsAndTextProcessing\19DatesExtractionFromText\obj\Debug\19DatesExtractionFromText.csprojResolveAssemblyReference.cache
+D:\MY FOLDER\MY SW STUDIES\COURSES\C# - Part 2\MY HOMEWORKS\C#2MYHW8\HW8StringsAndTextProcessing\19DatesExtractionFromText\obj\Debug\19DatesExtractionFromText.exe
+D:\MY FOLDER\MY SW STUDIES\COURSES\C# - Part 2\MY HOMEWORKS\C#2MYHW8\HW8StringsAndTextProcessing\19DatesExtractionFromText\obj\Debug\19DatesExtractionFromText.pdb

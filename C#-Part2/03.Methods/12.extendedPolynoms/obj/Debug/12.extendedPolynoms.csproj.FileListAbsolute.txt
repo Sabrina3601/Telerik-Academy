@@ -1,0 +1,4 @@
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\03.Methods\12.extendedPolynoms\bin\Debug\12.extendedPolynoms.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\03.Methods\12.extendedPolynoms\bin\Debug\12.extendedPolynoms.pdb
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\03.Methods\12.extendedPolynoms\obj\Debug\12.extendedPolynoms.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\03.Methods\12.extendedPolynoms\obj\Debug\12.extendedPolynoms.pdb

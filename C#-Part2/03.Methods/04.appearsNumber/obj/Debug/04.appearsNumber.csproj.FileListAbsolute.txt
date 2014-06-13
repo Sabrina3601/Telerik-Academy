@@ -1,0 +1,4 @@
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\03.Methods\04.appearsNumber\bin\Debug\04.appearsNumber.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\03.Methods\04.appearsNumber\bin\Debug\04.appearsNumber.pdb
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\03.Methods\04.appearsNumber\obj\Debug\04.appearsNumber.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\03.Methods\04.appearsNumber\obj\Debug\04.appearsNumber.pdb

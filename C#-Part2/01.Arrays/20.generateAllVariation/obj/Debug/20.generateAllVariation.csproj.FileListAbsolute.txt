@@ -1,0 +1,5 @@
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\01.Arrays\20.generateAllVariation\bin\Debug\20.generateAllVariation.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\01.Arrays\20.generateAllVariation\bin\Debug\20.generateAllVariation.pdb
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\01.Arrays\20.generateAllVariation\obj\Debug\20.generateAllVariation.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\01.Arrays\20.generateAllVariation\obj\Debug\20.generateAllVariation.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\01.Arrays\20.generateAllVariation\obj\Debug\20.generateAllVariation.pdb

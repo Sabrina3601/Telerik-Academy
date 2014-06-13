@@ -1,6 +1,0 @@
-D:\Telerik\TelerikAcademy\Projects\C#-Part 1\Exam-CSharp\2-4-8\bin\Debug\2-4-8.exe.config
-D:\Telerik\TelerikAcademy\Projects\C#-Part 1\Exam-CSharp\2-4-8\bin\Debug\2-4-8.exe
-D:\Telerik\TelerikAcademy\Projects\C#-Part 1\Exam-CSharp\2-4-8\bin\Debug\2-4-8.pdb
-D:\Telerik\TelerikAcademy\Projects\C#-Part 1\Exam-CSharp\2-4-8\obj\Debug\2-4-8.csprojResolveAssemblyReference.cache
-D:\Telerik\TelerikAcademy\Projects\C#-Part 1\Exam-CSharp\2-4-8\obj\Debug\2-4-8.exe
-D:\Telerik\TelerikAcademy\Projects\C#-Part 1\Exam-CSharp\2-4-8\obj\Debug\2-4-8.pdb

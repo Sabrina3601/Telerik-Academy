@@ -1,0 +1,5 @@
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\01.Arrays\02.comparesElement\bin\Debug\02.comparesElement.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\01.Arrays\02.comparesElement\bin\Debug\02.comparesElement.pdb
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\01.Arrays\02.comparesElement\obj\Debug\02.comparesElement.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\01.Arrays\02.comparesElement\obj\Debug\02.comparesElement.pdb
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\01.Arrays\02.comparesElement\obj\Debug\02.comparesElement.csprojResolveAssemblyReference.cache

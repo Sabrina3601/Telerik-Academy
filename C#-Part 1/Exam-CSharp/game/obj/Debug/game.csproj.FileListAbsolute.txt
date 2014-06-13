@@ -1,8 +1,0 @@
-D:\Telerik\TelerikAcademy\Projects\Exam-CSharp\game\bin\Debug\game.exe.config
-D:\Telerik\TelerikAcademy\Projects\Exam-CSharp\game\bin\Debug\game.exe
-D:\Telerik\TelerikAcademy\Projects\Exam-CSharp\game\bin\Debug\game.pdb
-D:\Telerik\TelerikAcademy\Projects\Exam-CSharp\game\obj\Debug\game.exe
-D:\Telerik\TelerikAcademy\Projects\Exam-CSharp\game\obj\Debug\game.pdb
-D:\Telerik\TelerikAcademy\Projects\C#-Part 1\Exam-CSharp\game\bin\Debug\game.exe.config
-D:\Telerik\TelerikAcademy\Projects\C#-Part 1\Exam-CSharp\game\obj\Debug\game.exe
-D:\Telerik\TelerikAcademy\Projects\C#-Part 1\Exam-CSharp\game\obj\Debug\game.pdb

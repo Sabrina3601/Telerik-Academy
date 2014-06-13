@@ -1,0 +1,5 @@
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\05.UsingClassesAndObjects\05.workdays\obj\Debug\05.workdays.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\05.UsingClassesAndObjects\05.workdays\bin\Debug\05.workdays.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\05.UsingClassesAndObjects\05.workdays\bin\Debug\05.workdays.pdb
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\05.UsingClassesAndObjects\05.workdays\obj\Debug\05.workdays.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\05.UsingClassesAndObjects\05.workdays\obj\Debug\05.workdays.pdb

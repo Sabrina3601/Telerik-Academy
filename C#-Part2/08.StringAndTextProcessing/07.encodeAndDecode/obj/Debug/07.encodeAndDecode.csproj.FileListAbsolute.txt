@@ -1,0 +1,5 @@
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\08.StringAndTextProcessing\07.encodeAndDecode\bin\Debug\07.encodeAndDecode.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\08.StringAndTextProcessing\07.encodeAndDecode\bin\Debug\07.encodeAndDecode.pdb
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\08.StringAndTextProcessing\07.encodeAndDecode\obj\Debug\07.encodeAndDecode.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\08.StringAndTextProcessing\07.encodeAndDecode\obj\Debug\07.encodeAndDecode.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\08.StringAndTextProcessing\07.encodeAndDecode\obj\Debug\07.encodeAndDecode.pdb

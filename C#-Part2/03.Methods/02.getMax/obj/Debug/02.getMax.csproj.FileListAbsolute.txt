@@ -1,0 +1,4 @@
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\03.Methods\02.getMax\bin\Debug\02.getMax.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\03.Methods\02.getMax\bin\Debug\02.getMax.pdb
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\03.Methods\02.getMax\obj\Debug\02.getMax.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\03.Methods\02.getMax\obj\Debug\02.getMax.pdb

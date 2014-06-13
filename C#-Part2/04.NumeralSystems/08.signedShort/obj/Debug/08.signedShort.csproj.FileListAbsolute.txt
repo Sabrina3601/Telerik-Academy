@@ -1,0 +1,5 @@
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\04.NumeralSystems\08.signedShort\obj\Debug\08.signedShort.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\04.NumeralSystems\08.signedShort\bin\Debug\08.signedShort.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\04.NumeralSystems\08.signedShort\bin\Debug\08.signedShort.pdb
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\04.NumeralSystems\08.signedShort\obj\Debug\08.signedShort.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\04.NumeralSystems\08.signedShort\obj\Debug\08.signedShort.pdb

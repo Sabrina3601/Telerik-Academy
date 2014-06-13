@@ -1,0 +1,5 @@
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\08.StringAndTextProcessing\08.printSentences\bin\Debug\08.printSentences.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\08.StringAndTextProcessing\08.printSentences\bin\Debug\08.printSentences.pdb
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\08.StringAndTextProcessing\08.printSentences\obj\Debug\08.printSentences.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\08.StringAndTextProcessing\08.printSentences\obj\Debug\08.printSentences.pdb
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\08.StringAndTextProcessing\08.printSentences\obj\Debug\08.printSentences.csprojResolveAssemblyReference.cache

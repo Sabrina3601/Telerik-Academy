@@ -1,0 +1,4 @@
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\08.StringAndTextProcessing\04.substringContain\bin\Debug\04.substringContain.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\08.StringAndTextProcessing\04.substringContain\bin\Debug\04.substringContain.pdb
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\08.StringAndTextProcessing\04.substringContain\obj\Debug\04.substringContain.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\08.StringAndTextProcessing\04.substringContain\obj\Debug\04.substringContain.pdb

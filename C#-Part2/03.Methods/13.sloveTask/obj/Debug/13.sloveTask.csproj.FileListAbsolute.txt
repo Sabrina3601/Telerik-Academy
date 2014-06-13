@@ -1,0 +1,6 @@
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\03.Methods\13.sloveTask\bin\Debug\13.sloveTask.exe.config
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\03.Methods\13.sloveTask\bin\Debug\13.sloveTask.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\03.Methods\13.sloveTask\bin\Debug\13.sloveTask.pdb
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\03.Methods\13.sloveTask\obj\Debug\13.sloveTask.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\03.Methods\13.sloveTask\obj\Debug\13.sloveTask.pdb
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\03.Methods\13.sloveTask\obj\Debug\13.sloveTask.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\08.StringAndTextProcessing\01.describeCSharp\obj\Debug\01.describeCSharp.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\08.StringAndTextProcessing\01.describeCSharp\bin\Debug\01.describeCSharp.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\08.StringAndTextProcessing\01.describeCSharp\bin\Debug\01.describeCSharp.pdb
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\08.StringAndTextProcessing\01.describeCSharp\obj\Debug\01.describeCSharp.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\08.StringAndTextProcessing\01.describeCSharp\obj\Debug\01.describeCSharp.pdb

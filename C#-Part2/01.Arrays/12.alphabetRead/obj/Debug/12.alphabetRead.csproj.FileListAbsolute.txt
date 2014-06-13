@@ -1,0 +1,5 @@
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\01.Arrays\12.alphabetRead\bin\Debug\12.alphabetRead.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\01.Arrays\12.alphabetRead\bin\Debug\12.alphabetRead.pdb
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\01.Arrays\12.alphabetRead\obj\Debug\12.alphabetRead.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\01.Arrays\12.alphabetRead\obj\Debug\12.alphabetRead.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\01.Arrays\12.alphabetRead\obj\Debug\12.alphabetRead.pdb

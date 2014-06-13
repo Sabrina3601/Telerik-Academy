@@ -1,0 +1,4 @@
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\06.TextFiles\08.replaceOnlyHoleWords\bin\Debug\08.replaceOnlyHoleWords.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\06.TextFiles\08.replaceOnlyHoleWords\bin\Debug\08.replaceOnlyHoleWords.pdb
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\06.TextFiles\08.replaceOnlyHoleWords\obj\Debug\08.replaceOnlyHoleWords.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\06.TextFiles\08.replaceOnlyHoleWords\obj\Debug\08.replaceOnlyHoleWords.pdb

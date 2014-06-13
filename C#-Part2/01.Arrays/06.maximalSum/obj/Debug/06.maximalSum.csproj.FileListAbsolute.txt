@@ -1,0 +1,5 @@
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\01.Arrays\06.maximalSum\bin\Debug\06.maximalSum.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\01.Arrays\06.maximalSum\bin\Debug\06.maximalSum.pdb
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\01.Arrays\06.maximalSum\obj\Debug\06.maximalSum.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\01.Arrays\06.maximalSum\obj\Debug\06.maximalSum.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\01.Arrays\06.maximalSum\obj\Debug\06.maximalSum.pdb

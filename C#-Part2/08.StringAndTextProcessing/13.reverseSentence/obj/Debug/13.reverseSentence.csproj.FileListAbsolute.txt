@@ -1,0 +1,4 @@
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\08.StringAndTextProcessing\13.reverseSentence\bin\Debug\13.reverseSentence.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\08.StringAndTextProcessing\13.reverseSentence\bin\Debug\13.reverseSentence.pdb
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\08.StringAndTextProcessing\13.reverseSentence\obj\Debug\13.reverseSentence.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\08.StringAndTextProcessing\13.reverseSentence\obj\Debug\13.reverseSentence.pdb

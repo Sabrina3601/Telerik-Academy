@@ -1,6 +1,0 @@
-D:\Telerik\TelerikAcademy\Projects\C#-Part 1\Exam-CSharp\cards\bin\Debug\cards.exe.config
-D:\Telerik\TelerikAcademy\Projects\C#-Part 1\Exam-CSharp\cards\obj\Debug\cards.csprojResolveAssemblyReference.cache
-D:\Telerik\TelerikAcademy\Projects\C#-Part 1\Exam-CSharp\cards\bin\Debug\cards.exe
-D:\Telerik\TelerikAcademy\Projects\C#-Part 1\Exam-CSharp\cards\bin\Debug\cards.pdb
-D:\Telerik\TelerikAcademy\Projects\C#-Part 1\Exam-CSharp\cards\obj\Debug\cards.exe
-D:\Telerik\TelerikAcademy\Projects\C#-Part 1\Exam-CSharp\cards\obj\Debug\cards.pdb

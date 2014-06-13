@@ -1,0 +1,5 @@
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\03.Methods\11.polynomials\bin\Debug\11.polynomials.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\03.Methods\11.polynomials\bin\Debug\11.polynomials.pdb
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\03.Methods\11.polynomials\obj\Debug\11.polynomials.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\03.Methods\11.polynomials\obj\Debug\11.polynomials.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\03.Methods\11.polynomials\obj\Debug\11.polynomials.pdb

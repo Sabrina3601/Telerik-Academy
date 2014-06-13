@@ -1,0 +1,5 @@
+D:\MY FOLDER\MY SW STUDIES\COURSES\C# - Part 2\MY HOMEWORKS\C#2MYHW8\HW8StringsAndTextProcessing\15HTMLTagsReplacement\bin\Debug\15HTMLTagsReplacement.exe.config
+D:\MY FOLDER\MY SW STUDIES\COURSES\C# - Part 2\MY HOMEWORKS\C#2MYHW8\HW8StringsAndTextProcessing\15HTMLTagsReplacement\bin\Debug\15HTMLTagsReplacement.exe
+D:\MY FOLDER\MY SW STUDIES\COURSES\C# - Part 2\MY HOMEWORKS\C#2MYHW8\HW8StringsAndTextProcessing\15HTMLTagsReplacement\bin\Debug\15HTMLTagsReplacement.pdb
+D:\MY FOLDER\MY SW STUDIES\COURSES\C# - Part 2\MY HOMEWORKS\C#2MYHW8\HW8StringsAndTextProcessing\15HTMLTagsReplacement\obj\Debug\15HTMLTagsReplacement.exe
+D:\MY FOLDER\MY SW STUDIES\COURSES\C# - Part 2\MY HOMEWORKS\C#2MYHW8\HW8StringsAndTextProcessing\15HTMLTagsReplacement\obj\Debug\15HTMLTagsReplacement.pdb

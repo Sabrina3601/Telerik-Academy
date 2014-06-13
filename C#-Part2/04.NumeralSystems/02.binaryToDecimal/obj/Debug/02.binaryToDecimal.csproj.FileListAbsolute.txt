@@ -1,0 +1,5 @@
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\04.NumeralSystems\02.binaryToDecimal\bin\Debug\02.binaryToDecimal.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\04.NumeralSystems\02.binaryToDecimal\bin\Debug\02.binaryToDecimal.pdb
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\04.NumeralSystems\02.binaryToDecimal\obj\Debug\02.binaryToDecimal.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\04.NumeralSystems\02.binaryToDecimal\obj\Debug\02.binaryToDecimal.pdb
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\04.NumeralSystems\02.binaryToDecimal\obj\Debug\02.binaryToDecimal.csprojResolveAssemblyReference.cache

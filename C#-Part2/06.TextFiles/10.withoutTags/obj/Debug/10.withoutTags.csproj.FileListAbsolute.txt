@@ -1,0 +1,5 @@
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\06.TextFiles\10.withoutTags\bin\Debug\10.withoutTags.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\06.TextFiles\10.withoutTags\bin\Debug\10.withoutTags.pdb
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\06.TextFiles\10.withoutTags\obj\Debug\10.withoutTags.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\06.TextFiles\10.withoutTags\obj\Debug\10.withoutTags.pdb
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\06.TextFiles\10.withoutTags\obj\Debug\10.withoutTags.csprojResolveAssemblyReference.cache

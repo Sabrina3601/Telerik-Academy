@@ -1,6 +1,0 @@
-D:\Telerik\TelerikAcademy\Projects\Exam-CSharp\Task 1\bin\Debug\Task 1.exe.config
-D:\Telerik\TelerikAcademy\Projects\Exam-CSharp\Task 1\bin\Debug\Task 1.exe
-D:\Telerik\TelerikAcademy\Projects\Exam-CSharp\Task 1\bin\Debug\Task 1.pdb
-D:\Telerik\TelerikAcademy\Projects\Exam-CSharp\Task 1\obj\Debug\Task 1.exe
-D:\Telerik\TelerikAcademy\Projects\Exam-CSharp\Task 1\obj\Debug\Task 1.pdb
-D:\Telerik\TelerikAcademy\Projects\Exam-CSharp\Task 1\obj\Debug\Task 1.csprojResolveAssemblyReference.cache

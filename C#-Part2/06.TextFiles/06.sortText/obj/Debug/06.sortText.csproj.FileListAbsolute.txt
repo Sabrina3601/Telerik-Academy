@@ -1,0 +1,5 @@
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\06.TextFiles\06.sortText\obj\Debug\06.sortText.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\06.TextFiles\06.sortText\bin\Debug\06.sortText.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\06.TextFiles\06.sortText\bin\Debug\06.sortText.pdb
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\06.TextFiles\06.sortText\obj\Debug\06.sortText.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\06.TextFiles\06.sortText\obj\Debug\06.sortText.pdb

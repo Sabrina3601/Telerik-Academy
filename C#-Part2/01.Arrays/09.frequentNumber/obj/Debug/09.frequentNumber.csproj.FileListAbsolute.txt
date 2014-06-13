@@ -1,0 +1,5 @@
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\01.Arrays\09.frequentNumber\bin\Debug\09.frequentNumber.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\01.Arrays\09.frequentNumber\bin\Debug\09.frequentNumber.pdb
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\01.Arrays\09.frequentNumber\obj\Debug\09.frequentNumber.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\01.Arrays\09.frequentNumber\obj\Debug\09.frequentNumber.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\01.Arrays\09.frequentNumber\obj\Debug\09.frequentNumber.pdb

@@ -1,8 +1,0 @@
-D:\Telerik\TelerikAcademy\Projects\Exam-CSharp\nighrmare\bin\Debug\nighrmare.exe.config
-D:\Telerik\TelerikAcademy\Projects\Exam-CSharp\nighrmare\bin\Debug\nighrmare.exe
-D:\Telerik\TelerikAcademy\Projects\Exam-CSharp\nighrmare\bin\Debug\nighrmare.pdb
-D:\Telerik\TelerikAcademy\Projects\Exam-CSharp\nighrmare\obj\Debug\nighrmare.exe
-D:\Telerik\TelerikAcademy\Projects\Exam-CSharp\nighrmare\obj\Debug\nighrmare.pdb
-D:\Telerik\TelerikAcademy\Projects\C#-Part 1\Exam-CSharp\nighrmare\bin\Debug\nighrmare.exe.config
-D:\Telerik\TelerikAcademy\Projects\C#-Part 1\Exam-CSharp\nighrmare\obj\Debug\nighrmare.exe
-D:\Telerik\TelerikAcademy\Projects\C#-Part 1\Exam-CSharp\nighrmare\obj\Debug\nighrmare.pdb

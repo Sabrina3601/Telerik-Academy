@@ -1,0 +1,5 @@
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\03.Methods\08.representNumber\obj\Debug\08.representNumber.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\03.Methods\08.representNumber\bin\Debug\08.representNumber.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\03.Methods\08.representNumber\bin\Debug\08.representNumber.pdb
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\03.Methods\08.representNumber\obj\Debug\08.representNumber.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\03.Methods\08.representNumber\obj\Debug\08.representNumber.pdb

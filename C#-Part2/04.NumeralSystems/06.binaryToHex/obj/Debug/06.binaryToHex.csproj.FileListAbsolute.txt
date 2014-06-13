@@ -1,0 +1,4 @@
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\04.NumeralSystems\06.binaryToHex\bin\Debug\06.binaryToHex.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\04.NumeralSystems\06.binaryToHex\bin\Debug\06.binaryToHex.pdb
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\04.NumeralSystems\06.binaryToHex\obj\Debug\06.binaryToHex.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\04.NumeralSystems\06.binaryToHex\obj\Debug\06.binaryToHex.pdb

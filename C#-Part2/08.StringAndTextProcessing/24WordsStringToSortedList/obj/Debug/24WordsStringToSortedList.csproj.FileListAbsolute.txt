@@ -1,0 +1,5 @@
+D:\MY FOLDER\MY SW STUDIES\COURSES\C# - Part 2\MY HOMEWORKS\C#2MYHW8\HW8StringsAndTextProcessing\24WordsStringToSortedList\bin\Debug\24WordsStringToSortedList.exe.config
+D:\MY FOLDER\MY SW STUDIES\COURSES\C# - Part 2\MY HOMEWORKS\C#2MYHW8\HW8StringsAndTextProcessing\24WordsStringToSortedList\bin\Debug\24WordsStringToSortedList.exe
+D:\MY FOLDER\MY SW STUDIES\COURSES\C# - Part 2\MY HOMEWORKS\C#2MYHW8\HW8StringsAndTextProcessing\24WordsStringToSortedList\bin\Debug\24WordsStringToSortedList.pdb
+D:\MY FOLDER\MY SW STUDIES\COURSES\C# - Part 2\MY HOMEWORKS\C#2MYHW8\HW8StringsAndTextProcessing\24WordsStringToSortedList\obj\Debug\24WordsStringToSortedList.exe
+D:\MY FOLDER\MY SW STUDIES\COURSES\C# - Part 2\MY HOMEWORKS\C#2MYHW8\HW8StringsAndTextProcessing\24WordsStringToSortedList\obj\Debug\24WordsStringToSortedList.pdb

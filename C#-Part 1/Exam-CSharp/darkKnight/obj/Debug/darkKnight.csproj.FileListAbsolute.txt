@@ -1,6 +1,0 @@
-D:\Telerik\TelerikAcademy\Projects\Exam-CSharp\darkKnight\bin\Debug\darkKnight.exe.config
-D:\Telerik\TelerikAcademy\Projects\Exam-CSharp\darkKnight\bin\Debug\darkKnight.exe
-D:\Telerik\TelerikAcademy\Projects\Exam-CSharp\darkKnight\bin\Debug\darkKnight.pdb
-D:\Telerik\TelerikAcademy\Projects\Exam-CSharp\darkKnight\obj\Debug\darkKnight.exe
-D:\Telerik\TelerikAcademy\Projects\Exam-CSharp\darkKnight\obj\Debug\darkKnight.pdb
-D:\Telerik\TelerikAcademy\Projects\Exam-CSharp\darkKnight\obj\Debug\darkKnight.csprojResolveAssemblyReference.cache

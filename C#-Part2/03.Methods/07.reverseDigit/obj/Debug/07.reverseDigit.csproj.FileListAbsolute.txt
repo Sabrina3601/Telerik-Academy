@@ -1,0 +1,5 @@
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\03.Methods\07.reverseDigit\obj\Debug\07.reverseDigit.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\03.Methods\07.reverseDigit\bin\Debug\07.reverseDigit.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\03.Methods\07.reverseDigit\bin\Debug\07.reverseDigit.pdb
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\03.Methods\07.reverseDigit\obj\Debug\07.reverseDigit.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\03.Methods\07.reverseDigit\obj\Debug\07.reverseDigit.pdb

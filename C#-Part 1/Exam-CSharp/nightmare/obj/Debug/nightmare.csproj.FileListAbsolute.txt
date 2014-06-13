@@ -1,6 +1,0 @@
-D:\Telerik\TelerikAcademy\Projects\C#-Part 1\Exam-CSharp\nightmare\bin\Debug\nightmare.exe.config
-D:\Telerik\TelerikAcademy\Projects\C#-Part 1\Exam-CSharp\nightmare\obj\Debug\nightmare.csprojResolveAssemblyReference.cache
-D:\Telerik\TelerikAcademy\Projects\C#-Part 1\Exam-CSharp\nightmare\bin\Debug\nightmare.exe
-D:\Telerik\TelerikAcademy\Projects\C#-Part 1\Exam-CSharp\nightmare\bin\Debug\nightmare.pdb
-D:\Telerik\TelerikAcademy\Projects\C#-Part 1\Exam-CSharp\nightmare\obj\Debug\nightmare.exe
-D:\Telerik\TelerikAcademy\Projects\C#-Part 1\Exam-CSharp\nightmare\obj\Debug\nightmare.pdb

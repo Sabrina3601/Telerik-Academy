@@ -1,0 +1,4 @@
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\05.UsingClassesAndObjects\04.triangleSurface\bin\Debug\04.triangleSurface.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\05.UsingClassesAndObjects\04.triangleSurface\bin\Debug\04.triangleSurface.pdb
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\05.UsingClassesAndObjects\04.triangleSurface\obj\Debug\04.triangleSurface.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\05.UsingClassesAndObjects\04.triangleSurface\obj\Debug\04.triangleSurface.pdb

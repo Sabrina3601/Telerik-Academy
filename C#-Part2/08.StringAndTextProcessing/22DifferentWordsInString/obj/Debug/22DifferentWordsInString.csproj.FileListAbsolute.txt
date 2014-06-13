@@ -1,0 +1,5 @@
+D:\MY FOLDER\MY SW STUDIES\COURSES\C# - Part 2\MY HOMEWORKS\C#2MYHW8\HW8StringsAndTextProcessing\22DifferentWordsInString\bin\Debug\22DifferentWordsInString.exe.config
+D:\MY FOLDER\MY SW STUDIES\COURSES\C# - Part 2\MY HOMEWORKS\C#2MYHW8\HW8StringsAndTextProcessing\22DifferentWordsInString\bin\Debug\22DifferentWordsInString.exe
+D:\MY FOLDER\MY SW STUDIES\COURSES\C# - Part 2\MY HOMEWORKS\C#2MYHW8\HW8StringsAndTextProcessing\22DifferentWordsInString\bin\Debug\22DifferentWordsInString.pdb
+D:\MY FOLDER\MY SW STUDIES\COURSES\C# - Part 2\MY HOMEWORKS\C#2MYHW8\HW8StringsAndTextProcessing\22DifferentWordsInString\obj\Debug\22DifferentWordsInString.exe
+D:\MY FOLDER\MY SW STUDIES\COURSES\C# - Part 2\MY HOMEWORKS\C#2MYHW8\HW8StringsAndTextProcessing\22DifferentWordsInString\obj\Debug\22DifferentWordsInString.pdb

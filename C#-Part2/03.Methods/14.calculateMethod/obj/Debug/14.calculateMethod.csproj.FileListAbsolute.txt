@@ -1,0 +1,5 @@
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\03.Methods\14.calculateMethod\obj\Debug\14.calculateMethod.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\03.Methods\14.calculateMethod\bin\Debug\14.calculateMethod.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\03.Methods\14.calculateMethod\bin\Debug\14.calculateMethod.pdb
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\03.Methods\14.calculateMethod\obj\Debug\14.calculateMethod.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\03.Methods\14.calculateMethod\obj\Debug\14.calculateMethod.pdb

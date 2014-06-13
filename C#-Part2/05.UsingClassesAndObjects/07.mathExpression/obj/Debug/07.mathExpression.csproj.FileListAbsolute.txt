@@ -1,0 +1,5 @@
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\05.UsingClassesAndObjects\07.mathExpression\obj\Debug\07.mathExpression.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\05.UsingClassesAndObjects\07.mathExpression\bin\Debug\07.mathExpression.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\05.UsingClassesAndObjects\07.mathExpression\bin\Debug\07.mathExpression.pdb
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\05.UsingClassesAndObjects\07.mathExpression\obj\Debug\07.mathExpression.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\05.UsingClassesAndObjects\07.mathExpression\obj\Debug\07.mathExpression.pdb

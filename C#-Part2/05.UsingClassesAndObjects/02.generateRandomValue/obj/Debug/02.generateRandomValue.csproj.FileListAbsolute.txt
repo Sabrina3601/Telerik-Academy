@@ -1,0 +1,4 @@
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\05.UsingClassesAndObjects\02.generateRandomValue\bin\Debug\02.generateRandomValue.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\05.UsingClassesAndObjects\02.generateRandomValue\bin\Debug\02.generateRandomValue.pdb
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\05.UsingClassesAndObjects\02.generateRandomValue\obj\Debug\02.generateRandomValue.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\05.UsingClassesAndObjects\02.generateRandomValue\obj\Debug\02.generateRandomValue.pdb

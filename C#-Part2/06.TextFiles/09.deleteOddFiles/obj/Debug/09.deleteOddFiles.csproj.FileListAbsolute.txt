@@ -1,0 +1,4 @@
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\06.TextFiles\09.deleteOddFiles\bin\Debug\09.deleteOddFiles.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\06.TextFiles\09.deleteOddFiles\bin\Debug\09.deleteOddFiles.pdb
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\06.TextFiles\09.deleteOddFiles\obj\Debug\09.deleteOddFiles.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\06.TextFiles\09.deleteOddFiles\obj\Debug\09.deleteOddFiles.pdb

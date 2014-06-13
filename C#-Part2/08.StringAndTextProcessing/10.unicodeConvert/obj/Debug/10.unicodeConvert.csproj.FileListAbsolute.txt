@@ -1,0 +1,4 @@
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\08.StringAndTextProcessing\10.unicodeConvert\bin\Debug\10.unicodeConvert.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\08.StringAndTextProcessing\10.unicodeConvert\bin\Debug\10.unicodeConvert.pdb
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\08.StringAndTextProcessing\10.unicodeConvert\obj\Debug\10.unicodeConvert.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\08.StringAndTextProcessing\10.unicodeConvert\obj\Debug\10.unicodeConvert.pdb

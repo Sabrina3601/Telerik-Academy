@@ -1,0 +1,4 @@
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\01.Arrays\03.compareChar\bin\Debug\03.compareChar.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\01.Arrays\03.compareChar\bin\Debug\03.compareChar.pdb
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\01.Arrays\03.compareChar\obj\Debug\03.compareChar.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\01.Arrays\03.compareChar\obj\Debug\03.compareChar.pdb

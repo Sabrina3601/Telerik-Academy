@@ -1,0 +1,5 @@
+D:\MY FOLDER\MY SW STUDIES\COURSES\C# - Part 2\MY HOMEWORKS\C#2MYHW8\HW8StringsAndTextProcessing\16TwoDatesDaysBetweenThem\bin\Debug\16TwoDatesDaysBetweenThem.exe.config
+D:\MY FOLDER\MY SW STUDIES\COURSES\C# - Part 2\MY HOMEWORKS\C#2MYHW8\HW8StringsAndTextProcessing\16TwoDatesDaysBetweenThem\bin\Debug\16TwoDatesDaysBetweenThem.exe
+D:\MY FOLDER\MY SW STUDIES\COURSES\C# - Part 2\MY HOMEWORKS\C#2MYHW8\HW8StringsAndTextProcessing\16TwoDatesDaysBetweenThem\bin\Debug\16TwoDatesDaysBetweenThem.pdb
+D:\MY FOLDER\MY SW STUDIES\COURSES\C# - Part 2\MY HOMEWORKS\C#2MYHW8\HW8StringsAndTextProcessing\16TwoDatesDaysBetweenThem\obj\Debug\16TwoDatesDaysBetweenThem.exe
+D:\MY FOLDER\MY SW STUDIES\COURSES\C# - Part 2\MY HOMEWORKS\C#2MYHW8\HW8StringsAndTextProcessing\16TwoDatesDaysBetweenThem\obj\Debug\16TwoDatesDaysBetweenThem.pdb

@@ -1,0 +1,4 @@
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\01.Arrays\10.sequenceOfSum\bin\Debug\10.sequenceOfSum.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\01.Arrays\10.sequenceOfSum\bin\Debug\10.sequenceOfSum.pdb
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\01.Arrays\10.sequenceOfSum\obj\Debug\10.sequenceOfSum.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\01.Arrays\10.sequenceOfSum\obj\Debug\10.sequenceOfSum.pdb

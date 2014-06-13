@@ -1,0 +1,4 @@
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\07.ExceptionHandling\02.checkingNumber\bin\Debug\02.checkingNumber.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\07.ExceptionHandling\02.checkingNumber\bin\Debug\02.checkingNumber.pdb
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\07.ExceptionHandling\02.checkingNumber\obj\Debug\02.checkingNumber.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\07.ExceptionHandling\02.checkingNumber\obj\Debug\02.checkingNumber.pdb

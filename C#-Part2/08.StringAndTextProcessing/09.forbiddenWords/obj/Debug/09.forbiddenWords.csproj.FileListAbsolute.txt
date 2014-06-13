@@ -1,0 +1,5 @@
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\08.StringAndTextProcessing\09.forbiddenWords\obj\Debug\09.forbiddenWords.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\08.StringAndTextProcessing\09.forbiddenWords\bin\Debug\09.forbiddenWords.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\08.StringAndTextProcessing\09.forbiddenWords\bin\Debug\09.forbiddenWords.pdb
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\08.StringAndTextProcessing\09.forbiddenWords\obj\Debug\09.forbiddenWords.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\08.StringAndTextProcessing\09.forbiddenWords\obj\Debug\09.forbiddenWords.pdb

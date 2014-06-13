@@ -1,0 +1,5 @@
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\01.Arrays\07.increasingOrder\bin\Debug\07.increasingOrder.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\01.Arrays\07.increasingOrder\bin\Debug\07.increasingOrder.pdb
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\01.Arrays\07.increasingOrder\obj\Debug\07.increasingOrder.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\01.Arrays\07.increasingOrder\obj\Debug\07.increasingOrder.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\01.Arrays\07.increasingOrder\obj\Debug\07.increasingOrder.pdb

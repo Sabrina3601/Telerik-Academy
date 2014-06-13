@@ -1,0 +1,6 @@
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\08.StringAndTextProcessing\11.printNumbers\bin\Debug\11.printNumbers.exe.config
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\08.StringAndTextProcessing\11.printNumbers\bin\Debug\11.printNumbers.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\08.StringAndTextProcessing\11.printNumbers\bin\Debug\11.printNumbers.pdb
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\08.StringAndTextProcessing\11.printNumbers\obj\Debug\11.printNumbers.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\08.StringAndTextProcessing\11.printNumbers\obj\Debug\11.printNumbers.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\08.StringAndTextProcessing\11.printNumbers\obj\Debug\11.printNumbers.pdb

@@ -1,0 +1,5 @@
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\02.MultidimensionalArrays\05.sortStringArray\bin\Debug\05.sortStringArray.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\02.MultidimensionalArrays\05.sortStringArray\bin\Debug\05.sortStringArray.pdb
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\02.MultidimensionalArrays\05.sortStringArray\obj\Debug\05.sortStringArray.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\02.MultidimensionalArrays\05.sortStringArray\obj\Debug\05.sortStringArray.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\02.MultidimensionalArrays\05.sortStringArray\obj\Debug\05.sortStringArray.pdb

@@ -1,1 +1,0 @@
-D:\Telerik\TelerikAcademy\Projects\C#-Part 1\Exam-CSharp\Poker\bin\Debug\Poker.exe.config

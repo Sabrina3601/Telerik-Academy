@@ -1,0 +1,5 @@
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\07.ExceptionHandling\4.downloadFile\bin\Debug\4.downloadFile.exe.config
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\07.ExceptionHandling\4.downloadFile\bin\Debug\4.downloadFile.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\07.ExceptionHandling\4.downloadFile\bin\Debug\4.downloadFile.pdb
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\07.ExceptionHandling\4.downloadFile\obj\Debug\4.downloadFile.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\07.ExceptionHandling\4.downloadFile\obj\Debug\4.downloadFile.pdb

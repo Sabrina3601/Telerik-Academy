@@ -1,0 +1,5 @@
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\04.NumeralSystems\05.hexToBinary\bin\Debug\05.hexToBinary.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\04.NumeralSystems\05.hexToBinary\bin\Debug\05.hexToBinary.pdb
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\04.NumeralSystems\05.hexToBinary\obj\Debug\05.hexToBinary.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\04.NumeralSystems\05.hexToBinary\obj\Debug\05.hexToBinary.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\04.NumeralSystems\05.hexToBinary\obj\Debug\05.hexToBinary.pdb

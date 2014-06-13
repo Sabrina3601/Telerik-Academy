@@ -1,0 +1,4 @@
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\03.Methods\15.modifyCalcMethod\bin\Debug\15.modifyCalcMethod.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\03.Methods\15.modifyCalcMethod\bin\Debug\15.modifyCalcMethod.pdb
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\03.Methods\15.modifyCalcMethod\obj\Debug\15.modifyCalcMethod.exe
+D:\Telerik\TelerikAcademy\Projects\C# - Part 2\Arrays\03.Methods\15.modifyCalcMethod\obj\Debug\15.modifyCalcMethod.pdb
