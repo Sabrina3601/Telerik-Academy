@@ -1,0 +1,33 @@
+body{
+	background-color:#a9a9a9;
+}
+#header{
+	text-align:center;
+}
+h1{
+	color:#fafad2;
+}
+li{
+	list-style:none;
+}
+nav li a{
+text-decoration:none;
+	color:white;
+}
+nav li:last-child{
+text-decoration:underline;
+	color:white;
+}
+nav li:nth-child(2) a{
+	background-color:#d3d3d3;
+}
+article footer{
+	font-size:14px;
+}
+article footer p a{
+	text-decoration:none;
+	color:black;
+}
+#footer{
+	text-align:center;
+}

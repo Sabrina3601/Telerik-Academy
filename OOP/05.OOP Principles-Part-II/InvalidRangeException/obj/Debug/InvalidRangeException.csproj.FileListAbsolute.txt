@@ -1,0 +1,6 @@
+D:\Telerik\TelerikAcademy\Projects\OOP\05.OOP Principles-Part-II\InvalidRangeException\bin\Debug\InvalidRangeException.exe.config
+D:\Telerik\TelerikAcademy\Projects\OOP\05.OOP Principles-Part-II\InvalidRangeException\bin\Debug\InvalidRangeException.exe
+D:\Telerik\TelerikAcademy\Projects\OOP\05.OOP Principles-Part-II\InvalidRangeException\bin\Debug\InvalidRangeException.pdb
+D:\Telerik\TelerikAcademy\Projects\OOP\05.OOP Principles-Part-II\InvalidRangeException\obj\Debug\InvalidRangeException.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\OOP\05.OOP Principles-Part-II\InvalidRangeException\obj\Debug\InvalidRangeException.exe
+D:\Telerik\TelerikAcademy\Projects\OOP\05.OOP Principles-Part-II\InvalidRangeException\obj\Debug\InvalidRangeException.pdb

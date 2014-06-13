@@ -1,0 +1,6 @@
+D:\Telerik\TelerikAcademy\Projects\HTML\02.HTML-Tables\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Telerik\TelerikAcademy\Projects\HTML\02.HTML-Tables\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Telerik\TelerikAcademy\Projects\HTML\02.HTML-Tables\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Telerik\TelerikAcademy\Projects\HTML\02.HTML-Tables\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\HTML\02.HTML-Tables\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Telerik\TelerikAcademy\Projects\HTML\02.HTML-Tables\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

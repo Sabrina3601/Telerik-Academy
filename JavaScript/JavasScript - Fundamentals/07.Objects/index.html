@@ -1,0 +1,416 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script>
+	function print(outputId,text)
+	{
+		var answer = document.getElementById(outputId);
+		answer.innerHTML = text;
+	}
+
+	// 1.Exercise
+	function getPoint(x,y) {
+		return { x: x, y: y };
+	}
+
+
+	function getLine(point1, point2){
+		return { pointA: point1, pointB: point2 };
+	}
+
+	function calculateDistance(point1, point2) {
+		return parseInt(Math.abs(point1.x - point2.x) * Math.abs(point1.x - point2.x)
+		+ Math.abs(point1.y - point2.y) * Math.abs(point1.y - point2.y));
+	}
+
+	function IsPossibleFormingATriangle(line1, line2, line3) {
+		var a = calculateDistance(line1.pointA, line1.pointB);
+		var b = calculateDistance(line2.pointA, line2.pointB);
+		var c = calculateDistance(line3.pointA, line3.pointB);
+		if (a + b > c && a + c > b && b + c > a) {
+			document.getElementById('triangle-answer').innerHTML = ("True");
+		} else {
+			document.getElementById('triangle-answer').innerHTML = ("False");
+		}
+	}
+
+	var p1 = getPoint(1, 2);
+	var p2 = getPoint(2, 2);
+	var p3 = getPoint(3, 1);
+
+	var l1 = getLine(p1, p2);
+	var l2 = getLine(p2, p3);
+	var l3 = getLine(p1, p3);
+
+	var n = calculateDistance(p3, p2);
+	//document.write(n);
+
+
+	IsPossibleFormingATriangle(l1, l2, l3);
+	function planner(){
+		document.getElementById('points').innerHTML = ("P1(1,2), P2(2,2), P3(3,1)");
+		document.getElementById('distance').innerHTML = ("Distance between two points is " + n);
+		document.getElementById('triangle').innerHTML = ("Can form a triangle (11 12 13) ");		
+		IsPossibleFormingATriangle(l1, l2, l3);
+	}
+		
+	//02. Exercise
+	 
+	
+	function RemoveEl(){
+		//jsConsole.clear();
+
+        Array.prototype.remove = function (element) {
+			var newArr = [];
+			for (var i in this) {
+				if (this[i] != element) {
+					newArr.push(this[i]);
+				}
+			}
+			return newArr;
+		}
+
+		var arr = [1, 2, 1, 4, 1, "1", 3, 4, 1, 111, 3, 2, 1, "1"];
+		var num = parseInt(document.getElementById("remove").value);
+		var finalArr = arr.remove(num);
+
+		document.getElementById("remove-answer").innerHTML = ("New array is: " + finalArr);
+		
+	}
+	
+	//03. Exercise
+	function copy(){
+	
+		var a = {
+			a: 5,
+			b: 6,
+			c: "f",
+		}
+
+		var b = Object.create(a);
+		//document.getElementById("check-answer").innerHTML = (b);
+		for (var i in b) {
+			document.write(b[i]);
+		}
+
+		//--------------USING OUR FUNCTION---------------//
+
+		function clone(obj) {
+			if (obj == null || "Object" != typeof obj) {
+				return obj;
+			}
+
+			if (obj instanceof Array) {
+				var copy = [];
+				for (var i = 0 ; i < obj.length ; i++) {
+					copy[i] = clone(obj[i]);
+				}
+				return copy;
+			}
+
+			if (obj instanceof Object) {
+				var copy = {};
+				for (var attr in obj) {
+					if (obj.hasOwnProperty(attr)) {
+						copy[attr] = clone(obj[attr]);
+					}
+				}
+				return copy;
+			}
+			throw new Error("Unable copy format!");
+		}
+		document.write("</br>");
+
+		var c = clone(a);
+		
+		for (var i in c) {
+			document.write(c[i]);
+		}
+
+	
+	}
+	
+	//04 Exercise
+	function containsEl(){
+	function hasProperty(obj, prpt) {
+		for (var i in obj) {
+			if (i == prpt) {
+				return true;
+			}
+		}
+		return false;
+	}
+
+	var test = {
+		aveEi: 5,
+		babaYaga: 7,
+		c: 9
+	}
+
+	var hasPropertyOf = hasProperty(test, "babaYaga");
+	document.getElementById("contains-answer").innerHTML = (hasPropertyOf);
+	}
+	
+	//05 Exercise
+	function youngest(){
+		
+		function findYoungest(arr) {
+			var youngestPersonPosition = 0;
+			var youngestPersonAge = 200;
+
+			for (var i in arr) {
+				if (arr[i].age < youngestPersonAge) {
+					youngestPersonAge = arr[i].age;
+					youngestPersonPosition = i;
+				}
+			}
+
+			document.getElementById("youngest-answer").innerHTML = (arr[youngestPersonPosition].firstname + "</br>" + arr[youngestPersonPosition].lastname + "</br>"
+			+ arr[youngestPersonPosition].age + "</br>");
+		}
+
+		var persons = [
+		{ firstname : "Gosho", lastname: "Petrov", age: 32}, 
+		{ firstname: "Bay", lastname: "Ivan", age: 81 },
+		{ firstname: "Zheko", lastname: "Junior", age: 1 }];
+
+		findYoungest(persons);
+	}
+	
+	//06 Exercise
+	function group(){
+	document.getElementById("group-answer").innerHTML = ("Check console log(F12)");
+		function group(arr, prpt) {
+
+		var groupedArr = [];
+
+		var finalArray = [];
+
+		if (prpt == "age") {
+
+			var reppeatlessElements = []; //array with reppeatless elements
+
+			for (var i = 0; i < arr.length; i++) {
+
+				var reppeat = false; //checks if the element reppeats
+
+				for (var j = 0; j < i; j++) {
+					if (arr[i].age == arr[j].age) {
+						reppeat = true;
+						break; //if element reppeats break the iteration
+					}
+				}
+
+				if (reppeat == false) { //if element does not reppeat push it to the reppeatless array
+					reppeatlessElements.push(arr[i]);
+				}
+			}
+
+			for (var i = 0; i < reppeatlessElements.length; i++) {
+				var tempArr = [];
+
+				for (var j = 0; j < arr.length; j++) {
+					if (reppeatlessElements[i].age == arr[j].age) {
+						tempArr.push(arr[j]);
+						//console.log(reppeatlessElements[i]);
+						//console.log(arr[i]);
+					}
+				}
+				groupedArr.push(tempArr);
+			}
+
+			for (var i = 0; i < groupedArr.length; i++) {
+				finalArray.push({ Key: groupedArr[i][0].age, Value: groupedArr[i] });
+			}
+
+		}
+		else // if prpt is "firstname"
+		{
+			var reppeatlessElements = []; //array with reppeatless elements
+
+			for (var i = 0; i < arr.length; i++) {
+
+				var reppeat = false; //checks if the element reppeats
+
+				for (var j = 0; j < i; j++) {
+					if (arr[i].firstname == arr[j].firstname) {
+						reppeat = true;
+						break; //if element reppeats break the iteration
+					}
+				}
+
+				if (reppeat == false) { //if element does not reppeat push it to the reppeatless array
+					reppeatlessElements.push(arr[i]);
+				}
+			}
+
+			for (var i = 0; i < reppeatlessElements.length; i++) {
+				var tempArr = [];
+
+				for (var j = 0; j < arr.length; j++) {
+					if (reppeatlessElements[i].firstname == arr[j].firstname) {
+						tempArr.push(arr[j]);
+					}
+				}
+				groupedArr.push(tempArr);
+			}
+
+			for (var i = 0; i < groupedArr.length; i++) {
+				finalArray.push({ Key: groupedArr[i][0].firstname, Value: groupedArr[i] });
+			}
+		}
+
+		return finalArray;
+	}
+	//----------------DEBUG---------------------//
+		var persons = [
+		{ firstname: "Gosho", lastname: "Petrov", age: 32 },
+		{ firstname: "Bay", lastname: "Ivan", age: 12 },
+		{ firstname: "Bay", lastname: "Ivan", age: 80 },
+		{ firstname: "Bay", lastname: "Ivan", age: 33 },
+		{ firstname: "sad", lastname: "dsadd", age: 32 },
+		{ firstname: "Gosdddddddddho", lastname: "Peaaatrov", age: 32 },
+		{ firstname: "Zheko", lastname: "Junior", age: 1 }];
+
+		console.log("grouprd by age");
+
+		var a = group(persons, "age");
+
+		for (var i in a) {
+			console.log(a[i]);
+		}
+
+		console.log("grouprd by firstname");
+
+		var b = group(persons, "firstname");
+
+		for (var i in b) {
+			console.log(b[i]);
+		}
+	}
+
+    </script>
+	<style>
+		.border {
+		width:200px;
+		min-height:321px;
+		margin-top:25px;
+		margin-left:50px;
+		padding:5px;
+		float:left;
+		border:1px black solid;
+	    }
+    .border button{
+        background-color:white;
+        border:1px solid black;
+        padding:4px;
+		}
+     .border button:hover{
+        background-color:#161616;
+        color:white;
+		}
+      .border input{
+        border:1px solid black;
+        height:24px;
+        background-color:black;
+        color:white;
+		margin-top:5px;
+		}
+      .border label {
+          display:block;
+        }
+       #clear {
+           background-color:black;
+           font-size:30px;
+		   cursor:default;
+        }
+       #clear h1{
+           font-size:30px;
+           width:200px;
+           text-align:center;
+           margin-top:100px;
+        }
+       #clear:hover{
+           background-color:#161616;
+           color:black;     
+        }
+        #clear h1  {
+           color:white;
+           text-decoration:none;
+           text-transform:uppercase;
+        }
+		button{
+			margin-top:5px;
+		}
+	</style>
+</head>
+<body>
+	<div class="float">
+		<!--01. Exercises-->
+		<div class="border">
+			<p>01.Write functions for working with shapes in  standard Planar coordinate system
+				Points are represented by coordinates P(X, Y)
+				Lines are represented by two points, marking their beginning and ending
+				L(P1(X1,Y1), P2(X2,Y2))
+				Calculate the distance between two points
+				Check if three segment lines can form a triangle
+			</p>
+			<button onclick="planner()">Check</button>
+			<p id="points"></p>
+			<div id="distance"></div>
+			<div id="triangle"></div>
+			<div id="triangle-answer"></div>
+		</div>
+		<!--02. Exercises-->
+		<div class="border">
+			<p>02.Write a function that removes all elements with a given value.
+			Array is:
+			1, 2, 1, 4, 1, "1", 3, 4, 1, 111, 3, 2, 1, "1"
+			</p>
+			<input type="text" name="number-english" id="remove" value="" />
+			<button onclick="RemoveEl()">Check</button>
+			<p id="remove-answer"></p>
+		</div>
+		
+		<!--03. Exercises-->
+		<div class="border">
+			<p>03.Write a function that makes a deep copy of an object. The function should work for both primitive and reference types.
+			</p>
+			<button onclick="copy()">Check</button>
+			<p id="check-answer"></p>
+		</div>
+		
+		<!--04. Exercises-->
+		<div class="border">
+			<p>04.Write a function that checks if a given object contains a given property.
+			</p>
+			<button onclick="containsEl()">Check</button>
+			<p id="contains-answer"></p>
+		</div>
+		
+		<!--05. Exercises-->
+		<div class="border">
+			<p>05.Write a function that finds the youngest person in a given array of persons and prints his/hers full name. 
+			Each person have properties firstname, lastname and age, as shown:
+			</p>
+			<button onclick="youngest()">Check</button>
+			<p id="youngest-answer"></p>
+		</div>
+		
+		<!--06. Exercises-->
+		<div class="border">
+			<p>06. Write a function that groups an array of persons by age, first or last name. 
+			The function must return an associative array, with keys - the groups, and values -arrays with persons in this groups. 
+			Use function overloading (i.e. just one function)
+			</p>
+			<button onclick="group()">Check</button>
+			<p id="group-answer"></p>
+		</div>
+		
+		<div id="clear" class="border" onClick="document.location.reload(true)">
+        <h1>Clear</h1>
+		
+
+	
+</body>
+</html>

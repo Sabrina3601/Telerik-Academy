@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en" xml:lang="en">
+<head>
+	<title>Drop Down</title>
+	<style>
+		body, ul,.nested, li{
+			padding:0px;
+			margin:0px;
+		}
+		
+		body{
+			color:gray;
+		}
+		
+		ul{
+			list-style:none;
+			width:200px;
+			margin:auto;
+		}
+		
+		li ul.nested{
+			margin-left:10px;
+			display:none;
+		}
+		
+		a{
+			color:gray;
+			text-decoration:none;
+		}
+		li:hover ul.nested {
+			display:block;
+			color:#b2b2b2;
+		}
+	</style>
+</head>
+<body>
+<nav>
+	<ul>
+		<li>
+			<a href="#" title="menu">List Item</a>
+			<ul class="nested">
+				<li>Sublist Item</li>
+				<li>Sublist Item</li>
+				<li>Sublist Item</li>
+				<li>Sublist Item</li>
+			</ul>
+		</li>
+		<li>
+			<a href="#" title="menu">List Item</a>
+			<ul class="nested">
+				<li>Sublist Item</li>
+				<li>Sublist Item</li>
+				<li>Sublist Item</li>
+				<li>Sublist Item</li>
+			</ul>
+		</li>
+		<li>
+			<a href="#" title="menu">List Item</a>
+			<ul class="nested">
+				<li>Sublist Item</li>
+				<li>Sublist Item</li>
+				<li>Sublist Item</li>
+				<li>Sublist Item</li>
+			</ul>
+		</li>
+		<li>
+			<a href="#" title="menu">List Item</a>
+			<ul class="nested">
+				<li>Sublist Item</li>
+				<li>Sublist Item</li>
+				<li>Sublist Item</li>
+				<li>Sublist Item</li>
+			</ul>
+		</li>
+	</ul>
+</nav>
+</body>
+</html>

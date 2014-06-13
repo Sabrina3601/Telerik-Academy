@@ -1,0 +1,6 @@
+D:\Telerik\TelerikAcademy\Projects\OOP\03.ExtensionMethodDelegatesLambdaLINQ\18.GroupName\bin\Debug\18.GroupName.exe.config
+D:\Telerik\TelerikAcademy\Projects\OOP\03.ExtensionMethodDelegatesLambdaLINQ\18.GroupName\bin\Debug\18.GroupName.exe
+D:\Telerik\TelerikAcademy\Projects\OOP\03.ExtensionMethodDelegatesLambdaLINQ\18.GroupName\bin\Debug\18.GroupName.pdb
+D:\Telerik\TelerikAcademy\Projects\OOP\03.ExtensionMethodDelegatesLambdaLINQ\18.GroupName\obj\Debug\18.GroupName.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\OOP\03.ExtensionMethodDelegatesLambdaLINQ\18.GroupName\obj\Debug\18.GroupName.exe
+D:\Telerik\TelerikAcademy\Projects\OOP\03.ExtensionMethodDelegatesLambdaLINQ\18.GroupName\obj\Debug\18.GroupName.pdb

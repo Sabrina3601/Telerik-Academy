@@ -1,0 +1,51 @@
+﻿		body {
+		text-align:left;
+		font: normal 14px sans-serif;
+		}
+		table {
+		width:580px;
+		border-spacing:0px;
+		border:1px solid #c2c0a4;
+		}
+		th, td {
+		height:30px;
+		padding-left:5px;
+		border-left: 1px solid #c2c0a4;
+		}
+		th {
+		font-weight:normal;
+		background-image: url("images/green-gradient.png");
+		color:white;
+		border-left: 1px solid #018f27;
+		border-right: 1px solid #4ee001; 
+
+		}
+		td:first-child, th:first-child{
+		border-left:none;
+		}
+		th:last-child{
+		border-right:none;
+		}
+		.th-contactname {
+		width:35%;
+		}
+		.th-city , .th-country{
+		width:25%;
+		}
+		.flag-germany, .flag-mexico, .flag-uk {
+		background-position: 5px center;
+		background-repeat: no-repeat;
+		padding-left: 35px;
+		}
+		.flag-germany {
+		background-image: url("images/germany.gif");
+		}
+		.flag-mexico {
+		background-image: url("images/mexico.gif");
+		}
+		.flag-uk {
+		background-image: url("images/united-kingdom.gif");
+		}
+		tr.gray-grid {
+		background-color:#FFF0C0;
+		}

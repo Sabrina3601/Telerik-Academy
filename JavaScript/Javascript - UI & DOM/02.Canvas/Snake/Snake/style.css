@@ -1,0 +1,26 @@
+﻿body{
+    background-color:#000;
+}
+button{
+    background-color:#fff;
+    border:none;
+    width:100px;
+    height:40px;
+    display:block;
+}
+button:hover{
+    background-color:yellowgreen;
+}
+canvas{
+    border:1px solid #000;
+    background-color:#fff;
+}
+#score{
+    display:inline-block;
+    color:#fff;
+    font-size:20px;
+}
+#wrapper{
+    width:550px;
+    margin:0 auto;
+}

@@ -1,0 +1,19 @@
+﻿button ,input{
+    background-color:#000;
+    border:none;
+    color:#fff;
+    height:30px;
+}
+button:hover{
+    background-color:#242424;
+}
+div{
+    width:200px;
+    margin:0 auto;
+    margin-top:100px;
+}
+#answer{
+    text-align:center;
+}
+
+

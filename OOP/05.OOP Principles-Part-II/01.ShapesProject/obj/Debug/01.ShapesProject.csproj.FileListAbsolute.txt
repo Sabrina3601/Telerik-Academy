@@ -1,0 +1,6 @@
+D:\Telerik\TelerikAcademy\Projects\OOP\05.OOP Principles-Part-II\01.ShapesProject\bin\Debug\01.ShapesProject.exe.config
+D:\Telerik\TelerikAcademy\Projects\OOP\05.OOP Principles-Part-II\01.ShapesProject\obj\Debug\01.ShapesProject.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\OOP\05.OOP Principles-Part-II\01.ShapesProject\bin\Debug\01.ShapesProject.exe
+D:\Telerik\TelerikAcademy\Projects\OOP\05.OOP Principles-Part-II\01.ShapesProject\bin\Debug\01.ShapesProject.pdb
+D:\Telerik\TelerikAcademy\Projects\OOP\05.OOP Principles-Part-II\01.ShapesProject\obj\Debug\01.ShapesProject.exe
+D:\Telerik\TelerikAcademy\Projects\OOP\05.OOP Principles-Part-II\01.ShapesProject\obj\Debug\01.ShapesProject.pdb

@@ -1,0 +1,6 @@
+D:\Telerik\TelerikAcademy\Projects\OOP\05.OOP Principles-Part-II\02.BankSystem\bin\Debug\02.BankSystem.exe.config
+D:\Telerik\TelerikAcademy\Projects\OOP\05.OOP Principles-Part-II\02.BankSystem\obj\Debug\02.BankSystem.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\OOP\05.OOP Principles-Part-II\02.BankSystem\bin\Debug\02.BankSystem.exe
+D:\Telerik\TelerikAcademy\Projects\OOP\05.OOP Principles-Part-II\02.BankSystem\bin\Debug\02.BankSystem.pdb
+D:\Telerik\TelerikAcademy\Projects\OOP\05.OOP Principles-Part-II\02.BankSystem\obj\Debug\02.BankSystem.exe
+D:\Telerik\TelerikAcademy\Projects\OOP\05.OOP Principles-Part-II\02.BankSystem\obj\Debug\02.BankSystem.pdb

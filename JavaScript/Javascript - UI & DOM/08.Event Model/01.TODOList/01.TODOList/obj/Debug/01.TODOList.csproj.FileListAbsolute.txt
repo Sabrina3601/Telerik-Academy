@@ -1,0 +1,5 @@
+D:\Telerik\TelerikAcademy\Projects\JavaScript\Javascript - UI & DOM\08.Event Model\01.TODOList\01.TODOList\bin\01.TODOList.dll
+D:\Telerik\TelerikAcademy\Projects\JavaScript\Javascript - UI & DOM\08.Event Model\01.TODOList\01.TODOList\bin\01.TODOList.pdb
+D:\Telerik\TelerikAcademy\Projects\JavaScript\Javascript - UI & DOM\08.Event Model\01.TODOList\01.TODOList\obj\Debug\01.TODOList.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\JavaScript\Javascript - UI & DOM\08.Event Model\01.TODOList\01.TODOList\obj\Debug\01.TODOList.dll
+D:\Telerik\TelerikAcademy\Projects\JavaScript\Javascript - UI & DOM\08.Event Model\01.TODOList\01.TODOList\obj\Debug\01.TODOList.pdb

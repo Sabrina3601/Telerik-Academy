@@ -1,0 +1,5 @@
+D:\Telerik\TelerikAcademy\Projects\OOP\06.CommonTypeSystem\04.Person\bin\Debug\04.Person.exe.config
+D:\Telerik\TelerikAcademy\Projects\OOP\06.CommonTypeSystem\04.Person\bin\Debug\04.Person.exe
+D:\Telerik\TelerikAcademy\Projects\OOP\06.CommonTypeSystem\04.Person\bin\Debug\04.Person.pdb
+D:\Telerik\TelerikAcademy\Projects\OOP\06.CommonTypeSystem\04.Person\obj\Debug\04.Person.exe
+D:\Telerik\TelerikAcademy\Projects\OOP\06.CommonTypeSystem\04.Person\obj\Debug\04.Person.pdb

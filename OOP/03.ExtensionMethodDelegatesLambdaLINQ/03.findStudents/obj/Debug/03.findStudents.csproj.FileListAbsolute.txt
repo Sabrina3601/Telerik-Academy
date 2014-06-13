@@ -1,0 +1,5 @@
+D:\Telerik\TelerikAcademy\Projects\OOP\03.ExtensionMethodDelegatesLambdaLINQ\03.findStudents\bin\Debug\03.findStudents.exe.config
+D:\Telerik\TelerikAcademy\Projects\OOP\03.ExtensionMethodDelegatesLambdaLINQ\03.findStudents\bin\Debug\03.findStudents.exe
+D:\Telerik\TelerikAcademy\Projects\OOP\03.ExtensionMethodDelegatesLambdaLINQ\03.findStudents\bin\Debug\03.findStudents.pdb
+D:\Telerik\TelerikAcademy\Projects\OOP\03.ExtensionMethodDelegatesLambdaLINQ\03.findStudents\obj\Debug\03.findStudents.exe
+D:\Telerik\TelerikAcademy\Projects\OOP\03.ExtensionMethodDelegatesLambdaLINQ\03.findStudents\obj\Debug\03.findStudents.pdb

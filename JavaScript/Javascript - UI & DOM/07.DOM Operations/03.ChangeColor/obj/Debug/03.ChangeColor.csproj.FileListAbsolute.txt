@@ -1,0 +1,5 @@
+D:\Telerik\TelerikAcademy\Projects\JavaScript\Javascript - UI & DOM\07.DOM Operations\03.ChangeColor\bin\03.ChangeColor.dll
+D:\Telerik\TelerikAcademy\Projects\JavaScript\Javascript - UI & DOM\07.DOM Operations\03.ChangeColor\bin\03.ChangeColor.pdb
+D:\Telerik\TelerikAcademy\Projects\JavaScript\Javascript - UI & DOM\07.DOM Operations\03.ChangeColor\obj\Debug\03.ChangeColor.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\JavaScript\Javascript - UI & DOM\07.DOM Operations\03.ChangeColor\obj\Debug\03.ChangeColor.dll
+D:\Telerik\TelerikAcademy\Projects\JavaScript\Javascript - UI & DOM\07.DOM Operations\03.ChangeColor\obj\Debug\03.ChangeColor.pdb

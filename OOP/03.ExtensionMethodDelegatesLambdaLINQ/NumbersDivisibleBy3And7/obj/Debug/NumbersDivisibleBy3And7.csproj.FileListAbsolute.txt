@@ -1,0 +1,1 @@
+D:\Telerik\TelerikAcademy\Projects\OOP\03.ExtensionMethodDelegatesLambdaLINQ\NumbersDivisibleBy3And7\bin\Debug\NumbersDivisibleBy3And7.exe.config

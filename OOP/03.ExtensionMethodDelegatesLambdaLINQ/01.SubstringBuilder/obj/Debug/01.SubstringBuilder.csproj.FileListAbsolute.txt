@@ -1,0 +1,6 @@
+D:\Telerik\TelerikAcademy\Projects\OOP\03.ExtensionMethodDelegatesLambdaLINQ\01.SubstringBuilder\bin\Debug\01.SubstringBuilder.exe.config
+D:\Telerik\TelerikAcademy\Projects\OOP\03.ExtensionMethodDelegatesLambdaLINQ\01.SubstringBuilder\obj\Debug\01.SubstringBuilder.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\OOP\03.ExtensionMethodDelegatesLambdaLINQ\01.SubstringBuilder\bin\Debug\01.SubstringBuilder.exe
+D:\Telerik\TelerikAcademy\Projects\OOP\03.ExtensionMethodDelegatesLambdaLINQ\01.SubstringBuilder\bin\Debug\01.SubstringBuilder.pdb
+D:\Telerik\TelerikAcademy\Projects\OOP\03.ExtensionMethodDelegatesLambdaLINQ\01.SubstringBuilder\obj\Debug\01.SubstringBuilder.exe
+D:\Telerik\TelerikAcademy\Projects\OOP\03.ExtensionMethodDelegatesLambdaLINQ\01.SubstringBuilder\obj\Debug\01.SubstringBuilder.pdb

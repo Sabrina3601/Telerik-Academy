@@ -1,0 +1,77 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+
+    <script>
+        function solve(params) {
+            var inputRow = parseInt(params[0]);
+            var modelProp = [];
+            for (var i = 1; i <= inputRow; i++) {
+                modelProp = params[i].trim().split(":");
+                console.log(modelProp);
+                
+            }
+            console.log(modelProp[0]);
+            console.log(modelProp[1]);
+
+            var result = [];
+            var inModel = false;
+            for (var i = inputRow + 3; i < params[inputRow + 1]; i++) {
+                var currentRow = params[i];
+                var rowResult = "";
+                var modelCheck = "";
+                for (var j = 0; j < currentRow.length; j++) {
+                    
+                    if (params[i] == "@") {
+                        inModel = true;
+                        continue;
+                    }
+
+                    if (inModel == true) {
+                        modelCheck += currentRow[i];
+                        continue;
+                    }
+                    if (params[i] == "<" && inModel == true) {
+                        inModel = false;
+                        for (var i = 0; i < modelProp.length; i++) {
+                            if (modelCheck == modelProp[0]) {
+                                rowResul += modelProp[1];
+                            }
+                        }
+                    }
+                    rowResult += currentRow[i];
+                    result.push(rowResult);
+                }
+                return result;
+                
+               
+            }
+        }
+
+        function check() {
+            var input = [];
+            input[0] = "6";
+            input[1] = "title:Telerik Academy";
+            input[2] = "showSubtitle:true";
+            input[3] = "subTitle:Free training";
+            input[4] = "showMarks:false";
+            input[5] = "marks:3,4,5,6";
+            input[6] = "students:Pesho,Gosho,Ivan";
+            input[7] = "42";
+            input[8] = "<div>";
+            input[9] ='     <span>@title</span>';
+            input[10] ='    <span>';
+            input[11] ='         @subtitle';
+            input[12] = '   </span>';
+            input[13] = "</div>";
+
+
+            console.log(solve(input));
+        }
+    </script>
+</head>
+<body onload ="check()">
+
+</body>
+</html>

@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en" xml:lang="en">
+<head>
+<title>Calculator</title>
+<link type="text/css" rel="stylesheet" href="calculator.css">
+</head>
+
+<body>
+	<div class="warp">
+		<div class="calculator">
+		<p class="calculator-icon">Calculator</p>
+		</div>
+		<div id="titlebar">
+			<ul id="navtitle">
+				<li><a class="mini" href="#"></a></li>
+				<li><a class="size" href="#"></a></li>
+				<li><a class="close" href="#"></a></li>
+			</ul>
+		</div>
+	  <div class="warp-calculator">
+		<div class="menu">
+			<ul id="nav">
+				<li><a href="#"><span class="line">V</span>iew</a></li>
+				<li><a href="#"><span class="line">E</span>dit</a></li>
+				<li><a href="#"><span class="line">H</span>elp</a></li>
+			</ul>
+		</div>
+			<div class="screen">
+				<p class="numbers">8854455</p>
+			</div>
+			<table id="binary">
+				<tbody>
+					<tr>
+						<td>00 00</td>
+						<td>00 00</td>
+						<td>00 00</td>
+						<td>00 00</td>
+						<td>00 00</td>
+						<td>00 00</td>
+						<td>00 00</td>
+						<td>00 00</td>
+					</tr>
+					<tr class="gray">
+						<td colspan="4">63</td>
+						<td colspan="3">47</td>
+						<td class="right">32</td>
+					</tr>
+					<tr>
+						<td>00 00</td>
+						<td>00 00</td>
+						<td>10 00</td>
+						<td>01 11</td>
+						<td>00 01</td>
+						<td>10 11</td>
+						<td>10 11</td>
+						<td>01 11</td>
+					</tr>
+					<tr class="gray">
+						<td colspan="4">31</td>
+						<td colspan="3">15</td>
+						<td class="right">0</td>
+					</tr>
+				</tbody>
+			</table>
+			<table id="buttons">
+				<tbody>
+					<tr>
+						<td class="radio" colspan="2" rowspan="3">
+							<p><input id="hex-radio" type="radio" name="hex-radio" value="radio"><label for="hex-radio">Hex</label></p>
+							<p><input id="dec-radio" value="radio" checked="checked" type="radio"/><label for="dec-radio">Dec</label></p>
+							<p><input id="oct-radio" value="radio" type="radio"/><label for="oct-radio">Oct</label></p>
+							<p><input id="bin-radio" value="radio" type="radio"/><label for="hex-radio">Bin</label></p>
+						</td>
+						<td><input class="button-invisible" value=" " type="button"/></td>
+						<td><input class="button" value="Mod" type="button"/></td>
+						<td><input class="button-invisible" value="A" type="button"/></td>
+						<td><input class="button-invisible-1" value="MC" type="button"/></td>
+						<td><input class="button-invisible-1" value="MR" type="button"/></td>
+						<td><input class="button-invisible-1" value="MS" type="button"/></td>
+						<td><input class="button-invisible-1" value="M+" type="button"/></td>
+						<td><input class="button-invisible-1" value="M-" type="button"/></td>
+					</tr>
+					<tr>
+						<td><input class="button" value="(" type="button"/></td>
+						<td><input class="button" value=")" type="button"/></td>
+						<td><input class="button-invisible" value="B" type="button"/></td>
+						<td><input class="button" value="&larr;" type="button"/></td>
+						<td><input class="button" value="CE" type="button"/></td>
+						<td><input class="button" value="C" type="button"/></td>
+						<td><input class="button" value="&plusmn;" type="button"/></td>
+						<td><input class="button" value="&radic;" type="button"/></td>
+					</tr>
+					<tr>
+						<td><input class="button" value="RoL" type="button"/></td>
+						<td><input class="button" value="RoR" type="button"/></td>
+						<td><input class="button-invisible" value="C" type="button"/></td>
+						<td><input class="button-num" value="7" type="button"/></td>
+						<td><input class="button-num" value="8" type="button"/></td>
+						<td><input class="button-num" value="9" type="button"/></td>
+						<td><input class="button" value="/" type="button"/></td>
+						<td><input class="button" value="%" type="button"/></td>
+					</tr>
+					<tr>
+						<td class="radio" colspan="2" rowspan="3">
+							<p><input id="qword-radio" type="radio" value="radio" /><label for="qword-radio">Qword</label></p>
+							<p><input id="dword-radio" value="radio" checked="checked" type="radio"/><label for="dword-radio">Dword</label></p>
+							<p><input id="word-radio" value="radio" type="radio"/><label for="word-radio">Word</label></p>
+							<p><input id="byte-radio" value="radio" type="radio"/><label for="byte-radio">Byte</label></p>
+						</td>
+						<td><input class="button" value="Or" type="button"/></td>
+						<td><input class="button" value="Xor" type="button"/></td>
+						<td><input class="button-invisible" value="D" type="button"/></td>
+						<td><input class="button-num" value="4" type="button"/></td>
+						<td><input class="button-num" value="5" type="button"/></td>
+						<td><input class="button-num" value="6" type="button"/></td>
+						<td><input class="button" value="*" type="button"/></td>
+						<td><input class="button" value="1/x" type="button"/></td>
+					</tr>
+					<tr>
+						<td><input class="button" value="Lsh" type="button"/></td>
+						<td><input class="button" value="Rsh" type="button"/></td>
+						<td><input class="button-invisible" value="E" type="button"/></td>
+						<td><input class="button-num" value="1" type="button"/></td>
+						<td><input class="button-num" value="2" type="button"/></td>
+						<td><input class="button-num" value="3" type="button"/></td>
+						<td><input class="button" value="-" type="button"/></td>
+						<td rowspan="2"><input class="button-equal" value="=" type="button"/></td>
+					</tr>
+					<tr>
+						<td><input class="button" value="Not" type="button"/></td>
+						<td><input class="button" value="And" type="button"/></td>
+						<td><input class="button-invisible" value="F" type="button"/></td>
+						<td colspan="2"><input class="button-num zero" value="0" type="button"/></td>
+						<td><input class="button-invisible" value="." type="button"/></td>
+						<td><input class="button" value="+" type="button"/></td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+	</div>
+</body>
+</html>

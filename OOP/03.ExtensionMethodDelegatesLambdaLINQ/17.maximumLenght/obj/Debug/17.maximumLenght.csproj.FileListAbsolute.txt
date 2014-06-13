@@ -1,0 +1,5 @@
+D:\Telerik\TelerikAcademy\Projects\OOP\03.ExtensionMethodDelegatesLambdaLINQ\17.maximumLenght\bin\Debug\17.maximumLenght.exe.config
+D:\Telerik\TelerikAcademy\Projects\OOP\03.ExtensionMethodDelegatesLambdaLINQ\17.maximumLenght\bin\Debug\17.maximumLenght.exe
+D:\Telerik\TelerikAcademy\Projects\OOP\03.ExtensionMethodDelegatesLambdaLINQ\17.maximumLenght\bin\Debug\17.maximumLenght.pdb
+D:\Telerik\TelerikAcademy\Projects\OOP\03.ExtensionMethodDelegatesLambdaLINQ\17.maximumLenght\obj\Debug\17.maximumLenght.exe
+D:\Telerik\TelerikAcademy\Projects\OOP\03.ExtensionMethodDelegatesLambdaLINQ\17.maximumLenght\obj\Debug\17.maximumLenght.pdb

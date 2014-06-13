@@ -1,0 +1,8 @@
+D:\Telerik\TelerikAcademy\Projects\CSS\02.Gallery\02.Gallery\bin\02.Gallery.dll
+D:\Telerik\TelerikAcademy\Projects\CSS\02.Gallery\02.Gallery\bin\02.Gallery.pdb
+D:\Telerik\TelerikAcademy\Projects\CSS\02.Gallery\02.Gallery\obj\Debug\02.Gallery.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\CSS\02.Gallery\02.Gallery\obj\Debug\02.Gallery.dll
+D:\Telerik\TelerikAcademy\Projects\CSS\02.Gallery\02.Gallery\obj\Debug\02.Gallery.pdb
+D:\Telerik\TelerikAcademy\Projects\CSS\02.Gallery\02.Gallery\bin\style.css
+D:\Telerik\TelerikAcademy\Projects\CSS\02.Gallery\02.Gallery\bin\style.min.css
+D:\Telerik\TelerikAcademy\Projects\CSS\02.Gallery\02.Gallery\bin\style.less

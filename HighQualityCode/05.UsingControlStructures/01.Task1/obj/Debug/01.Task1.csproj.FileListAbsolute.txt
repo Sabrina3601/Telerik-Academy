@@ -1,0 +1,2 @@
+D:\Telerik\TelerikAcademy\Projects\HighQualityCode\05.UsingControlStructures\01.Task1\bin\Debug\01.Task1.exe.config
+D:\Telerik\TelerikAcademy\Projects\HighQualityCode\05.UsingControlStructures\01.Task1\obj\Debug\01.Task1.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\Telerik\TelerikAcademy\Projects\OOP\03.ExtensionMethodDelegatesLambdaLINQ\09.StudentProject\bin\Debug\09.StudentProject.exe.config
+D:\Telerik\TelerikAcademy\Projects\OOP\03.ExtensionMethodDelegatesLambdaLINQ\09.StudentProject\obj\Debug\09.StudentProject.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\OOP\03.ExtensionMethodDelegatesLambdaLINQ\09.StudentProject\bin\Debug\09.StudentProject.exe
+D:\Telerik\TelerikAcademy\Projects\OOP\03.ExtensionMethodDelegatesLambdaLINQ\09.StudentProject\bin\Debug\09.StudentProject.pdb
+D:\Telerik\TelerikAcademy\Projects\OOP\03.ExtensionMethodDelegatesLambdaLINQ\09.StudentProject\obj\Debug\09.StudentProject.exe
+D:\Telerik\TelerikAcademy\Projects\OOP\03.ExtensionMethodDelegatesLambdaLINQ\09.StudentProject\obj\Debug\09.StudentProject.pdb

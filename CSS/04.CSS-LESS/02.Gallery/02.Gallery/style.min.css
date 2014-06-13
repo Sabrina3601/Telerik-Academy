@@ -1,0 +1,1 @@
+body ul{position:relative;width:500px;margin:auto}﻿body ul li{list-style-type:none;display:inline-block;margin-left:5px;width:100px}﻿body ul li img{width:100px;height:100px;border:1px solid #000}﻿body ul li img:hover{opacity:.5}﻿body ul li img.big1{display:none}﻿body ul li .dog1:hover .big1{display:block;width:500px;height:500px;position:absolute;top:120px;left:10px}

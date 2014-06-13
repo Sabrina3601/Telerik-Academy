@@ -1,0 +1,33 @@
+﻿ body {
+    background-color:#000;
+    color:#fff;
+}
+#wrapper {
+    margin: auto;
+    display:table;
+}
+button{
+    background-color:#fff;
+    color:#000;
+    border:none;
+    width:100px;
+    height:40px;
+}
+button:hover{
+    background-color:yellowgreen;
+}
+ul#list{
+    padding-left:0px;
+}
+li {
+    margin-left:0px;
+    list-style-type: none;
+    border:none;
+    background-color:yellowgreen;
+    margin-bottom:2px;
+}
+#text_value{
+    width:198px;
+    height:35px;
+}
+        

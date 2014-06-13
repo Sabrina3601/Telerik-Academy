@@ -1,0 +1,5 @@
+D:\Telerik\TelerikAcademy\Projects\JavaScript\Javascript - UI & DOM\01.Document Object Model\DIVs\03.colorPicker\bin\03.colorPicker.dll
+D:\Telerik\TelerikAcademy\Projects\JavaScript\Javascript - UI & DOM\01.Document Object Model\DIVs\03.colorPicker\bin\03.colorPicker.pdb
+D:\Telerik\TelerikAcademy\Projects\JavaScript\Javascript - UI & DOM\01.Document Object Model\DIVs\03.colorPicker\obj\Debug\03.colorPicker.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\JavaScript\Javascript - UI & DOM\01.Document Object Model\DIVs\03.colorPicker\obj\Debug\03.colorPicker.dll
+D:\Telerik\TelerikAcademy\Projects\JavaScript\Javascript - UI & DOM\01.Document Object Model\DIVs\03.colorPicker\obj\Debug\03.colorPicker.pdb

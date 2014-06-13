@@ -1,0 +1,5 @@
+D:\Telerik\TelerikAcademy\Projects\OOP\Bomberman\MyBobmerman\Operators-Expressions\Operators-Expressions\bin\Operators-Expressions.dll
+D:\Telerik\TelerikAcademy\Projects\OOP\Bomberman\MyBobmerman\Operators-Expressions\Operators-Expressions\bin\Operators-Expressions.pdb
+D:\Telerik\TelerikAcademy\Projects\OOP\Bomberman\MyBobmerman\Operators-Expressions\Operators-Expressions\obj\Debug\Operators-Expressions.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\OOP\Bomberman\MyBobmerman\Operators-Expressions\Operators-Expressions\obj\Debug\Operators-Expressions.dll
+D:\Telerik\TelerikAcademy\Projects\OOP\Bomberman\MyBobmerman\Operators-Expressions\Operators-Expressions\obj\Debug\Operators-Expressions.pdb

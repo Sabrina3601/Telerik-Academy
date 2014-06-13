@@ -1,0 +1,5 @@
+D:\Telerik\TelerikAcademy\Projects\OOP\03.ExtensionMethodDelegatesLambdaLINQ\02.ExtensionIEnumerable\bin\Debug\02.ExtensionIEnumerable.exe.config
+D:\Telerik\TelerikAcademy\Projects\OOP\03.ExtensionMethodDelegatesLambdaLINQ\02.ExtensionIEnumerable\bin\Debug\02.ExtensionIEnumerable.exe
+D:\Telerik\TelerikAcademy\Projects\OOP\03.ExtensionMethodDelegatesLambdaLINQ\02.ExtensionIEnumerable\bin\Debug\02.ExtensionIEnumerable.pdb
+D:\Telerik\TelerikAcademy\Projects\OOP\03.ExtensionMethodDelegatesLambdaLINQ\02.ExtensionIEnumerable\obj\Debug\02.ExtensionIEnumerable.exe
+D:\Telerik\TelerikAcademy\Projects\OOP\03.ExtensionMethodDelegatesLambdaLINQ\02.ExtensionIEnumerable\obj\Debug\02.ExtensionIEnumerable.pdb

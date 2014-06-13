@@ -1,0 +1,6 @@
+D:\Telerik\TelerikAcademy\Projects\OOP\03.ExtensionMethodDelegatesLambdaLINQ\07.TimerMethod\bin\Debug\07.TimerMethod.exe.config
+D:\Telerik\TelerikAcademy\Projects\OOP\03.ExtensionMethodDelegatesLambdaLINQ\07.TimerMethod\bin\Debug\07.TimerMethod.exe
+D:\Telerik\TelerikAcademy\Projects\OOP\03.ExtensionMethodDelegatesLambdaLINQ\07.TimerMethod\bin\Debug\07.TimerMethod.pdb
+D:\Telerik\TelerikAcademy\Projects\OOP\03.ExtensionMethodDelegatesLambdaLINQ\07.TimerMethod\obj\Debug\07.TimerMethod.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\OOP\03.ExtensionMethodDelegatesLambdaLINQ\07.TimerMethod\obj\Debug\07.TimerMethod.exe
+D:\Telerik\TelerikAcademy\Projects\OOP\03.ExtensionMethodDelegatesLambdaLINQ\07.TimerMethod\obj\Debug\07.TimerMethod.pdb

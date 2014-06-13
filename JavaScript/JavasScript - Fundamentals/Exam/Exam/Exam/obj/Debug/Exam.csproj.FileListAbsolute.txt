@@ -1,0 +1,5 @@
+D:\Telerik\TelerikAcademy\Projects\JavaScript\JavasScript - Fundamentals\Exam\Exam\Exam\bin\Exam.dll
+D:\Telerik\TelerikAcademy\Projects\JavaScript\JavasScript - Fundamentals\Exam\Exam\Exam\bin\Exam.pdb
+D:\Telerik\TelerikAcademy\Projects\JavaScript\JavasScript - Fundamentals\Exam\Exam\Exam\obj\Debug\Exam.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\JavaScript\JavasScript - Fundamentals\Exam\Exam\Exam\obj\Debug\Exam.dll
+D:\Telerik\TelerikAcademy\Projects\JavaScript\JavasScript - Fundamentals\Exam\Exam\Exam\obj\Debug\Exam.pdb

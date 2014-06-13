@@ -1,0 +1,5 @@
+D:\Telerik\TelerikAcademy\Projects\OOP\03.ExtensionMethodDelegatesLambdaLINQ\05.FindStudentLambdaExpression\bin\Debug\05.FindStudentLambdaExpression.exe.config
+D:\Telerik\TelerikAcademy\Projects\OOP\03.ExtensionMethodDelegatesLambdaLINQ\05.FindStudentLambdaExpression\bin\Debug\05.FindStudentLambdaExpression.exe
+D:\Telerik\TelerikAcademy\Projects\OOP\03.ExtensionMethodDelegatesLambdaLINQ\05.FindStudentLambdaExpression\bin\Debug\05.FindStudentLambdaExpression.pdb
+D:\Telerik\TelerikAcademy\Projects\OOP\03.ExtensionMethodDelegatesLambdaLINQ\05.FindStudentLambdaExpression\obj\Debug\05.FindStudentLambdaExpression.exe
+D:\Telerik\TelerikAcademy\Projects\OOP\03.ExtensionMethodDelegatesLambdaLINQ\05.FindStudentLambdaExpression\obj\Debug\05.FindStudentLambdaExpression.pdb

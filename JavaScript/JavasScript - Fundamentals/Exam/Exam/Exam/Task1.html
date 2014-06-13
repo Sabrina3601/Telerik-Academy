@@ -1,0 +1,42 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script>
+        function solve(params) {
+            var input = parseInt(params[0]);
+            
+            var cars = 4;
+            var trucks = 10;
+            var trikes = 3;
+
+            var counter = 0;
+            for (var i = 0; i <= input / 4; i++) {//cars 
+
+                for (var j = 0; j <= (input - ( i * 4))/ 3 ; j++) {// trickes
+
+                    for (var k = 0; k <= (input - ((i*4) - (j*3)))/10; k++) { // trucks
+                        if (sum(i, j, k)  == input){
+                            counter++;
+                        }
+                    }
+                }
+            }
+            function sum(i,j,k){
+                return (i*4 + j*3 + k*10);
+            }
+            return counter;
+        }
+
+        function check() {
+            var input = [];
+            input[0] = "40";
+
+            console.log(solve(input));
+        }
+    </script>
+</head>
+<body onload="check()">
+
+</body>
+</html>

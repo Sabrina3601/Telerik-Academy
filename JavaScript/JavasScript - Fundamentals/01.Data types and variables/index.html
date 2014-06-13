@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Data Types and Variables</title>
+	
+	 <style>
+	.border {
+		width:200px;
+		min-height:270px;
+		margin-top:25px;
+		margin-left:50px;
+		padding:5px;
+		float:left;
+		border:1px black solid;
+	    }
+    .border button{
+        background-color:white;
+        border:1px solid black;
+        padding:4px;
+		}
+     .border button:hover{
+        background-color:#161616;
+        color:white;
+		}
+      .border input{
+        border:1px solid black;
+        height:24px;
+        background-color:black;
+        color:white;
+		}
+      .border label {
+          display:block;
+        }
+       #clear {
+           background-color:black;
+           font-size:30px;
+        }
+       #clear h1{
+           font-size:30px;
+           width:200px;
+           text-align:center;
+           margin-top:100px;
+        }
+       #clear:hover{
+           background-color:#161616;
+           color:black;     
+        }
+        #clear h1 a {
+           color:white;
+           text-decoration:none;
+           text-transform:uppercase;
+        }
+		.colored{
+			color:red;
+		}
+	</style>
+</head>
+<body>
+    <div class="border">
+        <p>01.Assign all the possible JavaScript literals to different variables.</p>
+		<p class="colored">Check the answers below or just open browser console.</p>
+        <div id="answer">
+        </div>
+    </div>
+	
+	<div class="border">
+        <p>02.Create a string variable with quoted text in it. For example: 'How you doin'?', Joey said.</p>
+		<p class="colored">Check the answers below or just open browser console.</p>
+        <div id="answer-second">
+        </div>
+    </div>
+	
+	<div class="border">
+        <p>03.Try typeof on all variables you created.</p>
+		<p class="colored">Check the answers below or just open browser console.</p>
+        <div id="answer-third">
+        </div>
+    </div>
+	
+	<div class="border">
+        <p>04.Create null, undefined variables and try typeof on them.</p>
+		<p class="colored">Check the answers below or just open browser console.</p>
+        <div id="answer-fourth">
+        </div>
+    </div>
+	
+	<script>
+        //01. Assign all the possible JavaScript literals to different variables.
+
+        //Boolean literals
+        var isFalseZero = (false == 0);
+        console.log(isFalseZero); //true
+		
+
+        //Floating-point literals
+        var floatingNumber = -.321;
+        console.log(floatingNumber); //-0.321
+		
+
+        //Integers
+        var intNumber = (302 / 3) | 0;
+        console.log(intNumber); //100
+
+        //Object literals
+        var sales = "Samsung";
+
+        function PhoneModels(name) {
+            if (name == "IPhone") {
+                return name;
+            } else {
+                return "Sorry, we don't sell " + name + ".";
+            }
+        }
+
+        var phone = { myPhone: "Alcatel", getPhone: PhoneModels("IPhone"), special: sales };
+
+        console.log(phone.myPhone);   // Alcatel
+        console.log(phone.getPhone);  // IPhone
+        console.log(phone.special); // Samsung
+
+        //String literals
+        var text = "one line \nanother line";
+        console.log(text); //one line 
+                           //another line 
+
+						   
+		document.getElementById("answer").innerHTML = (isFalseZero + "<br>" +floatingNumber + "<br>" + intNumber + "<br>" + phone.myPhone + "<br>" + phone.getPhone + "<br>" + phone.special + "<br>" + text);
+        //02. Create a string variable with quoted text in it.
+        var quoted = "\"How you doing'?\", Joey said.";
+        console.log(quoted); //"How you doin'?", Joey said. 
+		document.getElementById("answer-second").innerHTML = (quoted);
+		
+        //03. Try typeof on all variables you created.
+        console.log(typeof (isFalseZero)); //boolean 
+        console.log(typeof (floatingNumber)); //number 
+        console.log(typeof (intNumber)); //number 
+        console.log(typeof (phone)); //object
+        console.log(typeof (text)); //string
+		document.getElementById("answer-third").innerHTML = (typeof (isFalseZero) + "<br>" + typeof (floatingNumber) + "<br>" + typeof (intNumber) + "<br>" + typeof (phone) + "<br>" +typeof (text) );
+		
+        //04. Create null, undefined variables and try typeof on them.
+        var first;
+        var second = null;
+
+        console.log(typeof (first)); //undefined
+        console.log(typeof (second)); //object
+		
+		document.getElementById("answer-fourth").innerHTML = (typeof (first) + "<br>" + typeof (second));
+    </script>
+</body>
+</html>

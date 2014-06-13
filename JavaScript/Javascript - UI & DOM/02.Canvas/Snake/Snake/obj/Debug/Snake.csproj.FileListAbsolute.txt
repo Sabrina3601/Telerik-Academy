@@ -1,0 +1,5 @@
+D:\Telerik\TelerikAcademy\Projects\JavaScript\Javascript - UI & DOM\02.Canvas\Snake\Snake\bin\Snake.dll
+D:\Telerik\TelerikAcademy\Projects\JavaScript\Javascript - UI & DOM\02.Canvas\Snake\Snake\bin\Snake.pdb
+D:\Telerik\TelerikAcademy\Projects\JavaScript\Javascript - UI & DOM\02.Canvas\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\JavaScript\Javascript - UI & DOM\02.Canvas\Snake\Snake\obj\Debug\Snake.dll
+D:\Telerik\TelerikAcademy\Projects\JavaScript\Javascript - UI & DOM\02.Canvas\Snake\Snake\obj\Debug\Snake.pdb

@@ -1,0 +1,27 @@
+﻿button{
+    width:150px;
+    height:36px;
+    background-color:yellowgreen;
+    border:none;
+}
+button:hover{
+    background-color:#aae532;
+}
+input{
+    width:200px;
+    height:34px;
+    background-color:#000;
+    border:none;
+    color:#fff;
+}
+#div-content
+{
+    width:1200px;
+    height:600px;
+    margin:auto;
+    position:relative;
+}
+header{
+    width:380px;
+    margin:0 auto;
+}

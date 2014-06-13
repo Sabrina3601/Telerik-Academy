@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIVs", "DIVs\DIVs.csproj", "{08F1E2A4-8E57-4B3D-9E2B-44483928580B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.GetInputText", "02.GetInputText\02.GetInputText.csproj", "{85B52152-5DE6-4701-9398-722D2532A8C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.colorPicker", "03.colorPicker\03.colorPicker.csproj", "{F2BD0C8C-38D4-4C39-86D9-04EF7A5C9039}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08F1E2A4-8E57-4B3D-9E2B-44483928580B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08F1E2A4-8E57-4B3D-9E2B-44483928580B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08F1E2A4-8E57-4B3D-9E2B-44483928580B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08F1E2A4-8E57-4B3D-9E2B-44483928580B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85B52152-5DE6-4701-9398-722D2532A8C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85B52152-5DE6-4701-9398-722D2532A8C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85B52152-5DE6-4701-9398-722D2532A8C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85B52152-5DE6-4701-9398-722D2532A8C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2BD0C8C-38D4-4C39-86D9-04EF7A5C9039}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2BD0C8C-38D4-4C39-86D9-04EF7A5C9039}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2BD0C8C-38D4-4C39-86D9-04EF7A5C9039}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2BD0C8C-38D4-4C39-86D9-04EF7A5C9039}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

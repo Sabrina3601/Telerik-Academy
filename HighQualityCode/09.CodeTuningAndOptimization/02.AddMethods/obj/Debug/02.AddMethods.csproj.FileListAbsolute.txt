@@ -1,0 +1,6 @@
+D:\Telerik\TelerikAcademy\Projects\HighQualityCode\09.CodeTuningAndOptimization\02.AddMethods\bin\Debug\02.AddMethods.exe.config
+D:\Telerik\TelerikAcademy\Projects\HighQualityCode\09.CodeTuningAndOptimization\02.AddMethods\bin\Debug\02.AddMethods.exe
+D:\Telerik\TelerikAcademy\Projects\HighQualityCode\09.CodeTuningAndOptimization\02.AddMethods\bin\Debug\02.AddMethods.pdb
+D:\Telerik\TelerikAcademy\Projects\HighQualityCode\09.CodeTuningAndOptimization\02.AddMethods\obj\Debug\02.AddMethods.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\HighQualityCode\09.CodeTuningAndOptimization\02.AddMethods\obj\Debug\02.AddMethods.exe
+D:\Telerik\TelerikAcademy\Projects\HighQualityCode\09.CodeTuningAndOptimization\02.AddMethods\obj\Debug\02.AddMethods.pdb

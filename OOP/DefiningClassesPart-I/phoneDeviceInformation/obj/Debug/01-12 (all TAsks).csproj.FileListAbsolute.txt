@@ -1,0 +1,2 @@
+D:\Telerik\TelerikAcademy\Projects\OOP\DefiningClassesPart-I\phoneDeviceInformation\obj\Debug\01.phoneDeviceInformation.exe
+D:\Telerik\TelerikAcademy\Projects\OOP\DefiningClassesPart-I\phoneDeviceInformation\obj\Debug\01.phoneDeviceInformation.pdb

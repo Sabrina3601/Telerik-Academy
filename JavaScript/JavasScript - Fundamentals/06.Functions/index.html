@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script>
+	
+
+	//01. Exercise
+	function englishWord() {
+			var number = parseInt(document.getElementById("number-english").value);
+			var numberDec = number % 10;
+			var msg;
+			switch (numberDec) {
+				case 0: msg = "Zero"; break;
+				case 1: msg = "One"; break;
+				case 2: msg = "Two"; break;
+				case 3: msg = "Three"; break;
+				case 4: msg = "Four"; break;
+				case 5: msg = "Five"; break;
+				case 6: msg = "Six"; break;
+				case 7: msg = "Seven"; break;
+				case 8: msg = "Eight"; break;
+				case 9: msg = "Nine"; break;
+				default: msg = "Ops"
+			}
+			document.getElementById("answer-english").innerHTML=(numberDec);
+		}
+		
+	//02.Exercise
+	function reverse(){
+		var number = document.getElementById("number-reverse").value;
+		var reversedNum = "";
+		for(var i = number.length - 1; i >= 0; i--){
+			reversedNum +=  number[i];
+		}
+		
+		document.getElementById("answer-reverse").innerHTML=(reversedNum);
+	}
+	
+	//03.Exercise
+	var text = "We are living in an yellow submarine. In the sky there are no clouds. So we are drinking all the day. We will move out of it in 5 days.";
+	
+	//" in ";
+	var isCaseSensitive = false;
+
+	
+
+	function CountOccurenceWord(text, isCaseSensitive) {
+	var wordToSearch = document.getElementById("search-word").value;
+		isCaseSensitive = isCaseSensitive || false;
+		var countSearchedWord = 0;
+
+		if (isCaseSensitive === false) {
+			var strArr = text.split(wordToSearch); //split is case-insensitive
+
+			for (var str in strArr) {
+				countSearchedWord++;
+			}
+			document.getElementById("answer").innerHTML = ("The count of word '" + wordToSearch + "' (case-insensitive search)  is: " + countSearchedWord)
+		}
+		else {
+			var index = text.indexOf(wordToSearch);//indexOf is case-sensitive
+
+			while (index >= 0) {
+				countSearchedWord++;
+				index = text.indexOf(wordToSearch, index+1);
+			}
+			document.getElementById("answer").innerHTML=("The count of word '" + wordToSearch + "' (case-sensitive search)  is: " + countSearchedWord);
+		}
+	}
+	
+	//04.Exercise
+	function countDivs(){
+	   var count = document.getElementsByTagName("div").length;
+	   document.getElementById("answer-div").innerHTML = ("The number of divs in that page are "+count);
+   }
+   
+   //05.Exercise
+	function calculate() {
+		var arrayOfNumbers = document.getElementById("array-calculate").value;
+		var number = document.getElementById("number-calculate").value;
+		var array = arrayOfNumbers.split(",");
+		console.log(array);
+		var counter = 0;
+		for (var i = 0; array[i]; i++) {
+			if(number === array[i]){
+				counter++;
+			}
+		}
+		document.getElementById("answer-calculate").innerHTML=(counter);
+	}
+	
+	//06. Exercise
+	function biggerFunc() {
+		var position = document.getElementById("number-bigger").value;
+		var arrayOfNumbers = document.getElementById("array-bigger").value;
+		var array = arrayOfNumbers.split(",");
+		var arrayPosition = array[position];
+		if (position == 0 || position == array.length-1){
+			document.getElementById("answer-bigger").innerHTML=("Missed neighbor number");
+		}
+		else {	
+			for (var i=0; i<=array.length; i++){
+				if (array[i] === arrayPosition) {
+					if (arrayPosition > array[i+1] && arrayPosition > array[i-1]) {
+						document.getElementById("answer-bigger").innerHTML=(array[i-1] + " < "+ arrayPosition + " > "  + array[i+1]);
+					}
+					else {
+						document.getElementById("answer-bigger").innerHTML=(arrayPosition + " is not bigger than neighbor numbers.");
+					}
+				}
+			}
+		}
+	}
+	
+	//07. Exercise
+	function biggerFuncSecond() {
+		var arrayOfNumbers = document.getElementById("array-bigger-second").value;
+		var array = arrayOfNumbers.split(",");
+		var notFound = false;
+		for(var i=1; i< array.length; i++){
+			if(array[i+1] < array[i] && array[i] >array[i-1]){
+			document.getElementById("answer-bigger-second").innerHTML = (array[i]);
+			notFound=true;
+			break;
+			}
+		}
+		if(notFound == false){
+		console.log("-1");
+		}
+	}
+		
+    </script>
+	
+	<style>
+	
+	.border {
+		width:200px;
+		min-height:368px;
+		margin-top:25px;
+		margin-left:50px;
+		padding:5px;
+		float:left;
+		border:1px black solid;
+	}
+    .border button{
+        background-color:white;
+        border:1px solid black;
+        padding:4px;
+	}
+     .border button:hover{
+        background-color:#161616;
+        color:white;
+	}
+      .border input{
+        border:1px solid black;
+        height:24px;
+        background-color:black;
+        color:white;
+		margin-top:5px;
+	}
+      .border label {
+          display:block;
+	}
+   #clear {
+	   background-color:black;
+	   font-size:30px;
+	   cursor:default;
+	   float:right;
+	   margin-right:20px;
+	   margin-bottom:100px;
+	}
+   #clear h1{
+	   font-size:30px;
+	   width:200px;
+	   text-align:center;
+	   margin-top:100px;
+	}
+   #clear:hover{
+	   background-color:#161616;
+	   color:black;     
+	}
+	#clear h1  {
+	   color:white;
+	   text-decoration:none;
+	   text-transform:uppercase;
+	}
+	button{
+		margin-top:5px;
+	}
+	#holder{
+		display:block;
+		overflow:hidden;
+	}
+	</style>
+</head>
+<body>
+	<!--01. Exercises-->
+<div id="holder">
+	<div class="border">
+		<p>3. Write a function that returns the last digit of given integer as an English word. Examples: 512 "two", 1024 "four", 12309 "nine".</p>
+		<input type="text" name="number-english" id="number-english" value="" />
+		<button onclick="englishWord()">Check</button>
+		<p id="answer-english"></p>
+	</div>
+	
+	<!--02. Exercises-->
+	<div class="border">
+		<p>02. Write a function that reverses the digits of given decimal number. Example: 256 --> 652</p>
+		<input type="text" name="number-english" id="number-reverse" value="" />
+		<button onclick="reverse()">Check</button>
+		<p id="answer-reverse"></p>
+	</div>
+	
+	<!--03. Exercises-->
+	<div class="border">
+		<p>03. Write a function that finds all the occurrences of word in a text. The search can case sensitive or case insensitive. Use function overloading. Text is <b>"We are living in an yellow submarine. In the sky there are no clouds. So we are drinking all the day. We will move out of it in 5 days."</b></p>
+		Search Word ( I prefer " in")<input type="text" name="search-word" id="search-word" value="" />
+		<button onclick="CountOccurenceWord(text)">Check case insensitive</button>
+		<button onclick="CountOccurenceWord(text, true);">Check case senstive</button>
+		<p id="answer"></p>
+	</div>
+	
+	<!--04. Exercises-->
+	<div class="border">
+		<p>04. Write a function to count the number of divs on the web page</p>
+		<button onclick="countDivs()">Check divs</button>
+		<p id="answer-div"></p>
+	</div>
+	
+	<!--05. Exercises-->
+	<div class="border">
+		<p>05. Write a function that counts how many times given number appears in given array. Write a test script to check if the function is working correctly.</p>
+		<p>Give a number</p>
+		<input type="text" name="number-calculate" id="number-calculate" value="" />
+		<p>Type array of numbers. Example:1,2,3,4,5</p>
+		<input type="text" name="array-calculate" id="array-calculate" value="" />
+		<button onclick="calculate()">Check</button>
+		<p id="answer-calculate"></p>
+	</div>
+</div>
+	
+	<!--06. Exercises-->
+	<div class="border">
+		<p>06. Write a function that checks if the element at given position in given array of integers is bigger than its two neighbors (when such exist).</p>
+		<p>give a position</p>
+		<input type="text" name="number-bigger" id="number-bigger" value="" />
+		<p>Type array of numbers. Example:1,2,3,4,5</p>
+		<input type="text" name="array-bigger" id="array-bigger" value="" />
+		<button onclick="biggerFunc()">Check</button>
+		<p id="answer-bigger"></p>
+	</div>
+	
+	<!--07. Exercises-->
+	<div class="border">
+		<p>Write a function that returns the index of the first element in array that is bigger than its neighbors, or -1, if there’s no such element. Use the function from the previous exercise.</p>
+		<p>Type array of numbers. Example:1,2,3,4,5</p>
+		<input type="text" name="array-bigger" id="array-bigger-second" value="" />
+		<button onclick="biggerFuncSecond()">Check</button>
+		<p id="answer-bigger-second"></p>
+	</div>
+	
+	<div id="clear" class="border" onClick="document.location.reload(true)">
+        <h1>Clear</h1>
+		
+</body>
+</html>

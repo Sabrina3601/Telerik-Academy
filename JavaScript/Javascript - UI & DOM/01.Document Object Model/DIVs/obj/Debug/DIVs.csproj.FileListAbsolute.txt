@@ -1,0 +1,5 @@
+D:\Telerik\TelerikAcademy\Projects\JavaScript\Javascript - UI & DOM\01.Document Object Model\DIVs\DIVs\bin\DIVs.dll
+D:\Telerik\TelerikAcademy\Projects\JavaScript\Javascript - UI & DOM\01.Document Object Model\DIVs\DIVs\bin\DIVs.pdb
+D:\Telerik\TelerikAcademy\Projects\JavaScript\Javascript - UI & DOM\01.Document Object Model\DIVs\DIVs\obj\Debug\DIVs.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\JavaScript\Javascript - UI & DOM\01.Document Object Model\DIVs\DIVs\obj\Debug\DIVs.dll
+D:\Telerik\TelerikAcademy\Projects\JavaScript\Javascript - UI & DOM\01.Document Object Model\DIVs\DIVs\obj\Debug\DIVs.pdb

@@ -1,0 +1,150 @@
+﻿body {
+	font:normal 12px verdana, sans-serif;
+	background-color:#f1f1f1;
+}
+#warp {
+	width:960px;
+	margin:auto;
+	border:1px solid #676767;
+	overflow:hidden;
+	padding-top:1px;
+}
+section.sec-warp {
+	background-color:#fff;
+	border:1px solid #a8a8a8;
+	width:607px;
+	margin:0 170px;
+	padding:5px;
+	overflow:hidden;
+}
+section.sec-warp h1 {
+}
+section.sec-warp header {
+	border-bottom:2px solid #9f9f9f;
+	padding-bottom:5px;
+}
+section.sec-warp article.line {
+	border-bottom:2px solid #9f9f9f;
+}
+section.sec-warp article.hr {
+	padding:5px 0px;
+}
+button.next, button.prev {
+	border:1px solid #000;
+	background-color:#fff;
+	width:120px;
+	padding:0px;
+}
+section.sec-warp header button.prev {
+	text-align:left;
+}
+section.sec-warp header button.next {
+	text-align:right;
+}
+section.sec-warp header .arrow-left {
+	margin-right:20px;
+}
+section.sec-warp header .arrow-right {
+	margin-left:35px;
+}
+section.sec-warp h2 {
+	background-color:#808080;
+	color:#fff;
+	font-size:14px;
+	padding-left:5px;
+	margin-top:5px;
+}
+section.sec-warp article {
+	overflow:hidden;
+}
+section.sec-warp article p.introduction {
+	font-weight:bold;
+	float:left;
+	width:350px;
+	padding-left:20px;
+	margin-bottom:0px;
+}
+section.sec-warp article p.introduction a,section.sec-warp article p a {
+	color:#8B0000;
+}
+section.sec-warp article .css-image {
+	background-image: url("images/css.jpg");
+	background-repeat:no-repeat;
+	width:116px;
+	height:121px;
+	float:left;
+}
+aside section .img {
+	margin:auto;
+	width:74px;
+	margin-top:5px;
+}
+nav {
+	float:left;
+	width:170px;
+	background-color:#f1f1f1;
+}
+nav h2.home{
+	color:#000;
+	background-image: url("images/home-icon.png");
+	background-repeat:no-repeat;
+	padding-left:30px;
+	height:30px;
+	background-position: left top;
+	padding-top:10px;
+}
+nav h2 {
+	font-size:12px;
+	margin-bottom:0px;
+	color:#8b0000;
+}
+nav ul {
+	list-style-type:none;
+	padding:0px;
+	margin:0px;
+}
+nav ul li a {
+	color:#000;
+	text-decoration:none;
+}
+nav ul li a:hover {
+	text-decoration:underline;
+}
+aside {
+	float:right;
+	width:170px;
+	margin-left:1px;
+}
+	
+aside section{
+	border:1px solid #a8a8a8;
+}
+aside section h2 {
+	text-align:center;
+	color:#fff;
+	background-color:#808080;
+	font-size:13px;
+	margin:0px;
+}
+form {
+	width:161px;
+	margin:auto;
+	margin-top:10px;
+}
+form input.textfield {
+	border:1px solid #a9bdd0;
+	width:120px;
+}
+form input.btn {
+	border: 1px solid #a9bdd0;
+}
+aside section ul {
+	list-style-type:none;
+	padding:0px;
+	text-align:center;
+	margin-top:5px;
+	margin-bottom:5px;
+}
+aside section ul li a {
+	color:#8b0000;
+{

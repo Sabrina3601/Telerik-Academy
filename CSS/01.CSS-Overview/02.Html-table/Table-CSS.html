@@ -1,0 +1,51 @@
+﻿<!DOCTYPE html>
+<html lang="en" xml:lang="en">
+<head>
+	<title>Table-CSS</title>
+	<link type="text/css" rel="stylesheet" href="table-css.css">
+</head>
+<body>
+	<table>
+		<colgroup>
+                <col class="th-contactname" />
+                <col class="th-city" />
+				<col class="th-country" />
+                <col class="th-promoted"/>
+		</colgroup>
+		<thead>
+			<tr>
+				<th>Contact name</th>
+				<th>City</th>
+				<th>Country</th>
+				<th>Is Promoted</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>Maria Anders</td>
+				<td>Berlin</td>
+				<td><span class="flag-germany"></span>Germany</td>
+				<td><input type="checkbox" disabled="disabled" name="checkbox" /></td>
+			</tr>
+			<tr class="gray-grid">
+				<td>Ana Trujillo</td>
+				<td><span lang='es'>M&eacute;xico D.F</span></td>
+				<td><span class="flag-mexico"></span>Mexico</td>
+				<td><input type="checkbox" disabled="disabled" name="checkbox" /></td>
+			</tr>
+			<tr>
+				<td>Antonio Moreno</td>
+				<td><span lang='es'>M&eacute;xico D.F</span></td>
+				<td><span class="flag-mexico"></span>Mexico</td>
+				<td><input type="checkbox" disabled="disabled" name="checkbox" checked="checked" /></td>
+			</tr>
+			<tr class="gray-grid">
+				<td>Thomas Hardy</td>
+				<td>London</td>
+				<td><span class="flag-uk"></span>UK</td>
+				<td><input type="checkbox" disabled="disabled" name="checkbox" /></td>
+			</tr>
+		</tbody>
+	</table>
+</body>
+</html>

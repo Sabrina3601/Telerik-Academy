@@ -1,0 +1,6 @@
+D:\Telerik\TelerikAcademy\Projects\CSS\02.CSS-Presentation\Solution1\Task5\bin\Debug\Task5.exe.config
+D:\Telerik\TelerikAcademy\Projects\CSS\02.CSS-Presentation\Solution1\Task5\obj\Debug\Task5.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\CSS\02.CSS-Presentation\Solution1\Task5\bin\Debug\Task5.exe
+D:\Telerik\TelerikAcademy\Projects\CSS\02.CSS-Presentation\Solution1\Task5\bin\Debug\Task5.pdb
+D:\Telerik\TelerikAcademy\Projects\CSS\02.CSS-Presentation\Solution1\Task5\obj\Debug\Task5.exe
+D:\Telerik\TelerikAcademy\Projects\CSS\02.CSS-Presentation\Solution1\Task5\obj\Debug\Task5.pdb

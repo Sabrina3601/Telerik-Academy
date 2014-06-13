@@ -1,0 +1,6 @@
+D:\Telerik\TelerikAcademy\Projects\OOP\04.OOP Principles - Part I\04.OOP Principles - Part I\bin\Debug\04.OOP Principles - Part I.exe.config
+D:\Telerik\TelerikAcademy\Projects\OOP\04.OOP Principles - Part I\04.OOP Principles - Part I\bin\Debug\04.OOP Principles - Part I.exe
+D:\Telerik\TelerikAcademy\Projects\OOP\04.OOP Principles - Part I\04.OOP Principles - Part I\bin\Debug\04.OOP Principles - Part I.pdb
+D:\Telerik\TelerikAcademy\Projects\OOP\04.OOP Principles - Part I\04.OOP Principles - Part I\obj\Debug\Task.1.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\OOP\04.OOP Principles - Part I\04.OOP Principles - Part I\obj\Debug\04.OOP Principles - Part I.exe
+D:\Telerik\TelerikAcademy\Projects\OOP\04.OOP Principles - Part I\04.OOP Principles - Part I\obj\Debug\04.OOP Principles - Part I.pdb

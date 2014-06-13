@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script>
+		function print(outputId,text)
+		{
+			var answer = document.getElementById(outputId);
+			answer.innerHTML = text;
+		}
+	
+		// 1.Exercise
+		function printNum() {
+			var number = parseInt(document.getElementById("number-field").value);
+			var msg = "";
+			for ( var i=1; i<=number; i++) {
+				msg = msg + i + "</br>"
+			}
+		print("answer",msg);
+		}
+		
+		//2.Exercise
+		function devide() {
+			var number = parseInt(document.getElementById("number-field-devide").value);
+			var msg = "";
+			for (var i=1; i<=number; i++){
+				if (i%(3*7)!==0 ){
+					msg = msg + i + ", ";
+				}
+				print("answer-devide",msg);
+			}
+		}
+				
+		//3.Exercise
+		function findNum() {
+			var nStr = document.getElementById("number-field-findNum").value;
+			var numbers = nStr.split(",");
+			console.log(numbers);
+			var max = numbers[0];
+			var min = numbers[0];
+			for (var i = 0; i < numbers.length; i++) {
+				if (max < parseInt(numbers[i])) {
+					max = numbers[i];
+				}
+				if (min > parseInt(numbers[i])) {
+					min = numbers[i];
+				}
+			}
+			console.log(max);
+			print("answer-findNum", min + " - min<br />" + max + " - max<br />");
+		}
+		//4.Exercise
+		findSmallest(window);
+        findBiggest(window);
+        findSmallest(navigator);
+        findBiggest(navigator);
+        findSmallest(document);
+        findBiggest(document);
+		
+		 function findSmallest(object) {
+            var smallest = 'zzz';
+            for (var property in object) {
+                if (property<smallest) {
+                    smallest = property;
+                }
+            }
+			var msg = "The smallest lexicographically property in "+object+ " is "+smallest;
+            print("answer-property",msg);
+			
+        }
+        function findBiggest(object) {
+            var biggest = 'aaa';
+            for (var property in object) {
+                if (property > biggest) {
+                    biggest = property;
+                }
+            }
+            var msg = "The biggest lexicographically property in " + object + " is " + biggest;
+			print("answer-property",msg);
+        }
+		
+		
+		
+	
+
+    </script>
+	<style>
+		.border {
+		width:200px;
+		min-height:270px;
+		margin-top:25px;
+		margin-left:50px;
+		padding:5px;
+		float:left;
+		border:1px black solid;
+	    }
+    .border button{
+        background-color:white;
+        border:1px solid black;
+        padding:4px;
+		}
+     .border button:hover{
+        background-color:#161616;
+        color:white;
+		}
+      .border input{
+        border:1px solid black;
+        height:24px;
+        background-color:black;
+        color:white;
+		margin-top:5px;
+		}
+      .border label {
+          display:block;
+        }
+       #clear {
+           background-color:black;
+           font-size:30px;
+		   cursor:default;
+        }
+       #clear h1{
+           font-size:30px;
+           width:200px;
+           text-align:center;
+           margin-top:100px;
+        }
+       #clear:hover{
+           background-color:#161616;
+           color:black;     
+        }
+        #clear h1  {
+           color:white;
+           text-decoration:none;
+           text-transform:uppercase;
+        }
+		button{
+			margin-top:5px;
+		}
+	</style>
+</head>
+<body>
+	<div class="float">
+		<!--1. Exercises-->
+		<div class="border">
+		<p>1. Write a script that prints all the numbers from 1 to N.</p>
+		<input type="text" name="number-field" id="number-field" value="" />
+		<button onclick="printNum()">Click</button>
+		<p id="answer"></p>
+		</div>
+		
+		<!--2. Exercises-->
+		<div class="border">
+		<p>2. Write a script that prints all the numbers from 1 to N, that are not divisible by 3 and 7 at the same time.</p>
+		<input type="text" name="number-devide" id="number-field-devide" value="" />
+		<button onclick="devide()">Check</button>
+		<p id="answer-devide"></p>
+		</div>
+		
+		<!--3. Exercises-->
+		<div class="border">
+		<p>3. Write a script that finds the max and min number from a sequence of numbers. Examples: type into input field "1,33,155,7,12"</p>
+		<input type="text" name="number-field-findNum" id="number-field-findNum" value="" />
+		<button onclick="findNum()">Check</button>
+		<p id="answer-findNum"></p>
+		</div>
+		
+		<!--3. Exercises-->
+		<div class="border">
+		<p>4. Write a script that finds the lexicographically smallest and largest property in document, window and navigator objects</p>
+		<button onclick="findSmallest(window)">Check smallest in window</button>
+		<button onclick="findBiggest(window)">Check biggest in window</button>
+		
+		<button onclick="findSmallest(document)">Check smallest in document</button>
+		<button onclick="findBiggest(document)">Check biggest in document</button>
+		
+		<button onclick="findSmallest(navigator)">Check smallest in navigator</button>
+		<button onclick="findBiggest(navigator)">Check biggest in navigator</button>
+		<p id="answer-property"></p>
+		</div>
+		
+		<div id="clear" class="border" onClick="document.location.reload(true)">
+        <h1>Clear</h1>
+		
+
+	
+</body>
+</html>

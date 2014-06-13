@@ -1,0 +1,22 @@
+C:\Users\SESA29880\Documents\Projects\_Telerik-C_II\09.Khameleon-TFS\New folder\Bomberman\BombermanGame\bin\Debug\BombermanGame.exe.config
+C:\Users\SESA29880\Documents\Projects\_Telerik-C_II\09.Khameleon-TFS\New folder\Bomberman\BombermanGame\bin\Debug\BombermanGame.exe
+C:\Users\SESA29880\Documents\Projects\_Telerik-C_II\09.Khameleon-TFS\New folder\Bomberman\BombermanGame\bin\Debug\BombermanGame.pdb
+C:\Users\SESA29880\Documents\Projects\_Telerik-C_II\09.Khameleon-TFS\New folder\Bomberman\BombermanGame\obj\Debug\BombermanGame.csprojResolveAssemblyReference.cache
+C:\Users\SESA29880\Documents\Projects\_Telerik-C_II\09.Khameleon-TFS\New folder\Bomberman\BombermanGame\obj\Debug\BombermanGame.exe
+C:\Users\SESA29880\Documents\Projects\_Telerik-C_II\09.Khameleon-TFS\New folder\Bomberman\BombermanGame\obj\Debug\BombermanGame.pdb
+F:\Programming Tools\Visual Studio 2013\Projects\TeamWork2-OOP\BombermanGame\bin\Debug\BombermanGame.exe.config
+F:\Programming Tools\Visual Studio 2013\Projects\TeamWork2-OOP\BombermanGame\obj\Debug\BombermanGame.exe
+F:\Programming Tools\Visual Studio 2013\Projects\TeamWork2-OOP\BombermanGame\obj\Debug\BombermanGame.pdb
+F:\Programming Tools\Visual Studio 2013\Projects\TeamWork2-OOP\BombermanGame\bin\Debug\BombermanGame.exe
+F:\Programming Tools\Visual Studio 2013\Projects\TeamWork2-OOP\BombermanGame\bin\Debug\BombermanGame.pdb
+F:\Programming Tools\Visual Studio 2013\Projects\TeamWork2-OOP\BombermanGame\obj\Debug\BombermanGame.csprojResolveAssemblyReference.cache
+W:\Git\BombermanGame\bin\Debug\BombermanGame.exe.config
+W:\Git\BombermanGame\obj\Debug\BombermanGame.exe
+W:\Git\BombermanGame\obj\Debug\BombermanGame.pdb
+W:\Git\BombermanGame\obj\Debug\BombermanGame.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\OOP\TeamWork\BombermanGame\bin\Debug\BombermanGame.exe.config
+D:\Telerik\TelerikAcademy\Projects\OOP\TeamWork\BombermanGame\obj\Debug\BombermanGame.exe
+D:\Telerik\TelerikAcademy\Projects\OOP\TeamWork\BombermanGame\obj\Debug\BombermanGame.pdb
+D:\Telerik\TelerikAcademy\Projects\OOP\TeamWork\BombermanGame\bin\Debug\BombermanGame.exe
+D:\Telerik\TelerikAcademy\Projects\OOP\TeamWork\BombermanGame\bin\Debug\BombermanGame.pdb
+D:\Telerik\TelerikAcademy\Projects\OOP\TeamWork\BombermanGame\obj\Debug\BombermanGame.csprojResolveAssemblyReference.cache

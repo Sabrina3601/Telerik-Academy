@@ -1,0 +1,4 @@
+D:\Telerik\TelerikAcademy\Projects\JavaScript\Javascript - UI & DOM\01.Document Object Model\DIVs\02.GetInputText\bin\02.GetInputText.dll
+D:\Telerik\TelerikAcademy\Projects\JavaScript\Javascript - UI & DOM\01.Document Object Model\DIVs\02.GetInputText\bin\02.GetInputText.pdb
+D:\Telerik\TelerikAcademy\Projects\JavaScript\Javascript - UI & DOM\01.Document Object Model\DIVs\02.GetInputText\obj\Debug\02.GetInputText.dll
+D:\Telerik\TelerikAcademy\Projects\JavaScript\Javascript - UI & DOM\01.Document Object Model\DIVs\02.GetInputText\obj\Debug\02.GetInputText.pdb

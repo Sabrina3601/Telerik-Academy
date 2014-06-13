@@ -1,0 +1,163 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script>
+        function solve(params) {
+            var firstLine = params[0].split(' ');
+            //console.log(firstLine[1]);
+            var matrix = [];
+            var value = 1;
+            var start = 1;
+            for (var i = 0; i < firstLine[0]; i++) {
+                matrix[i] = [];
+                for (var j = 0 ; j < firstLine[1]; j++) {
+                    matrix[i][j] = value;
+                    value++;
+                    
+                }
+                start = start * 2;
+                value = start;
+            }
+
+            var matrixDirection = [];
+            for (var i = 0 ; i < firstLine[0]; i++) {
+                var line = params[i + 1].split(' ');
+                matrixDirection[i] = [];
+                for (var j = 0; j < firstLine[1]; j++) {
+                    matrixDirection[i][j] = line[j];
+                }
+            }
+
+            var visitedMatrix = [];
+            for (var i = 0; i < firstLine[0]; i++) {
+                visitedMatrix[i] = [];
+                for (var j = 0; j < firstLine[1]; j++) {
+                    visitedMatrix[i][j] = false;
+                }
+            }
+
+            var startPositionRow = 0;
+            var startPositionCol = 0;
+            var startDirection = matrixDirection[startPositionRow][startPositionCol];
+
+            var sum = 0;
+            sum += matrix[startPositionRow][startPositionCol];
+            visitedMatrix[startPositionRow][startPositionCol] = true;
+            /// oshte edno za visited;
+            var isVisited = false
+            var visitedRow = 0;
+            var visitedCol = 0;
+            while (isVisited == false) {
+                //down-right
+                if (startDirection == "dr") {
+                    if (parseInt(startPositionRow+1) < 0 || parseInt(startPositionRow) + 1  > firstLine[0] - 1 ||
+                        parseInt(startPositionCol) +1  > firstLine[1] - 1 || parseInt(startPositionCol) + 1 < 0) {
+                        break;
+                    }
+                    if (visitedMatrix[startPositionRow+1][startPositionCol + 1] == false) {
+                        visitedMatrix[startPositionRow+1][startPositionCol+ 1] = true;
+                    }
+                    else {
+                        visitedCol = startPositionCol + 1;
+                        visitedRow = startPositionRow + 1;
+                        isVisited = true;
+                        continue;
+                    }
+                    startDirection = matrixDirection[startPositionRow+1][startPositionCol+ 1];
+                    sum += matrix[startPositionRow+1][startPositionCol + 1];
+                    startPositionCol = startPositionCol + 1;
+                    startPositionRow = startPositionRow + 1;
+
+                }
+
+                if (startDirection == "ur") {
+                    if (parseInt(startPositionRow -1) < 0 || parseInt(startPositionRow) - 1 > firstLine[0] - 1 ||
+                        parseInt(startPositionCol) + 1 > firstLine[1] - 1 || parseInt(startPositionCol) + 1 < 0) {
+                        break;
+                    }
+                    if (visitedMatrix[startPositionRow - 1][startPositionCol + 1] == false) {
+                        visitedMatrix[startPositionRow - 1][startPositionCol + 1] = true;
+                    }
+                    else {
+                        visitedCol = startPositionCol + 1;
+                        visitedRow = startPositionRow - 1;
+                        isVisited = true;
+                        continue;
+                    }
+                    startDirection = matrixDirection[startPositionRow - 1][startPositionCol + 1];
+                    sum += matrix[startPositionRow - 1][startPositionCol + 1];
+                    startPositionCol = startPositionCol + 1;
+                    startPositionRow = startPositionRow - 1;
+
+                }
+
+                if (startDirection == "ul") {
+                    if (parseInt(startPositionRow - 1) < 0 || parseInt(startPositionRow) - 1 > firstLine[0] - 1 ||
+                        parseInt(startPositionCol) - 1 > firstLine[1] - 1 || parseInt(startPositionCol) - 1 < 0) {
+                        break;
+                    }
+                    if (visitedMatrix[startPositionRow - 1][startPositionCol - 1] == false) {
+                        visitedMatrix[startPositionRow - 1][startPositionCol - 1] = true;
+                    }
+                    else {
+                        visitedCol = startPositionCol - 1;
+                        visitedRow = startPositionRow - 1;
+                        isVisited = true;
+                        continue;
+                    }
+                    startDirection = matrixDirection[startPositionRow - 1][startPositionCol - 1];
+                    sum += matrix[startPositionRow - 1][startPositionCol - 1];
+                    startPositionCol = startPositionCol - 1;
+                    startPositionRow = startPositionRow - 1;
+
+                }
+
+                if (startDirection == "dl") {
+                    if (parseInt(startPositionRow + 1) < 0 || parseInt(startPositionRow) + 1 > firstLine[0] - 1 ||
+                        parseInt(startPositionCol) - 1 > firstLine[1] - 1 || parseInt(startPositionCol) - 1 < 0) {
+                        break;
+                    }
+                    if (visitedMatrix[startPositionRow + 1][startPositionCol - 1] == false) {
+                        visitedMatrix[startPositionRow + 1][startPositionCol - 1] = true;
+                    }
+                    else {
+                        visitedCol = startPositionCol - 1;
+                        visitedRow = startPositionRow + 1;
+                        isVisited = true;
+                        continue;
+                    }
+                    startDirection = matrixDirection[startPositionRow + 1][startPositionCol - 1];
+                    sum += matrix[startPositionRow + 1][startPositionCol - 1];
+                    startPositionCol = startPositionCol - 1;
+                    startPositionRow = startPositionRow + 1;
+
+                }
+            }
+            if (isVisited == true) {
+                return "failed at (" + visitedRow + ", " + visitedCol + ")";
+            }
+            else {
+                
+                return "successed with " + sum;
+            }
+
+        }
+
+        function check() {
+            var args = [];
+            args[0]='3 5'
+            args[1] = 'dr dl dl ur ul';
+            args[2] = 'dr dr ul ul ur';
+            args[3] = 'dl dr ur dl ur';
+            
+
+            console.log(solve(args));
+        }
+
+    </script>
+</head>
+<body onload="check()">
+
+</body>
+</html>

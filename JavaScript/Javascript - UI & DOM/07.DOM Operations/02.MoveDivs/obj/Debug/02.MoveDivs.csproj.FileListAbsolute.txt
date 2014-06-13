@@ -1,0 +1,4 @@
+D:\Telerik\TelerikAcademy\Projects\JavaScript\Javascript - UI & DOM\07.DOM Operations\02.MoveDivs\bin\02.MoveDivs.dll
+D:\Telerik\TelerikAcademy\Projects\JavaScript\Javascript - UI & DOM\07.DOM Operations\02.MoveDivs\bin\02.MoveDivs.pdb
+D:\Telerik\TelerikAcademy\Projects\JavaScript\Javascript - UI & DOM\07.DOM Operations\02.MoveDivs\obj\Debug\02.MoveDivs.dll
+D:\Telerik\TelerikAcademy\Projects\JavaScript\Javascript - UI & DOM\07.DOM Operations\02.MoveDivs\obj\Debug\02.MoveDivs.pdb

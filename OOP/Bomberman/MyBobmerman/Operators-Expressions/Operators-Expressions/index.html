@@ -1,0 +1,332 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Odd or even</title>
+    <script>
+        // 01. Task Odd or Even
+        function checkOddOrEven() {
+            var number = document.getElementById("input-btn").value;
+            if (!isNaN(number)) {
+                if (number % 2 == 0) {
+                    document.getElementById("answer").innerHTML = ("The number " + number + " is even");
+                }
+                else {
+                    document.getElementById("answer").innerHTML = ("The number " + number + " is odd");
+                }
+            }
+            else {
+                document.getElementById("answer").innerHTML = ("Is not a number");
+            }
+        }
+
+        // 02. Devidied by  5 and 7 in the same time
+        function checkDivide() {
+            var number = document.getElementById("inputDivide").value;
+            if (!isNaN(number)) {
+                if (number % 5 == 0 && number % 7 ==0) {
+                    document.getElementById("answer-didvide").innerHTML = ("The number " + number +
+                        " can be divided by 5 and 7 in the same time");
+                }
+                else {
+                    document.getElementById("answer-didvide").innerHTML = ("The number " + number +
+                        " can't be divided by 5 and 7 in the same time");
+                }
+            }
+            else {
+                document.getElementById("answer-didvide").innerHTML = ("Is not a number");
+            }
+        }
+
+        // 03. Calculate rectagnle's area by given width and height
+        function checkRecArea() {
+            var width = document.getElementById("inputWidth").value;
+            var height = document.getElementById("inputHeight").value;
+
+            if (!isNaN(width) && !isNaN(height)) {
+                var rectangleArea = width * height;
+                document.getElementById("answer-rectArea").innerHTML =
+                    ("Rectangle Area = " + rectangleArea);
+            }
+            else {
+                document.getElementById("answer-rectArea").innerHTML =
+                    ("Is not a number");
+            }
+        }
+        // 04. Write an expression that checks for given integer if its third digit (right-to-left) is 7.
+        function checkThirdDigit() {
+            var number = document.getElementById("input-thirdDigit").value;
+
+            if (!isNaN(number)) {
+                if (number.length>3) {
+                    var chechThirdDigit = number.substring(number.length - 3, number.length - 2);
+                    if (chechThirdDigit == 7) {
+                        document.getElementById("answer-thirdDigit").innerHTML =
+                        ("Third digit of " + number + " (right to left) is " + chechThirdDigit);
+                    }
+                    else {
+                        document.getElementById("answer-thirdDigit").innerHTML =
+                        ("Third digit of " + number + " (right to left) is not 7 is " + chechThirdDigit);
+                    }
+                }
+                else {
+                    document.getElementById("answer-thirdDigit").innerHTML =
+                        ("Number should have at least 3 digit");
+                }
+             }           
+            else {
+                document.getElementById("answer-thirdDigit").innerHTML =
+                    ("Is not a number");
+            }
+        }
+        //05.Write a boolean expression for finding if the bit 3 (counting from 0) of a given integer is 1 or 0.
+        function checkThirdBit() {
+            var number = document.getElementById("input-bit").value;
+            var n = 3;
+            if (!isNaN(number)) {
+                var mask = 1 << n;
+                var numberAndMask = number & mask;
+                var bit = numberAndMask >> n;
+                document.getElementById("answer-bit").innerHTML =
+                    ("Third bit of " + number + " is " + bit);
+            
+            }
+            else {
+                document.getElementById("answer-bit").innerHTML =
+                    ("Is not a boolean expression");
+            }
+        }
+
+        //06. Write an expression that checks if given print (x,  y) is within a circle K(O, 5).
+        function checkCircle() {
+            var x = document.getElementById("input-x").value;
+            var y = document.getElementById("input-y").value;
+            if (!isNaN(x) && !isNaN(y)) {
+                var radius = 5;
+                var centerX = 0;
+                var centerY = 0;
+                var result = (((x - centerX) * (x - centerX)) + ((y - centerY) * (y - centerY)) <= radius * radius);
+                document.getElementById("answer-circle").innerHTML =
+                    ("The point is in the circle -> " + result);
+            }
+            else {
+                document.getElementById("answer-circle").innerHTML =
+                    ("Is not a number");
+            }
+        }
+        //07. Write an expression that checks if given positive integer number n (n ≤ 100) is prime. E.g. 37 is prime.
+        function checkPrime() {
+            var number = document.getElementById("input-prime").value;
+            if (!isNaN(number)) {
+                var result = (number % 2 > 0 && number % 3 > 0 && number % 5 > 0 && number % 7 > 0);
+                document.getElementById("answer-prime").innerHTML =
+                    ("The number is prime -> " + result);
+            }
+            else {
+                document.getElementById("answer-prime").innerHTML =
+                    ("Is not a number");
+            }
+        }
+        //08. Write an expression that calculates trapezoid's area by given sides a and b and height h.
+        function checkArea() {
+            var a = parseInt(document.getElementById("input-a").value);
+            var b = parseInt(document.getElementById("input-b").value);
+            var h = parseInt(document.getElementById("input-h").value);
+            if (!isNaN(a) && !isNaN(b) && !isNaN(h)) {
+                var result = ((a+b)/2)*h;
+                document.getElementById("answer-area").innerHTML =
+                    ("The trapezoid area is " + result);
+            }
+            else {
+                document.getElementById("answer-area").innerHTML =
+                    ("Is not a number");
+            }
+        }
+
+        //09.Write an expression that checks for given point (x, y) if it is within the circle K( (1,1), 3)
+        //and out of the rectangle R(top=1, left=-1, width=6, height=2).
+        function circleRrectangle() {
+            var pointX = parseInt(document.getElementById("input-circle-rectangle-x").value);
+            var pointY = parseInt(document.getElementById("input-circle-rectangle-x").value);
+            var centerX = 1;
+            var centerY = 1;
+            var radius = 3;
+            var distance = Math.sqrt((pointX - centerX) ^ 2 + (pointY - centerY) ^ 2);
+            if (distance < radius) {
+                document.getElementById("answer-circle-rectangle").innerHTML = ("The given point is within the circle");
+            }
+            else if (distance == radius) {
+                document.getElementById("answer-circle-rectangle").innerHTML = ("The given point is on the circle");
+            }
+            else {
+                document.getElementById("answer-circle-rectangle").innerHTML = ("The given point is out of the circle");
+            }
+
+            if ((pointX >= -1) && (pointX <= 5) && (pointY <= 1) && (pointY >= -1)) {
+                document.getElementById("second-answer-circle-rectangle").innerHTML = ("The given point is within the rectangle");
+            }
+            else {
+                document.getElementById("second-answer-circle-rectangle").innerHTML = ("The given point is out of the rectangle!");
+            }
+
+        }
+    </script>
+    <style>
+	.border {
+		width:200px;
+		min-height:270px;
+		margin-top:25px;
+		margin-left:50px;
+		padding:5px;
+		float:left;
+		border:1px black solid;
+	    }
+    .border button{
+        background-color:white;
+        border:1px solid black;
+        padding:4px;
+		}
+     .border button:hover{
+        background-color:#161616;
+        color:white;
+		}
+      .border input{
+        border:1px solid black;
+        height:24px;
+        background-color:black;
+        color:white;
+		}
+      .border label {
+          display:block;
+        }
+       #clear {
+           background-color:black;
+           font-size:30px;
+        }
+       #clear h1{
+           font-size:30px;
+           width:200px;
+           text-align:center;
+           margin-top:100px;
+        }
+       #clear:hover{
+           background-color:#161616;
+           color:black;     
+        }
+        #clear h1 a {
+           color:white;
+           text-decoration:none;
+           text-transform:uppercase;
+        }
+	</style>
+</head>
+<body>
+   <!-- 01. - Odd or even -->
+    <div class="border">
+        <p>Write an expression that checks if given integer is odd or even.</p>
+        <label>Enter Number:</label>
+        <input type="text" id="input-btn" />
+        <button onclick="checkOddOrEven()">Check</button>
+        <div id="answer">
+        </div>
+    </div>
+
+    <!-- 02. Divided by 7 and 5 in the same time -->
+    <div class="border">
+        <p>Write a boolean expression that checks for 
+           given integer if it can be divided (without remainder) by 7 and 5 in the same time.</p>
+        <label>Enter Number:</label>
+        <input type="text" id="inputDivide" />
+        <button onclick="checkDivide()">Check</button>
+        <div id="answer-didvide">
+        </div>
+    </div>
+
+    <!-- 03. Calculate rectagnle's area by given width and height-->
+    <div class="border">
+        <p>Write an expression that calculates rectangle’s area by given width and height</p>
+        <label>Enter Width:</label>
+        <input type="text" id="inputWidth" />
+        <label>Enter Height:</label>
+        <input type="text" id="inputHeight" />
+        <button onclick="checkRecArea()">Check</button>
+        <div id="answer-rectArea">
+        </div>
+    </div>
+
+    <!-- 04. Write an expression that checks for given integer if its third digit (right-to-left) is 7.-->
+    <div class="border">
+        <p>Write an expression that checks for given integer if its third digit (right-to-left) is 7. E. g. 1732 is true.</p>
+        <label>Enter Width:</label>
+        <input type="text" id="input-thirdDigit" />
+        <button onclick="checkThirdDigit()">Check</button>
+        <div id="answer-thirdDigit">
+        </div>
+    </div>
+
+    <!-- 05. Write a boolean expression for finding if the bit 3 (counting from 0) of a given integer is 1 or 0.-->
+    <div class="border">
+        <p>Write a boolean expression for finding if the bit 3 (counting from 0) of a given integer is 1 or 0.</p>
+        <label>Enter Width:</label>
+        <input type="text" id="input-bit" />
+        <button onclick="checkThirdBit()">Check</button>
+        <div id="answer-bit">
+        </div>
+    </div>
+
+    <!-- 06. Write an expression that checks if given print (x,  y) is within a circle K(O, 5).-->
+    <div class="border">
+        <p>Write an expression that checks if given print (x,  y) is within a circle K(O, 5).</p>
+        <label>Enter x:</label>
+        <input type="text" id="input-x" />
+        <label>Enter y:</label>
+        <input type="text" id="input-y" />
+        <button onclick="checkCircle()">Check</button>
+        <div id="answer-circle">
+        </div>
+    </div>
+
+    <!-- 07. Write an expression that checks if given positive integer number n (n ≤ 100) is prime. E.g. 37 is prime.-->
+    <div class="border">
+        <p>Write an expression that checks if given positive integer number n (n ≤ 100) is prime. E.g. 37 is prime.</p>
+        <label>Enter number(between 0-100):</label>
+        <input type="text" id="input-prime" />
+        <button onclick="checkPrime()">Check</button>
+        <div id="answer-prime">
+        </div>
+    </div>
+
+    <!-- 08. Write an expression that calculates trapezoid's area by given sides a and b and height h.-->
+    <div class="border">
+        <p>Write an expression that calculates trapezoid's area by given sides a and b and height h.</p>
+        <label>Enter a:</label>
+        <input type="text" id="input-a" />
+        <label>Enter b:</label>
+        <input type="text" id="input-b" />
+        <label>Enter h:</label>
+        <input type="text" id="input-h" />
+        <button onclick="checkArea()">Check</button>
+        <div id="answer-area">
+        </div>
+    </div>
+
+    <!-- 09.Write an expression that checks for given point (x, y) if it is within the circle K( (1,1), 3) 
+        and out of the rectangle R(top=1, left=-1, width=6, height=2).-->
+    <div class="border">
+		<p>Write an expression that checks for given point (x, y) if it is within the circle K( (1,1), 3)
+             and out of the rectangle R(top=1, left=-1, width=6, height=2).</p>
+		<label>Enter x:</label>
+        <input type="text" id="input-circle-rectangle-x" />
+        <label>Enter y:</label>
+        <input type="text" id="input-circle-rectangle-y" />
+		<button onclick="circleRrectangle()">Check</button>
+		<p id="answer-circle-rectangle"></p>
+		<p id="second-answer-circle-rectangle"></p>
+	</div>
+
+    <div id="clear" class="border">
+        <h1><a href="#" onclick="history.go(0)">Clear</a></h1>
+    </div>
+
+
+</body>
+</html>

@@ -1,0 +1,5 @@
+D:\Telerik\TelerikAcademy\Projects\JavaScript\Javascript - UI & DOM\02.Canvas\Drawing\bin\Drawing.dll
+D:\Telerik\TelerikAcademy\Projects\JavaScript\Javascript - UI & DOM\02.Canvas\Drawing\bin\Drawing.pdb
+D:\Telerik\TelerikAcademy\Projects\JavaScript\Javascript - UI & DOM\02.Canvas\Drawing\obj\Debug\Drawing.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\JavaScript\Javascript - UI & DOM\02.Canvas\Drawing\obj\Debug\Drawing.dll
+D:\Telerik\TelerikAcademy\Projects\JavaScript\Javascript - UI & DOM\02.Canvas\Drawing\obj\Debug\Drawing.pdb

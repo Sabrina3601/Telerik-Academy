@@ -1,0 +1,2 @@
+D:\Telerik\TelerikAcademy\Projects\HighQualityCode\04.Correct Use of Variables, Data\01.Task1\bin\Debug\01.Task1.exe.config
+D:\Telerik\TelerikAcademy\Projects\HighQualityCode\04.Correct Use of Variables, Data\01.Task1\obj\Debug\01.Task1.csprojResolveAssemblyReference.cache

@@ -1,0 +1,1 @@
+D:\Telerik\TelerikAcademy\Projects\HighQualityCode\02.NamingIdentifiers\02.Task\bin\Debug\02.Task.exe.config

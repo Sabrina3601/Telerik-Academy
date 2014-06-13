@@ -1,0 +1,6 @@
+D:\Telerik\TelerikAcademy\Projects\OOP\02.DefiningClassesPart-II\Point3D\bin\Debug\Point3D.exe.config
+D:\Telerik\TelerikAcademy\Projects\OOP\02.DefiningClassesPart-II\Point3D\obj\Debug\Point3D.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\OOP\02.DefiningClassesPart-II\Point3D\bin\Debug\Point3D.exe
+D:\Telerik\TelerikAcademy\Projects\OOP\02.DefiningClassesPart-II\Point3D\bin\Debug\Point3D.pdb
+D:\Telerik\TelerikAcademy\Projects\OOP\02.DefiningClassesPart-II\Point3D\obj\Debug\Point3D.exe
+D:\Telerik\TelerikAcademy\Projects\OOP\02.DefiningClassesPart-II\Point3D\obj\Debug\Point3D.pdb

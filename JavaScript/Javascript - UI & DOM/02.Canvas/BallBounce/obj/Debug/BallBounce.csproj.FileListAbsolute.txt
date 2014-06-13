@@ -1,0 +1,5 @@
+D:\Telerik\TelerikAcademy\Projects\JavaScript\Javascript - UI & DOM\02.Canvas\BallBounce\bin\BallBounce.dll
+D:\Telerik\TelerikAcademy\Projects\JavaScript\Javascript - UI & DOM\02.Canvas\BallBounce\bin\BallBounce.pdb
+D:\Telerik\TelerikAcademy\Projects\JavaScript\Javascript - UI & DOM\02.Canvas\BallBounce\obj\Debug\BallBounce.dll
+D:\Telerik\TelerikAcademy\Projects\JavaScript\Javascript - UI & DOM\02.Canvas\BallBounce\obj\Debug\BallBounce.pdb
+D:\Telerik\TelerikAcademy\Projects\JavaScript\Javascript - UI & DOM\02.Canvas\BallBounce\obj\Debug\BallBounce.csprojResolveAssemblyReference.cache

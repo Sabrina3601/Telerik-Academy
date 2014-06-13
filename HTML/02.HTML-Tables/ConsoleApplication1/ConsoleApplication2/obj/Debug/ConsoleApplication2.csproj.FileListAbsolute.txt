@@ -1,0 +1,5 @@
+D:\Telerik\TelerikAcademy\Projects\HTML\02.HTML-Tables\ConsoleApplication1\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+D:\Telerik\TelerikAcademy\Projects\HTML\02.HTML-Tables\ConsoleApplication1\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+D:\Telerik\TelerikAcademy\Projects\HTML\02.HTML-Tables\ConsoleApplication1\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+D:\Telerik\TelerikAcademy\Projects\HTML\02.HTML-Tables\ConsoleApplication1\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+D:\Telerik\TelerikAcademy\Projects\HTML\02.HTML-Tables\ConsoleApplication1\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb

@@ -1,0 +1,5 @@
+D:\Telerik\TelerikAcademy\Projects\HighQualityCode\02.NamingIdentifiers\04.Task\bin\Debug\04.Task.exe.config
+D:\Telerik\TelerikAcademy\Projects\HighQualityCode\02.NamingIdentifiers\04.Task\bin\Debug\04.Task.exe
+D:\Telerik\TelerikAcademy\Projects\HighQualityCode\02.NamingIdentifiers\04.Task\bin\Debug\04.Task.pdb
+D:\Telerik\TelerikAcademy\Projects\HighQualityCode\02.NamingIdentifiers\04.Task\obj\Debug\04.Task.exe
+D:\Telerik\TelerikAcademy\Projects\HighQualityCode\02.NamingIdentifiers\04.Task\obj\Debug\04.Task.pdb

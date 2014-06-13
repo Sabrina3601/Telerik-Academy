@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script>
+	
+		// 1.Exercise
+		console.log("1.Exercise");
+		var arr = new Array(20);
+        for (var i = 0; i <arr.length; i++) {
+            arr[i] = i*5;
+        }
+		console.log(arr.join(", "));
+		
+		
+		
+		//2.Exercise
+		console.log("2.Exercise");
+		var charArray1 = ["A","M","C","S","L","E"];
+		var charArray2 = ["A","M","C","S","L","M"];
+		
+		if (charArray1.length == charArray2.length ) {
+			for (var i=0; i<charArray1.length; i++) {
+				if (charArray1[i] === charArray2[i]) {
+					console.log("array1 " + charArray1[i]  + " is equal to array2 " + charArray2[i] );
+				}
+				else {
+					console.log("array1 " + charArray1  + " is not equal to array2 " + charArray2 );
+				}
+			}
+		}
+		else {
+			if (charArray1.length < charArray2.length) {
+				console.log("array1 " + charArray1  + " is before " + "array1 " + charArray2 );
+			}
+			else {
+				console.log("array2 " + charArray2  + " is before " + "array1 " + charArray1 );
+			}
+		}
+		
+		
+		
+		//3.Exercise
+		console.log("3.Exercise");
+		var numbers = [2, 1, 1, 2, 3, 3, 2, 2, 2, 1];
+		var start;
+		var len = 1;
+		var bestLen = 0;
+		var bestStart = 0;
+		
+		for (var i=0; i<numbers.length; i++) {
+			start = i + 1;
+			if (numbers[i]=== numbers[i+1]) {
+				start = start - len;
+				len++;
+				if (len >= bestLen) {
+					bestLen = len;
+					bestStart = start;
+				}
+			}
+			else {
+				len = 1;
+			}
+		}
+		console.log( "number " + numbers[bestStart] + " repeats " + bestLen + " times/ ");
+		
+		
+		
+		//4.Exercise
+		console.log("4.Exercise");
+		var numbers = [3, 2, 3, 4, 2, 2, 4];
+		var lastElement;
+		var lenght = 1;
+		var bestLenght = 0;
+		
+		for (var i=0; i<numbers.length; i++) {
+			if (numbers[i + 1] - numbers[i] == 1) {
+				lenght++;
+				if (lenght > bestLenght) {
+					bestLenght = lenght;
+					lastElement = i+1;
+				}
+			}
+			else {
+				lenght = 1;
+			}
+		}
+		for (var i = lastElement - (bestLenght - 1); i <= lastElement; i++) {
+			console.log(numbers[i]);
+        }
+		
+		
+		
+		//5.Exercise
+		console.log("5.Exercise");
+		var numbers = [5,3,52,34,0,12,4];
+		var tmp, tmp2;
+	    for (var i = 0; i < numbers.length; i++) {
+			tmp = i;
+			for (var j = i+1; j < numbers.length; j++) {
+				if (numbers[j] < numbers[tmp]) {
+					tmp = j;
+				}
+			}
+			tmp2 = numbers[tmp];
+			numbers[tmp] = numbers[i];
+			numbers[i] = tmp2;
+	   }
+	   console.log(numbers);
+		
+		
+		
+		//6.Exercise
+		console.log("6.Exercise");
+		var numbers = [4, 1, 1, 4, 2, 3, 4, 4, 1, 2, 4, 9, 3];
+		var tmp, tmp2;
+	    for (var i = 0; i < numbers.length; i++) {
+			tmp = i;
+			for (var j = i+1; j < numbers.length; j++) {
+				if (numbers[j] < numbers[tmp]) {
+					tmp = j;
+				}
+			}
+			tmp2 = numbers[tmp];
+			numbers[tmp] = numbers[i];
+			numbers[i] = tmp2;			
+	    }
+		var start;
+		var len = 1;
+		var bestLen = 0;
+		var bestStart = 0;	   
+		for (var i=0; i<numbers.length; i++) {
+			start = i + 1;
+			if (numbers[i]=== numbers[i+1]) {
+				start = start - len;
+				len++;
+				if (len >= bestLen) {
+					bestLen = len;
+					bestStart = start;
+				}
+			}
+			else {
+				len = 1;
+			}
+		}
+		console.log( "number " + numbers[bestStart] + " repeats " + bestLen + " times/ ");
+		
+		
+		
+		//7.Exercise
+		console.log("7*.Exercise");
+		var numbers = [3,172,4,78,5,54,66,34,77];
+		var tmp, tmp2;
+	    for (var i = 0; i < numbers.length; i++) {
+			tmp = i;
+			for (var j = i+1; j < numbers.length; j++) {
+				if (numbers[j] < numbers[tmp]) {
+					tmp = j;
+				}
+			}
+			tmp2 = numbers[tmp];
+			numbers[tmp] = numbers[i];
+			numbers[i] = tmp2;
+	   }		
+		function binary() {
+			var min = 0;
+			var max = numbers.length-1;
+			var key = 5;
+			var mid;
+			
+			while (min <= max ) {
+				mid = parseInt((min + max ) / 2);
+				if (numbers[mid] == key) {
+					return mid;
+				} else if (numbers[mid] < key) {
+					min = mid + 1;
+				} else {
+					max = mid - 1;
+				}
+			}
+		}
+console.log(binary());
+
+
+
+	
+
+    </script>
+</head>
+<body>
+<h2 style="margin:auto; width:500px; margin-top:50px;text-transform:uppercase; font-family:Calibri;">To see the answers look console log (F12)</h2>
+</body>
+</html>

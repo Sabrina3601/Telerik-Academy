@@ -1,0 +1,16 @@
+﻿input{
+    background-color:#1a1919;
+    border:none;
+    color:#fff;   
+}
+label{
+    margin-left:10px;
+}
+div {
+    width:300px;
+    margin:0 auto;
+    margin-top:50px;    
+}
+p{
+    text-align:justify;
+}

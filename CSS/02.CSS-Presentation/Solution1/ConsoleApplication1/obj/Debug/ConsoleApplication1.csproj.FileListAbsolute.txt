@@ -1,0 +1,5 @@
+D:\Telerik\TelerikAcademy\Projects\CSS\02.CSS-Presentation\Solution1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Telerik\TelerikAcademy\Projects\CSS\02.CSS-Presentation\Solution1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Telerik\TelerikAcademy\Projects\CSS\02.CSS-Presentation\Solution1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Telerik\TelerikAcademy\Projects\CSS\02.CSS-Presentation\Solution1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Telerik\TelerikAcademy\Projects\CSS\02.CSS-Presentation\Solution1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

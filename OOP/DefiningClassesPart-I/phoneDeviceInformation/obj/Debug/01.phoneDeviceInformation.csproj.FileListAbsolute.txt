@@ -1,0 +1,5 @@
+D:\Telerik\TelerikAcademy\Projects\OOP\DefiningClassesPart-I\01.phoneDeviceInformation\obj\Debug\01.phoneDeviceInformation.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\OOP\DefiningClassesPart-I\01.phoneDeviceInformation\bin\Debug\01.phoneDeviceInformation.exe
+D:\Telerik\TelerikAcademy\Projects\OOP\DefiningClassesPart-I\01.phoneDeviceInformation\bin\Debug\01.phoneDeviceInformation.pdb
+D:\Telerik\TelerikAcademy\Projects\OOP\DefiningClassesPart-I\01.phoneDeviceInformation\obj\Debug\01.phoneDeviceInformation.exe
+D:\Telerik\TelerikAcademy\Projects\OOP\DefiningClassesPart-I\01.phoneDeviceInformation\obj\Debug\01.phoneDeviceInformation.pdb

@@ -1,0 +1,5 @@
+D:\Telerik\TelerikAcademy\Projects\JavaScript\Javascript - UI & DOM\myJob\myjob\myjob\bin\myjob.dll
+D:\Telerik\TelerikAcademy\Projects\JavaScript\Javascript - UI & DOM\myJob\myjob\myjob\bin\myjob.pdb
+D:\Telerik\TelerikAcademy\Projects\JavaScript\Javascript - UI & DOM\myJob\myjob\myjob\obj\Debug\myjob.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\JavaScript\Javascript - UI & DOM\myJob\myjob\myjob\obj\Debug\myjob.dll
+D:\Telerik\TelerikAcademy\Projects\JavaScript\Javascript - UI & DOM\myJob\myjob\myjob\obj\Debug\myjob.pdb

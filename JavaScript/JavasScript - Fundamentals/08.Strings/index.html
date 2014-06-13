@@ -1,0 +1,559 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Reverse</title>
+    <style>
+		.border {
+		width:200px;
+		min-height:505px;
+		margin-top:25px;
+		margin-left:50px;
+		padding:5px;
+		float:left;
+		border:1px black solid;
+	    }
+    .border button{
+        background-color:white;
+        border:1px solid black;
+        padding:4px;
+		}
+     .border button:hover{
+        background-color:#161616;
+        color:white;
+		}
+      .border input{
+        border:1px solid black;
+        height:24px;
+        background-color:black;
+        color:white;
+		margin-top:5px;
+		}
+      .border label {
+          display:block;
+        }
+       #clear {
+           background-color:black;
+           font-size:30px;
+		   cursor:default;
+           margin-bottom:200px;
+        }
+       #clear h1{
+           font-size:30px;
+           width:200px;
+           text-align:center;
+           margin-top:100px;
+        }
+       #clear:hover{
+           background-color:#161616;
+           color:black;     
+        }
+        #clear h1  {
+           color:white;
+           text-decoration:none;
+           text-transform:uppercase;
+        }
+		button{
+			margin-top:5px;
+		}
+        textarea{
+            height:200px;
+            background-color:black;
+            color:#fff;
+            border:1px solid black;
+            width:196px;
+        }
+        p{
+            width:200px;
+            overflow-x:auto;
+        }
+	
+	</style>
+    <script>
+
+        //Exercise 1
+        function reverseStr() {
+            var input = document.getElementById("reverse").value;
+            var reverseArr = "";
+            for (var i = input.length-1; i >= 0; i--) {
+                reverseArr += input[i];
+            }
+            document.getElementById("answer-reverse").innerHTML = (reverseArr);
+        }
+
+        //Exercise 2
+        function bracketsStr() {
+            var input = document.getElementById("brackets").value;
+            var countOpen = 0;
+            var countClosed = 0;
+            var count = 0;
+            var isCorrect = true;
+            for (var i = 0; i < input.length; i++) {
+                if (input[i] == "(") {
+                    if (i == input.length-1) {
+                        isCorrect = false;
+                        break;
+                    }
+                    countOpen++;
+                }
+                else if (input[i] == ")") {
+                    if (i == 0) {
+                        isCorrect = false;
+                        break;
+                    }
+                    isClosed = true;
+                    countClosed++;
+                }
+            }
+            if (countOpen == countClosed && isCorrect == true ) {
+                document.getElementById("answer-brackets").innerHTML = ("Correct expression");
+            }
+            else {
+                document.getElementById("answer-brackets").innerHTML = ("Incorrect expression");
+            }
+           
+        }
+
+        //Exercise 3
+        function containStr() {
+            var text = document.getElementById("text").value.toLowerCase();
+            var word = document.getElementById("contain").value;
+            var countWord = 0;
+            var textIndexOf = text.indexOf(word);
+            while (textIndexOf > -1) {
+                countWord++;
+                textIndexOf = text.indexOf(word, textIndexOf+1);
+            }
+            document.getElementById("answer-contain").innerHTML = (countWord);
+        }
+
+        //Exercise 4
+        function findAndStyle() {
+            var text = document.getElementById("input-style-text").value;
+            var isOpen = false;
+            var isClose = false;
+            var replaceText = text;
+            for (var i = 0; i < text.length-1; i++) {
+                var startOpenTag = 0;
+                var endOpenTag = 0;
+                var tag = "";
+                if (text[i] == "<" && text[i+1] != "/") {
+                    startOpenTag = i;
+                    isOpen = true;
+                    tag += text[i];
+                    for (j = i + 1; j < text.length; j++) {
+                        tag += text[j];
+                        if (text[j]==">") {
+                            endOpenTag = j;
+                            i = j;
+                            break;
+                        }
+                    }
+                }
+                
+                //var closeTag = "";
+                if (tag == "<mixcase>") {
+                    text = text.replace(tag, "");
+                    var findClose = text.indexOf("</mixcase>");//13
+
+                    var saveText = "";
+                    for (var v = 0;v < text.length; v++) {
+                        
+                        if (v == startOpenTag) {
+                            for (var k = startOpenTag; k < findClose; k++) {
+                                if (k % 2 == 0) {
+                                    saveText += text[k].toLowerCase();
+                                }
+                                else {
+                                    
+                                    saveText += text[k].toUpperCase();
+                                }
+                                if (k == findClose -1) {
+                                    v = k;
+                                }
+
+                            }
+                        }
+                        else {
+                            saveText += text[v];
+                        }
+                        
+                    }
+                   
+                    text = saveText;
+                    
+                    text = text.replace("</mixcase>", "");
+
+                    i = findClose ;
+                }
+                else if (tag == "<upcase>") {
+                    text = text.replace(tag, "");
+                    var findClose = text.indexOf("</upcase>");//13
+
+                    var saveText = "";
+                    for (var v = 0; v < text.length; v++) {
+                       
+                        if (v == startOpenTag) {
+                            for (var k = startOpenTag; k < findClose; k++) {
+                                    saveText += text[k].toUpperCase();   
+                                if (k == findClose - 1) {
+                                    v = k;
+                                }
+
+                            }
+                        }
+                        else {
+                            saveText += text[v];
+                        }
+
+                    }
+                    text = saveText;
+                    text = text.replace("</upcase>", "");
+
+                    i = findClose ;
+                }
+                else if (tag == "<lowcase>") {
+                    text = text.replace(tag, "");
+                    var findClose = text.indexOf("</lowcase>");//13
+
+                    var saveText = "";
+                    for (var v = 0; v < text.length; v++) {
+                       
+                        if (v == startOpenTag) {
+                            for (var k = startOpenTag; k < findClose; k++) {
+                                saveText += text[k].toLowerCase();
+                                if (k == findClose - 1) {
+                                    v = k;
+                                }
+
+                            }
+                        }
+                        else {
+                            saveText += text[v];
+                        }
+
+                    }
+                    text = saveText;
+                    text = text.replace("</lowcase>", "");
+
+                    i = findClose ;
+                }
+                
+
+
+            }
+            document.getElementById("answer-style").innerHTML = (text);
+
+        }
+
+        //Exercise 5
+        function replaceSpace() {
+            var text = document.getElementById("replace-space").value;
+            var result = '';
+            for (var i = 0; i < text.length; i++) {
+                if (text[i] == ' ') {
+                    result += "&nbsp";
+                }
+                else {
+                    result += text[i];
+                }
+            }
+            document.getElementById("answer-replace-space").innerHTML = (result);
+
+        }
+        //Exercise 6
+        function htmlReader() {
+            var text = document.getElementById("html-text").value;
+            var result = "";
+            for (var i = 0; i < text.length; i++) {
+                if (text[i] == "<") {
+                    for(var j = i; j <text.length; j++){
+                        if (text[j] == ">") {
+                            i = j;
+                            break;
+                        }
+
+                    }
+                }
+                else {
+                    result += text[i];
+                }
+            }
+            document.getElementById("answer-html").innerHTML = (result);
+        }
+        //Exercise 7
+        function urlReader() {
+            var url = document.getElementById("url-input").value;
+
+            var protokol = url.substring(0, url.indexOf(":"));
+            var server = url.substring(url.indexOf(":") + 3, url.indexOf("/", url.indexOf(":") + 3));
+            var resource = url.substr(url.indexOf("/", url.indexOf(":") + 3) + 1)
+            var URLJSON = { "Protokol": protokol, "Server": server, "Resource": resource };
+            document.getElementById("answer-url").innerHTML = ("Protocol: " + URLJSON.Protokol + "<br>" + "Server: " + URLJSON.Server + "<br>" + "Resource: " + URLJSON.Resource);
+        }
+        //Exercise 8
+        function convertLink() {
+            var text = document.getElementById("text-link").value;
+            var index = text.indexOf("<a");
+            while (index > -1) {
+                text = text.replace("<a", "[URL");
+                text = text.replace("</a>", "[/URL]");
+                index = text.indexOf("<a", index + 1);
+            }
+
+            document.getElementById("answer-link").innerHTML = (text);
+        }
+
+        function findEmail() {
+            var text = document.getElementById("input-email").value;
+
+            //jsConsole.writeLine(text);
+            var emailArr = [];
+            var index = text.indexOf("@");
+            while (index > -1) {
+                if (text[index - 1] != " " && text[index + 1] != " ") {
+                    var identifier = text.substring(text.lastIndexOf(" ", index - 1), index);
+                    var host = text.substring(index + 1, text.indexOf(".", index + 1));
+                    var domain = text.substring(text.indexOf(".", index + 1) + 1, text.indexOf(" ", text.indexOf(".", index + 1) + 1));
+                    var email = identifier + "@" + host + "." + domain;//it's not working slow for 5 elements
+                    emailArr.push(email);
+                    index = text.indexOf("@", index + 1);
+                }
+            }
+
+            document.getElementById("answer-email").innerHTML = (emailArr);
+
+        }
+
+        //Exercise 10
+        function palindromes() {
+
+                var strBuilder = buildStringBuilder();
+                var text = document.getElementById("palindromes").value;
+                text = text.toLowerCase();
+                text = text.replace(".", " ").replace("!", " ").replace("?", " ").replace(",", " ");
+                var wordsArr = text.split(" ");
+                var result = "";
+                for (var i = 0; i < wordsArr.length; i++) {
+                    strBuilder = buildStringBuilder();
+                    for (var j = wordsArr[i].length - 1; j >= 0 ; j--) {
+                        strBuilder.append(wordsArr[i][j]);
+                    }
+                    if (strBuilder.toString() == wordsArr[i]) {
+                        console.log(wordsArr[i]);
+                        result += wordsArr[i] + "<br> ";
+                       
+                    }
+                    document.getElementById("answer-palindromes").innerHTML = (result);
+                }
+            
+            function buildStringBuilder() {
+                return {
+                    strs: [],
+                    len: 0,
+                    append: function (str) {
+                        this.strs[this.len++] = str;
+                        return this;
+                    },
+                    toString: function () {
+                        return this.strs.join("");
+                    }
+                };
+            }
+        }
+
+        //Exercise 11
+        function pritnTheSubstitute() {
+            var text = document.getElementById("sub-text").value;
+            var words = document.getElementById("word").value;
+            var wordsArr = words.split(",");
+            var formated = stringFormat(text, wordsArr);
+            document.getElementById("substitute").innerHTML = (formated);
+        }
+        function stringFormat(text, wordsArr) {
+            var strB = buildStringBuilder();
+            var beggining = 0;
+            var index = text.indexOf("{");
+            while (index > -1) {
+                var number = parseInt(text.substr(index + 1, 1));
+                strB.append(text.substring(beggining, index - 1) + " ");
+                strB.append(wordsArr[number] + " ");
+                beggining = index + 3;
+                index = text.indexOf("{", index + 1);
+            }
+            return strB.toString();
+        }
+        function buildStringBuilder() {
+            return {
+                strs: [],
+                len: 0,
+                append: function (str) {
+                    this.strs[this.len++] = str;
+                    return this;
+                },
+                toString: function () {
+                    return this.strs.join("");
+                }
+            };
+        }
+
+        //Exercise 12
+        function genList() {
+            var people = [{ name: "gosho", age: 3 }, { name: "penio", age: 29 }, { name: "bat asen", age: 30 }];
+            var temp = document.getElementById("list-item").innerHTML;
+            var finalArr = generateList(temp, people);
+            var result = "";
+            for (var i = 0; i < finalArr.length; i += 2) {
+                result += "<ul><li><strong>" + finalArr[i] + "</strong><span>" + finalArr[i + 1] + "</span></li><li>…</li>…</ul>" + "<br>";
+            }
+            document.getElementById("answer-list").innerHTML = (result);
+            function generateList(temp, people) {
+                var holder = temp;
+                var liArr = [];
+                for (var person in people) {
+                    var index = temp.indexOf("{name}");
+                    var index2 = temp.indexOf("{age}");
+                    temp = temp.replace("{name}", people[person].name);
+                    liArr.push(temp.substr(index, people[person].name.length));
+                    temp = holder;
+                    temp = temp.replace("{age}", people[person].age);
+                    liArr.push(temp.substr(index2, people[person].age.toString().length));
+                    temp = holder;
+                }
+                return liArr;
+            }
+        }
+
+    </script>
+</head>
+<body>
+    <!--01. Exercises-->
+	<div class="border">
+		<p>01.Write a JavaScript function reverses string and returns itExample: "sample" ->"elpmas".</p>
+		<input type="text" name="input-name" id="reverse" value="" />
+		<button onclick="reverseStr()">Check</button>
+		<p id="answer-reverse"></p>
+	</div>
+
+     <!--02. Exercises-->
+	<div class="border">
+		<p>02.Write a JavaScript function to check if in a given expression the brackets are put correctly.
+            Example of correct expression: ((a+b)/5-d).
+            Example of incorrect expression: )(a+b)).
+        </p>
+		<input type="text" name="input-name" id="brackets" value="" />
+		<button onclick="bracketsStr()">Check</button>
+		<p id="answer-brackets"></p>
+	</div>
+
+    <!--03. Exercises-->
+	<div class="border">
+		<p>03.Write a JavaScript function that finds how many times a substring is contained in a given text 
+            (perform case insensitive search).
+        </p>
+        <textarea  name="input-text" id="text">We are living in an yellow submarine. We don't have anything else. Inside the submarine is very tight. So we are drinking all the day. We will move out of it in 5 days.</textarea>
+		<input type="text" name="input-name" id="contain" value="" />
+		<button onclick="containStr()">Check</button>
+		<p id="answer-contain"></p>
+	</div>
+
+     <!--04. Exercises-->
+	<div class="border">
+		<p>04.You are given a text. Write a function that changes the text in all regions:
+            &ltupcase>text&lt/upcase> to uppercase.
+            &ltlowcase>text&lt/\&ltlowcase> to lowercase
+            &ltmixcase>text&lt/&ltmixcase> to mix casing(random)
+        </p>
+        <input name="input-style-text" id="input-style-text" value="" placeholder="We are <mixcase>living</mixcase> in a <upcase>yellow submarine</upcase>. We <mixcase>don't</mixcase> have <lowcase>anything</lowcase> else." />
+		<button onclick="findAndStyle()">Check</button>
+		<p id="answer-style"></p>
+	</div>
+
+    
+    <!--05. Exercises-->
+	<div class="border">
+		<p>05. Write a function that replaces non breaking white-spaces in a text with &amp;nbsp;
+        </p>
+        <textarea  name="input-text" id="replace-space">We are living in an yellow submarine.</textarea>
+		
+		<button onclick="replaceSpace()">Check</button>
+		<p id="answer-replace-space"></p>
+	</div>
+
+    <!--06. Exercises-->
+	<div class="border">
+		<p>06.Write a function that extracts the content of a html page given as text. The function should return anything that is in a tag, without the tags:
+        </p>
+        <textarea  name="input-text" id="html-text" placeholder="<html><head><title>Sample site</title></head><body><div>text<div>more text</div>and more...</div>in body</body></html>
+"></textarea>
+		
+		<button onclick="htmlReader()">Check</button>
+		<p id="answer-html"></p>
+	</div>
+
+     <!--07. Exercises-->
+	<div class="border">
+		<p>07.Write a script that parses an URL address given in the format:
+            and extracts from it the [protocol], [server] and [resource] elements. Return the elements in a JSON object.For example from the URL http://www.devbg.org/forum/index.php the following information should be extracted:
+        </p>
+        
+		 <input name="url" id="url-input" value="" />
+		<button onclick="urlReader()">Check</button>
+		<p id="answer-url"></p>
+	</div>
+
+    <!--08. Exercises-->
+	<div class="border">
+		<p>08.Write a JavaScript function that replaces in a HTML document given as string all the tags a href="…">…/a> with corresponding tags [URL=…]…/URL]</p>
+        
+		 <textarea  name="input-text" id="text-link"></textarea>
+		<button onclick="convertLink()">Check</button>
+		<p id="answer-link"></p>
+	</div>
+	
+    <!--09. Exercises-->
+	<div class="border">
+		<p>09.Write a function for extracting all email addresses from given text. All substrings that match the format &lt;identifier>&lt;@host>…&lt;domain> should be recognized as emails. Return the emails as array of strings.
+</p>
+        
+		<textarea  name="input-text" id="input-email">Here are some emails asen.asenov@abv.bg and may be some more mails ivanIvanov@gmail.bg </textarea>
+		<button onclick="findEmail()">Check</button>
+		<p id="answer-email"></p>
+	</div>
+
+    <!--10. Exercises-->
+	<div class="border">
+		<p>10.Write a program that extracts from a given text all palindromes, e.g. "ABBA", "lamal", "exe".</p>
+        
+		<textarea  name="input-text" id="palindromes"></textarea>
+		<button onclick="palindromes()">Check</button>
+		<p id="answer-palindromes"></p>
+	</div>
+
+     <!--11. Exercises-->
+	<div class="border">
+		<p>11.Write a function that formats a string using placeholders.The function should work with up to 30 placeholders and all types
+</p>
+        
+		<textarea  name="input-text" id="sub-text"></textarea>
+        <input name="url" id="word" value="" />
+		<button onclick="pritnTheSubstitute()">Check</button>
+		<p id="substitute"></p>
+	</div>
+
+    <!--12. Exercises-->
+	<div class="border">
+		<p>12.Write a function that creates a HTML UL using a template for every HTML LI. The source of the list should an array of elements. Replace all placeholders marked with –{…}–   with the value of the corresponding property of the object.</p>
+        
+		
+		<button onclick="genList()">Check</button>
+        <div data-type="template" id="list-item">
+    <strong>-{name}-</strong> <span>-{age}-</span>
+    </div>
+		<p id="answer-list"></p>
+	</div>
+
+	<div id="clear" class="border" onclick="document.location.reload(true)">
+        <h1>Clear</h1>
+    </div>
+</body>
+</html>

@@ -1,0 +1,428 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script>
+	
+		// 1.Exercise
+        function change() {
+            var a = document.getElementById("number-field-a").value;
+            var b = document.getElementById("number-field-b").value;
+			if (a<b) {
+				 document.getElementById("answer").innerHTML=("a= " + (a=b) + "</br> b= " + (b=document.getElementById("number-field-a").value) );
+			}
+			else {
+				document.getElementById("answer").innerHTML=("a= " + a + "</br> b= " + b);
+			}
+        };
+		
+		
+		//2.Exercise
+		function sign() {
+			var a = parseInt(document.getElementById("number-field-sign-a").value);
+			var b = parseInt(document.getElementById("number-field-sign-b").value);
+			var c = parseInt(document.getElementById("number-field-sign-c").value);
+			if (a>0 && b>0 && c>0) {
+				document.getElementById("answer-sign").innerHTML=("+");
+			}
+			else if (a<0 && b<0 && c>0 || c<0 && b<0 && a>0 || a<0 && c<0 && b>0) {
+				document.getElementById("answer-sign").innerHTML=("+");
+			}
+			else if (a<0 && b!=0 && c!=0 || b<0 && a!=0 && c!=0 || c<0 && a!=0 && b!=0) {
+				document.getElementById("answer-sign").innerHTML=("-");
+			}
+			
+			else if (a<0 && b<0 && c<0) {
+				document.getElementById("answer-sign").innerHTML=("-");
+			}
+			else {
+				document.getElementById("answer-sign").innerHTML=("0");
+			}
+		}
+		
+		
+		
+		//3.Exercise
+		function check() {
+			var a = parseInt(document.getElementById("number-field-biggest-a").value);
+			var b = parseInt(document.getElementById("number-field-biggest-b").value);
+			var c = parseInt(document.getElementById("number-field-biggest-c").value);
+			if (a>b){
+				if(a>c) {
+					document.getElementById("answer-biggest").innerHTML=(a);
+				}
+				else if (a==c) {
+					document.getElementById("answer-biggest").innerHTML=("A and C are equal and biggest numbers");
+				}
+				else {
+					document.getElementById("answer-biggest").innerHTML=(c);
+				}
+			}
+			else if (b>a) {
+				if (b>c){
+				document.getElementById("answer-biggest").innerHTML=(b);
+				}
+				else if (b==c) {
+					document.getElementById("answer-biggest").innerHTML=("B and C are equal and biggest numbers");
+				}
+				else {
+					document.getElementById("answer-biggest").innerHTML=(c);
+				}
+			}
+			else if (c>a) {
+				if (c>b) {
+					document.getElementById("answer-biggest").innerHTML=(c);
+				}
+				else {
+					document.getElementById("answer-biggest").innerHTML=(b);
+				}
+			}
+			else if (a==b && a>c) {
+				document.getElementById("answer-biggest").innerHTML=("A and B are equal and biggest numbers");
+			}
+			else {
+				document.getElementById("answer-biggest").innerHTML=("The number are equal");
+			}
+		}
+		
+		
+		
+		//4.Exercise
+		function order(a,b,c) {
+			var a = parseInt(document.getElementById("number-field-order-a").value);
+			var b = parseInt(document.getElementById("number-field-order-b").value);
+			var c = parseInt(document.getElementById("number-field-order-c").value);
+			var min;
+			var mid;
+			var max;
+			if (a>=b) {
+				if (a>=c) {
+					max=a;
+					if (b>=c) {
+						mid = b;
+						min = c
+					}
+					else {
+						mid = c;
+						min = b;
+					}
+				}
+			}				
+			else if (b>=c) {
+				max = b;
+				if (c>=a) {
+					mid = c;
+					min = a;
+				}
+				else {
+					mid = a;
+					min = c;
+				}
+			} 
+			else {
+				max = c;
+				if (b>=a) {
+					mid = b;
+					min = a;
+				}
+				else {
+					mid = a;
+					min = b;
+				}
+			};
+			document.getElementById("answer-order").innerHTML=(min + "," + mid + "," + max);
+		}
+	
+
+		
+		
+		
+		//5.Exercise
+		 function digitname() {
+ 
+			var number = parseInt(document.getElementById("number-field-switch").value);
+			console.log(number);
+			var msg = "";
+			 
+			 
+			switch (number) {
+			 
+			case 0: msg = "Zero"; break;
+			case 1: msg = "One"; break;
+			case 2: msg = "Two"; break;
+			case 3: msg = "Three"; break;
+			case 4: msg = "Four"; break;
+			case 5: msg = "Five"; break;
+			case 6: msg = "Six"; break;
+			case 7: msg = "Seven"; break;
+			case 8: msg = "Eight"; break;
+			case 9: msg = "Nine"; break;
+			case 10: msg = "Ten"; break;
+			case 11: msg = "Eleven"; break;
+			case 12: msg = "Twelve"; break;
+			case 13: msg = "Thirteen"; break;
+			case 14: msg = "Fourteen"; break;
+			case 15: msg = "Fifteen"; break;
+			case 16: msg = "Sixteen"; break;
+			case 17: msg = "Seventeen"; break;
+			case 18: msg = "Eighteen"; break;
+			case 19: msg = "Nineteen"; break;
+			case 20: msg = "Twenty"; break;
+			default: msg = "Type numbers 0 to 20";
+			}
+ 
+			document.getElementById("answer-switch").innerHTML = (msg);
+		}
+		
+		
+		
+		//6.Exercise
+		function math() {
+			var a = parseInt(document.getElementById("number-field-math-a").value);
+			var b = parseInt(document.getElementById("number-field-math-b").value);
+			var c = parseInt(document.getElementById("number-field-math-c").value);
+			var d = Math.sqrt(b*b-(4*a*c));
+			var x1;
+			var x2;
+			if (d==0) {
+				x1 = -b / 2*a;
+				x2 = x1;
+				document.getElementById("answer-math").innerHTML=("x1= "+ x1 + " and x2= " + x2 );
+			}
+			else if (d>0) {
+				x1 = (-b+d)/2*a;
+				x2 = (-b-d)/2*a;
+				document.getElementById("answer-math").innerHTML=(x1 + x2);
+			}
+			else if (d<0) {
+				document.getElementById("answer-math").innerHTML=("nqma realni koreni");
+			}
+		}
+
+		
+		
+		//7.Exercise
+		function greatest() {
+			var a = parseInt(document.getElementById("number-field-greatest-a").value);
+			var b = parseInt(document.getElementById("number-field-greatest-b").value);
+			var c = parseInt(document.getElementById("number-field-greatest-c").value);
+			var d = parseInt(document.getElementById("number-field-greatest-d").value);
+			var e = parseInt(document.getElementById("number-field-greatest-e").value);
+			if ((a >= b) && (a >= c) && (a >= d) && (a >= e)) {
+				document.getElementById("answer-greatest").innerHTML=(a + " is the biggest number");
+			}
+			else if ((b >= a) && (b >= c) && (b >= d) && (b >= e)) {
+				document.getElementById("answer-greatest").innerHTML=(b + " is the biggest number");
+			}
+			else if ((c >= a) && (c >= b) && (c >= d) && (c >= e)) {
+				document.getElementById("answer-greatest").innerHTML=(c + " is the biggest number");
+			}
+			else if ((d >= a) && (d >= b) && (d >= c) && (d >= e)) {
+				document.getElementById("answer-greatest").innerHTML=(d + " is the biggest number");
+			}
+			else {
+				document.getElementById("answer-greatest").innerHTML=(e + " is the biggest number");
+			}
+		}
+			
+		
+		
+		
+		
+		
+		
+		//8.Exercise
+		
+	function toText() {
+
+		var number = parseInt(document.getElementById("number-field-toText").value);
+		var dg = ['', 'one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine'];
+		var tn = ['ten', 'eleven', 'twelve', 'thirteen', 'fourteen', 'fifteen', 'sixteen', 'seventeen', 'eighteen', 'nineteen'];
+		var tw = ['', '', 'twenty', 'thirty', 'forty', 'fifty', 'sixty', 'seventy', 'eighty', 'ninety'];
+		var num = number;
+		
+		num = num.toString();
+		var array1 = num.split("");
+		var arrLen = array1.length;
+
+		if ((number < 0) || (number > 999)) {
+			document.getElementById("answer-toText").innerHTML=("please enter number in that range [0 to 999]");
+		}
+		else if (arrLen ==1) {
+			if (array1[0] == "0") {
+				document.getElementById("answer-toText").innerHTML=("zero");
+			}
+			else {
+				document.getElementById("answer-toText").innerHTML=(dg[array1[0]]);
+			}
+		}
+		else if (arrLen == 2) {
+			if (array1[0] == 1) {
+				document.getElementById("answer-toText").innerHTML=(tn[array1[1]]); 
+			}
+			else if ((array1[0] >= 2) && (array1[0] <= 9)) {
+				document.getElementById("answer-toText").innerHTML=(tw[array1[0]] + " " + dg[array1[1]]);
+			}
+		}
+		else if (arrLen == 3) {
+
+			if ((array1[1] == 0) && (array1[2] == 0)) {
+				document.getElementById("answer-toText").innerHTML=(dg[array1[0]] + " hundred ");
+			}
+			else if ((array1[1] == 0) && (array1[2] > 0)) {
+				document.getElementById("answer-toText").innerHTML=(dg[array1[0]] + " hundred " + dg[array1[2]]);
+			}
+			else if (array1[1] == 1) {
+				document.getElementById("answer-toText").innerHTML=(dg[array1[0]] + " hundred " + tn[array1[2]]);
+			}
+			else if ((array1[1] >= 2) && (array1[1] <= 9)) {
+				document.getElementById("answer-toText").innerHTML=(dg[array1[0]] + " hundred " + tw[array1[1]] + " " + dg[array1[2]]);
+			}
+		}
+	}	
+
+    </script>
+	<style>
+		.border {
+		width:200px;
+		min-height:270px;
+		margin-top:25px;
+		margin-left:50px;
+		padding:5px;
+		float:left;
+		border:1px black solid;
+	    }
+    .border button{
+        background-color:white;
+        border:1px solid black;
+        padding:4px;
+		}
+     .border button:hover{
+        background-color:#161616;
+        color:white;
+		}
+      .border input{
+        border:1px solid black;
+        height:24px;
+        background-color:black;
+        color:white;
+		margin-top:5px;
+		}
+      .border label {
+          display:block;
+        }
+       #clear {
+           background-color:black;
+           font-size:30px;
+		   cursor:default;
+        }
+       #clear h1{
+           font-size:30px;
+           width:200px;
+           text-align:center;
+           margin-top:100px;
+        }
+       #clear:hover{
+           background-color:#161616;
+           color:black;     
+        }
+        #clear h1  {
+           color:white;
+           text-decoration:none;
+           text-transform:uppercase;
+        }
+		button{
+			margin-top:5px;
+		}
+	</style>
+</head>
+<body>
+	<div class="float">
+		<!--1. Exercises-->
+		<div class="border">
+		<p>1.Write an if statement that examines two integer variables and exchanges their values if the first one is greater than the second one.</p>
+		<input type="text" name="number-field-a" id="number-field-a" value="" />a
+		<input type="text" name="number-field-b" id="number-field-b" value="" />b
+		<button onclick="change()">Check</button>
+		<p id="answer"></p>
+		</div>
+		
+		<!--2. Exercises-->
+		<div class="border">
+		<p>2.Write a script that shows the sign (+ or -) of the product of three real numbers without calculating it.</p>
+		<input type="text" name="number-sign" id="number-field-sign-a" value="" />
+		<input type="text" name="number-sign" id="number-field-sign-b" value="" />
+		<input type="text" name="number-sign" id="number-field-sign-c" value="" />
+		<button onclick="sign()">Check</button>
+		<p id="answer-sign"></p>
+		</div>
+		
+		<!--3. Exercises-->
+		<div class="border">
+		<p>3.Write a script that finds the biggest of three integers.</p>
+		<input type="text" name="number-field-biggest-a" id="number-field-biggest-a" value="" />a
+		<input type="text" name="number-field-biggest-b" id="number-field-biggest-b" value="" />b
+		<input type="text" name="number-field-biggest-c" id="number-field-biggest-c" value="" />c
+		<button onclick="check()">Check</button>
+		<p id="answer-biggest"></p>
+		</div>
+		
+		<!--4. Exercises-->
+		<div class="border">
+		<p>4.Sort 3 real values in descending order.</p>
+		<input type="text" name="number-field-order" id="number-field-order-a" value="" />
+		<input type="text" name="number-field-order" id="number-field-order-b" value="" />
+		<input type="text" name="number-field-order" id="number-field-order-c" value="" />
+		<button onclick="order()">Check</button>
+		<p id="answer-order"></p>
+		</div>
+		
+		<!--5. Exercises-->
+		<div class="border">
+		<p>5.Write script that asks for a digit and depending on the input shows the name of that digit (in English).</p>
+		<input type="text" name="number-field-switch" id="number-field-switch" value="" />
+		<button onclick="digitname()">Check</button>
+		<p id="answer-switch"></p>
+		</div>
+		
+		<!--6. Exercises-->
+		<div class="border">
+		<p>6.Write a script that enters the coefficients a, b and c of a quadratic equation.</p>
+		<input type="text" name="number-field-a" id="number-field-math-a" value="" />a
+		<input type="text" name="number-field-b" id="number-field-math-b" value="" />b
+		<input type="text" name="number-field-c" id="number-field-math-c" value="" />c
+		<button onclick="math()">Check</button>
+		<p id="answer-math"></p>
+		</div>
+	
+	</div>
+	
+	<div class="float">
+		<!--7. Exercises-->
+		<div class="border">
+		<p>7.Write a script that finds the greatest of given 5 variables.</p>
+		<input type="text" name="number-field-greatest-a" id="number-field-greatest-a" value="" />a
+		<input type="text" name="number-field-greatest-b" id="number-field-greatest-b" value="" />b
+		<input type="text" name="number-field-greatest-c" id="number-field-greatest-c" value="" />c
+		<input type="text" name="number-field-greatest-d" id="number-field-greatest-d" value="" />d
+		<input type="text" name="number-field-greatest-e" id="number-field-greatest-e" value="" />e
+		<button onclick="greatest()">Check</button>
+		<p id="answer-greatest"></p>
+		</div>
+		
+		
+		
+		<!--8 Exercises-->
+		<div class="border">
+		<p>8.Write a script that converts a number in the range [0...999] to a text corresponding to its English pronunciation.</p>
+		<input type="text" name="number-field-toText" id="number-field-toText" value="" />
+		<button onclick="toText()">Check</button>
+		<p id="answer-toText"></p>
+		</div>
+		
+		<div id="clear" class="border" onClick="document.location.reload(true)">
+        <h1>Clear</h1>
+    </div>
+	</div>
+	
+</body>
+</html>
