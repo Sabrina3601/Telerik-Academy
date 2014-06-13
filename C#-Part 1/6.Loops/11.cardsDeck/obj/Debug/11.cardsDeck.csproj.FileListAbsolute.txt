@@ -1,0 +1,4 @@
+D:\Telerik\TelerikAcademy\Projects\6.Loops\11.cardsDeck\bin\Debug\11.cardsDeck.exe
+D:\Telerik\TelerikAcademy\Projects\6.Loops\11.cardsDeck\bin\Debug\11.cardsDeck.pdb
+D:\Telerik\TelerikAcademy\Projects\6.Loops\11.cardsDeck\obj\Debug\11.cardsDeck.exe
+D:\Telerik\TelerikAcademy\Projects\6.Loops\11.cardsDeck\obj\Debug\11.cardsDeck.pdb

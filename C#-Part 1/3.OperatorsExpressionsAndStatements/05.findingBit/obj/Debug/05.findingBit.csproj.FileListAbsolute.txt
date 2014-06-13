@@ -1,0 +1,5 @@
+D:\Telerik\TelerikAcademy\Projects\3.OperatorsExpressionsAndStatements\05.findingBit\bin\Debug\05.findingBit.exe
+D:\Telerik\TelerikAcademy\Projects\3.OperatorsExpressionsAndStatements\05.findingBit\bin\Debug\05.findingBit.pdb
+D:\Telerik\TelerikAcademy\Projects\3.OperatorsExpressionsAndStatements\05.findingBit\obj\Debug\05.findingBit.exe
+D:\Telerik\TelerikAcademy\Projects\3.OperatorsExpressionsAndStatements\05.findingBit\obj\Debug\05.findingBit.pdb
+D:\Telerik\TelerikAcademy\Projects\3.OperatorsExpressionsAndStatements\05.findingBit\obj\Debug\05.findingBit.csprojResolveAssemblyReference.cache

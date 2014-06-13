@@ -1,0 +1,5 @@
+D:\Telerik\TelerikAcademy\Projects\3.OperatorsExpressionsAndStatements\03.rectangleArea\bin\Debug\03.rectangleArea.exe
+D:\Telerik\TelerikAcademy\Projects\3.OperatorsExpressionsAndStatements\03.rectangleArea\bin\Debug\03.rectangleArea.pdb
+D:\Telerik\TelerikAcademy\Projects\3.OperatorsExpressionsAndStatements\03.rectangleArea\obj\Debug\03.rectangleArea.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\3.OperatorsExpressionsAndStatements\03.rectangleArea\obj\Debug\03.rectangleArea.exe
+D:\Telerik\TelerikAcademy\Projects\3.OperatorsExpressionsAndStatements\03.rectangleArea\obj\Debug\03.rectangleArea.pdb

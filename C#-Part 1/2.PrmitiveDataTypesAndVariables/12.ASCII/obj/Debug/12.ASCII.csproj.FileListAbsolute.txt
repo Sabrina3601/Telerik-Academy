@@ -1,0 +1,5 @@
+D:\Telerik\TelerikAcademy\Projects\2.PrmitiveDataTypesAndVariables\12.ASCII\bin\Debug\12.ASCII.exe
+D:\Telerik\TelerikAcademy\Projects\2.PrmitiveDataTypesAndVariables\12.ASCII\bin\Debug\12.ASCII.pdb
+D:\Telerik\TelerikAcademy\Projects\2.PrmitiveDataTypesAndVariables\12.ASCII\obj\Debug\12.ASCII.exe
+D:\Telerik\TelerikAcademy\Projects\2.PrmitiveDataTypesAndVariables\12.ASCII\obj\Debug\12.ASCII.pdb
+D:\Telerik\TelerikAcademy\Projects\2.PrmitiveDataTypesAndVariables\12.ASCII\obj\Debug\12.ASCII.csprojResolveAssemblyReference.cache

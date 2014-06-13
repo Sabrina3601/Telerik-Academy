@@ -1,0 +1,6 @@
+C:\Users\Martin\Documents\Visual Studio 2012\Projects\4.ConsoleInputOutPut\02.perimetersAndArea\bin\Debug\02.perimetersAndArea.exe
+C:\Users\Martin\Documents\Visual Studio 2012\Projects\4.ConsoleInputOutPut\02.perimetersAndArea\bin\Debug\02.perimetersAndArea.pdb
+C:\Users\Martin\Documents\Visual Studio 2012\Projects\4.ConsoleInputOutPut\02.perimetersAndArea\obj\Debug\02.perimetersAndArea.exe
+C:\Users\Martin\Documents\Visual Studio 2012\Projects\4.ConsoleInputOutPut\02.perimetersAndArea\obj\Debug\02.perimetersAndArea.pdb
+D:\Telerik\TelerikAcademy\Projects\4.ConsoleInputOutPut\02.perimetersAndArea\obj\Debug\02.perimetersAndArea.exe
+D:\Telerik\TelerikAcademy\Projects\4.ConsoleInputOutPut\02.perimetersAndArea\obj\Debug\02.perimetersAndArea.pdb

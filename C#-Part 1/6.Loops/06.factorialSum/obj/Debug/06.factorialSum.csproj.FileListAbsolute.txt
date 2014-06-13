@@ -1,0 +1,5 @@
+D:\Telerik\TelerikAcademy\Projects\6.Loops\06.factorialSum\bin\Debug\06.factorialSum.exe
+D:\Telerik\TelerikAcademy\Projects\6.Loops\06.factorialSum\bin\Debug\06.factorialSum.pdb
+D:\Telerik\TelerikAcademy\Projects\6.Loops\06.factorialSum\obj\Debug\06.factorialSum.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\6.Loops\06.factorialSum\obj\Debug\06.factorialSum.exe
+D:\Telerik\TelerikAcademy\Projects\6.Loops\06.factorialSum\obj\Debug\06.factorialSum.pdb

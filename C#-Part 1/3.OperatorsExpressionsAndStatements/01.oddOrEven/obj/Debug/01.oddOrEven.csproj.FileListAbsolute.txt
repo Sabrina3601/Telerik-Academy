@@ -1,0 +1,5 @@
+D:\Telerik\TelerikAcademy\Projects\3.OperatorsExpressionsAndStatements\01.oddOrEven\bin\Debug\01.oddOrEven.exe
+D:\Telerik\TelerikAcademy\Projects\3.OperatorsExpressionsAndStatements\01.oddOrEven\bin\Debug\01.oddOrEven.pdb
+D:\Telerik\TelerikAcademy\Projects\3.OperatorsExpressionsAndStatements\01.oddOrEven\obj\Debug\01.oddOrEven.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\3.OperatorsExpressionsAndStatements\01.oddOrEven\obj\Debug\01.oddOrEven.exe
+D:\Telerik\TelerikAcademy\Projects\3.OperatorsExpressionsAndStatements\01.oddOrEven\obj\Debug\01.oddOrEven.pdb

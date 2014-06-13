@@ -1,0 +1,6 @@
+D:\Telerik\TelerikAcademy\Projects\C#-Part 1\Exam-CSharp\kaspichan boat\bin\Debug\kaspichan boat.exe.config
+D:\Telerik\TelerikAcademy\Projects\C#-Part 1\Exam-CSharp\kaspichan boat\bin\Debug\kaspichan boat.exe
+D:\Telerik\TelerikAcademy\Projects\C#-Part 1\Exam-CSharp\kaspichan boat\bin\Debug\kaspichan boat.pdb
+D:\Telerik\TelerikAcademy\Projects\C#-Part 1\Exam-CSharp\kaspichan boat\obj\Debug\kaspichan boat.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\C#-Part 1\Exam-CSharp\kaspichan boat\obj\Debug\kaspichan boat.exe
+D:\Telerik\TelerikAcademy\Projects\C#-Part 1\Exam-CSharp\kaspichan boat\obj\Debug\kaspichan boat.pdb

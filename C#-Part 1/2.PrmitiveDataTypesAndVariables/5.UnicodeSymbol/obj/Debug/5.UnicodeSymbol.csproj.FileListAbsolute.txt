@@ -1,0 +1,4 @@
+D:\Telerik\TelerikAcademy\Projects\2.PrmitiveDataTypesAndVariables\5.UnicodeSymbol\bin\Debug\5.UnicodeSymbol.exe
+D:\Telerik\TelerikAcademy\Projects\2.PrmitiveDataTypesAndVariables\5.UnicodeSymbol\bin\Debug\5.UnicodeSymbol.pdb
+D:\Telerik\TelerikAcademy\Projects\2.PrmitiveDataTypesAndVariables\5.UnicodeSymbol\obj\Debug\5.UnicodeSymbol.exe
+D:\Telerik\TelerikAcademy\Projects\2.PrmitiveDataTypesAndVariables\5.UnicodeSymbol\obj\Debug\5.UnicodeSymbol.pdb

@@ -1,0 +1,5 @@
+D:\Telerik\TelerikAcademy\Projects\2.PrmitiveDataTypesAndVariables\10.MarketingFirmDate\bin\Debug\10.MarketingFirmDate.exe
+D:\Telerik\TelerikAcademy\Projects\2.PrmitiveDataTypesAndVariables\10.MarketingFirmDate\bin\Debug\10.MarketingFirmDate.pdb
+D:\Telerik\TelerikAcademy\Projects\2.PrmitiveDataTypesAndVariables\10.MarketingFirmDate\obj\Debug\10.MarketingFirmDate.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\2.PrmitiveDataTypesAndVariables\10.MarketingFirmDate\obj\Debug\10.MarketingFirmDate.exe
+D:\Telerik\TelerikAcademy\Projects\2.PrmitiveDataTypesAndVariables\10.MarketingFirmDate\obj\Debug\10.MarketingFirmDate.pdb

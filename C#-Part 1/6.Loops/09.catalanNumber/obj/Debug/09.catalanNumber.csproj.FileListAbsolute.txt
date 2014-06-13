@@ -1,0 +1,5 @@
+D:\Telerik\TelerikAcademy\Projects\6.Loops\09.catalanNumber\bin\Debug\09.catalanNumber.exe
+D:\Telerik\TelerikAcademy\Projects\6.Loops\09.catalanNumber\bin\Debug\09.catalanNumber.pdb
+D:\Telerik\TelerikAcademy\Projects\6.Loops\09.catalanNumber\obj\Debug\09.catalanNumber.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\6.Loops\09.catalanNumber\obj\Debug\09.catalanNumber.exe
+D:\Telerik\TelerikAcademy\Projects\6.Loops\09.catalanNumber\obj\Debug\09.catalanNumber.pdb

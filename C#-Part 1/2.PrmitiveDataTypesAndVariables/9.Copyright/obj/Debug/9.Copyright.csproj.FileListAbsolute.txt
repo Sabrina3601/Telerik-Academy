@@ -1,0 +1,5 @@
+D:\Telerik\TelerikAcademy\Projects\2.PrmitiveDataTypesAndVariables\9.Copyright\bin\Debug\9.Copyright.exe
+D:\Telerik\TelerikAcademy\Projects\2.PrmitiveDataTypesAndVariables\9.Copyright\bin\Debug\9.Copyright.pdb
+D:\Telerik\TelerikAcademy\Projects\2.PrmitiveDataTypesAndVariables\9.Copyright\obj\Debug\9.Copyright.exe
+D:\Telerik\TelerikAcademy\Projects\2.PrmitiveDataTypesAndVariables\9.Copyright\obj\Debug\9.Copyright.pdb
+D:\Telerik\TelerikAcademy\Projects\2.PrmitiveDataTypesAndVariables\9.Copyright\obj\Debug\9.Copyright.csprojResolveAssemblyReference.cache

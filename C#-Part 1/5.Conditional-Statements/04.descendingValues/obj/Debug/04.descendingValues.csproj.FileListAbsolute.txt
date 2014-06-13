@@ -1,0 +1,5 @@
+D:\Telerik\TelerikAcademy\Projects\5.Conditional-Statements\04.descendingValues\bin\Debug\04.descendingValues.exe
+D:\Telerik\TelerikAcademy\Projects\5.Conditional-Statements\04.descendingValues\bin\Debug\04.descendingValues.pdb
+D:\Telerik\TelerikAcademy\Projects\5.Conditional-Statements\04.descendingValues\obj\Debug\04.descendingValues.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\5.Conditional-Statements\04.descendingValues\obj\Debug\04.descendingValues.exe
+D:\Telerik\TelerikAcademy\Projects\5.Conditional-Statements\04.descendingValues\obj\Debug\04.descendingValues.pdb

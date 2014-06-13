@@ -1,0 +1,5 @@
+D:\Telerik\TelerikAcademy\Projects\6.Loops\02.notDevisibleNumbers\bin\Debug\02.notDevisibleNumbers.exe
+D:\Telerik\TelerikAcademy\Projects\6.Loops\02.notDevisibleNumbers\bin\Debug\02.notDevisibleNumbers.pdb
+D:\Telerik\TelerikAcademy\Projects\6.Loops\02.notDevisibleNumbers\obj\Debug\02.notDevisibleNumbers.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\6.Loops\02.notDevisibleNumbers\obj\Debug\02.notDevisibleNumbers.exe
+D:\Telerik\TelerikAcademy\Projects\6.Loops\02.notDevisibleNumbers\obj\Debug\02.notDevisibleNumbers.pdb

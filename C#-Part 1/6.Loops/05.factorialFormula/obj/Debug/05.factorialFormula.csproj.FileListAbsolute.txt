@@ -1,0 +1,4 @@
+D:\Telerik\TelerikAcademy\Projects\6.Loops\05.factorialFormula\bin\Debug\05.factorialFormula.exe
+D:\Telerik\TelerikAcademy\Projects\6.Loops\05.factorialFormula\bin\Debug\05.factorialFormula.pdb
+D:\Telerik\TelerikAcademy\Projects\6.Loops\05.factorialFormula\obj\Debug\05.factorialFormula.exe
+D:\Telerik\TelerikAcademy\Projects\6.Loops\05.factorialFormula\obj\Debug\05.factorialFormula.pdb

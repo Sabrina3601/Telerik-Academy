@@ -1,0 +1,1 @@
+D:\Telerik\TelerikAcademy\Projects\3.OperatorsExpressionsAndStatements\09.inCircleOutRectangle\bin\Debug\09.inCircleOutRectangle.exe.config

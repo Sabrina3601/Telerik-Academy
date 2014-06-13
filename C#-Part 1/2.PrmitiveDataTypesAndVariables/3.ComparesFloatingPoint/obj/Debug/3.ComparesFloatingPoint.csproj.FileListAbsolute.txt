@@ -1,0 +1,5 @@
+D:\Telerik\TelerikAcademy\Projects\2.PrmitiveDataTypesAndVariables\3.ComparesFloatingPoint\obj\Debug\3.ComparesFloatingPoint.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\2.PrmitiveDataTypesAndVariables\3.ComparesFloatingPoint\bin\Debug\3.ComparesFloatingPoint.exe
+D:\Telerik\TelerikAcademy\Projects\2.PrmitiveDataTypesAndVariables\3.ComparesFloatingPoint\bin\Debug\3.ComparesFloatingPoint.pdb
+D:\Telerik\TelerikAcademy\Projects\2.PrmitiveDataTypesAndVariables\3.ComparesFloatingPoint\obj\Debug\3.ComparesFloatingPoint.exe
+D:\Telerik\TelerikAcademy\Projects\2.PrmitiveDataTypesAndVariables\3.ComparesFloatingPoint\obj\Debug\3.ComparesFloatingPoint.pdb

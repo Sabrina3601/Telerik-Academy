@@ -1,0 +1,1 @@
+D:\Telerik\TelerikAcademy\Projects\HelloCSharp\7.CurruntDataAndTime\bin\Debug\7.CurruntDataAndTime.exe.config

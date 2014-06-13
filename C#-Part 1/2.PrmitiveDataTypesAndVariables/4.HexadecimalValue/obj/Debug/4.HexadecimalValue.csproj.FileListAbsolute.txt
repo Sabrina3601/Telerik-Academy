@@ -1,0 +1,5 @@
+D:\Telerik\TelerikAcademy\Projects\2.PrmitiveDataTypesAndVariables\4.HexadecimalValue\bin\Debug\4.HexadecimalValue.exe
+D:\Telerik\TelerikAcademy\Projects\2.PrmitiveDataTypesAndVariables\4.HexadecimalValue\bin\Debug\4.HexadecimalValue.pdb
+D:\Telerik\TelerikAcademy\Projects\2.PrmitiveDataTypesAndVariables\4.HexadecimalValue\obj\Debug\4.HexadecimalValue.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\2.PrmitiveDataTypesAndVariables\4.HexadecimalValue\obj\Debug\4.HexadecimalValue.exe
+D:\Telerik\TelerikAcademy\Projects\2.PrmitiveDataTypesAndVariables\4.HexadecimalValue\obj\Debug\4.HexadecimalValue.pdb

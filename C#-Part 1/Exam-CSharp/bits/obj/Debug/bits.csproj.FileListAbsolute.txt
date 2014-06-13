@@ -1,0 +1,6 @@
+D:\Telerik\TelerikAcademy\Projects\C#-Part 1\Exam-CSharp\bits\bin\Debug\bits.exe.config
+D:\Telerik\TelerikAcademy\Projects\C#-Part 1\Exam-CSharp\bits\bin\Debug\bits.exe
+D:\Telerik\TelerikAcademy\Projects\C#-Part 1\Exam-CSharp\bits\bin\Debug\bits.pdb
+D:\Telerik\TelerikAcademy\Projects\C#-Part 1\Exam-CSharp\bits\obj\Debug\bits.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\C#-Part 1\Exam-CSharp\bits\obj\Debug\bits.exe
+D:\Telerik\TelerikAcademy\Projects\C#-Part 1\Exam-CSharp\bits\obj\Debug\bits.pdb

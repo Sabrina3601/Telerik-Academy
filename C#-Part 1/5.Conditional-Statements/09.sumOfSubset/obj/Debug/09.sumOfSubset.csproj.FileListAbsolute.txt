@@ -1,0 +1,5 @@
+D:\Telerik\TelerikAcademy\Projects\5.Conditional-Statements\09.sumOfSubset\obj\Debug\09.sumOfSubset.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\5.Conditional-Statements\09.sumOfSubset\bin\Debug\09.sumOfSubset.exe
+D:\Telerik\TelerikAcademy\Projects\5.Conditional-Statements\09.sumOfSubset\bin\Debug\09.sumOfSubset.pdb
+D:\Telerik\TelerikAcademy\Projects\5.Conditional-Statements\09.sumOfSubset\obj\Debug\09.sumOfSubset.exe
+D:\Telerik\TelerikAcademy\Projects\5.Conditional-Statements\09.sumOfSubset\obj\Debug\09.sumOfSubset.pdb

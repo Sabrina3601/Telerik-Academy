@@ -1,0 +1,4 @@
+D:\Telerik\TelerikAcademy\Projects\HelloCSharp\3.PrintMyName\bin\Debug\3.PrintMyName.exe
+D:\Telerik\TelerikAcademy\Projects\HelloCSharp\3.PrintMyName\bin\Debug\3.PrintMyName.pdb
+D:\Telerik\TelerikAcademy\Projects\HelloCSharp\3.PrintMyName\obj\Debug\3.PrintMyName.exe
+D:\Telerik\TelerikAcademy\Projects\HelloCSharp\3.PrintMyName\obj\Debug\3.PrintMyName.pdb

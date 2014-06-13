@@ -1,0 +1,5 @@
+D:\Telerik\TelerikAcademy\Projects\2.PrmitiveDataTypesAndVariables\1.DeclareVariables\bin\Debug\1.DeclareVariables.exe
+D:\Telerik\TelerikAcademy\Projects\2.PrmitiveDataTypesAndVariables\1.DeclareVariables\bin\Debug\1.DeclareVariables.pdb
+D:\Telerik\TelerikAcademy\Projects\2.PrmitiveDataTypesAndVariables\1.DeclareVariables\obj\Debug\1.DeclareVariables.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\2.PrmitiveDataTypesAndVariables\1.DeclareVariables\obj\Debug\1.DeclareVariables.exe
+D:\Telerik\TelerikAcademy\Projects\2.PrmitiveDataTypesAndVariables\1.DeclareVariables\obj\Debug\1.DeclareVariables.pdb

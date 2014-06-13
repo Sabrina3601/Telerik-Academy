@@ -1,0 +1,6 @@
+D:\Telerik\TelerikAcademy\Projects\C#-Part 1\Exam-CSharp\Uk-flag\bin\Debug\Uk-flag.exe.config
+D:\Telerik\TelerikAcademy\Projects\C#-Part 1\Exam-CSharp\Uk-flag\bin\Debug\Uk-flag.exe
+D:\Telerik\TelerikAcademy\Projects\C#-Part 1\Exam-CSharp\Uk-flag\bin\Debug\Uk-flag.pdb
+D:\Telerik\TelerikAcademy\Projects\C#-Part 1\Exam-CSharp\Uk-flag\obj\Debug\Uk-flag.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\C#-Part 1\Exam-CSharp\Uk-flag\obj\Debug\Uk-flag.exe
+D:\Telerik\TelerikAcademy\Projects\C#-Part 1\Exam-CSharp\Uk-flag\obj\Debug\Uk-flag.pdb

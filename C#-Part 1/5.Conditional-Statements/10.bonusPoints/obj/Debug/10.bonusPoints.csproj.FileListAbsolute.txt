@@ -1,0 +1,5 @@
+D:\Telerik\TelerikAcademy\Projects\5.Conditional-Statements\10.bonusPoints\obj\Debug\10.bonusPoints.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\5.Conditional-Statements\10.bonusPoints\bin\Debug\10.bonusPoints.exe
+D:\Telerik\TelerikAcademy\Projects\5.Conditional-Statements\10.bonusPoints\bin\Debug\10.bonusPoints.pdb
+D:\Telerik\TelerikAcademy\Projects\5.Conditional-Statements\10.bonusPoints\obj\Debug\10.bonusPoints.exe
+D:\Telerik\TelerikAcademy\Projects\5.Conditional-Statements\10.bonusPoints\obj\Debug\10.bonusPoints.pdb

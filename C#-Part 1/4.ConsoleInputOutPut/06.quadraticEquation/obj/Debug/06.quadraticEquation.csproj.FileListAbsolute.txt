@@ -1,0 +1,7 @@
+C:\Users\Martin\Documents\Visual Studio 2012\Projects\4.ConsoleInputOutPut\06.quadraticEquation\obj\Debug\06.quadraticEquation.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Documents\Visual Studio 2012\Projects\4.ConsoleInputOutPut\06.quadraticEquation\bin\Debug\06.quadraticEquation.exe
+C:\Users\Martin\Documents\Visual Studio 2012\Projects\4.ConsoleInputOutPut\06.quadraticEquation\bin\Debug\06.quadraticEquation.pdb
+C:\Users\Martin\Documents\Visual Studio 2012\Projects\4.ConsoleInputOutPut\06.quadraticEquation\obj\Debug\06.quadraticEquation.exe
+C:\Users\Martin\Documents\Visual Studio 2012\Projects\4.ConsoleInputOutPut\06.quadraticEquation\obj\Debug\06.quadraticEquation.pdb
+D:\Telerik\TelerikAcademy\Projects\4.ConsoleInputOutPut\06.quadraticEquation\obj\Debug\06.quadraticEquation.exe
+D:\Telerik\TelerikAcademy\Projects\4.ConsoleInputOutPut\06.quadraticEquation\obj\Debug\06.quadraticEquation.pdb

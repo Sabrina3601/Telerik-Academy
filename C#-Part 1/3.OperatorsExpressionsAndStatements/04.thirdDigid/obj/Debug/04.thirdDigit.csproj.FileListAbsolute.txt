@@ -1,0 +1,5 @@
+D:\Telerik\TelerikAcademy\Projects\3.OperatorsExpressionsAndStatements\04.thirdDigid\obj\Debug\04.thirdDigit.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\3.OperatorsExpressionsAndStatements\04.thirdDigid\bin\Debug\04.thirdDigid.exe
+D:\Telerik\TelerikAcademy\Projects\3.OperatorsExpressionsAndStatements\04.thirdDigid\bin\Debug\04.thirdDigid.pdb
+D:\Telerik\TelerikAcademy\Projects\3.OperatorsExpressionsAndStatements\04.thirdDigid\obj\Debug\04.thirdDigid.exe
+D:\Telerik\TelerikAcademy\Projects\3.OperatorsExpressionsAndStatements\04.thirdDigid\obj\Debug\04.thirdDigid.pdb

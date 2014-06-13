@@ -1,0 +1,6 @@
+D:\Telerik\TelerikAcademy\Projects\HelloCSharp\4.PrintNumbers\bin\Debug\4.PrintNumbers.exe
+D:\Telerik\TelerikAcademy\Projects\HelloCSharp\4.PrintNumbers\bin\Debug\4.PrintNumbers.pdb
+D:\Telerik\TelerikAcademy\Projects\HelloCSharp\4.PrintNumbers\obj\Debug\4.PrintNumbers.exe
+D:\Telerik\TelerikAcademy\Projects\HelloCSharp\4.PrintNumbers\obj\Debug\4.PrintNumbers.pdb
+D:\Telerik\TelerikAcademy\Projects\C#-Part 1\HelloCSharp\4.PrintNumbers\obj\Debug\4.PrintNumbers.exe
+D:\Telerik\TelerikAcademy\Projects\C#-Part 1\HelloCSharp\4.PrintNumbers\obj\Debug\4.PrintNumbers.pdb

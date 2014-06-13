@@ -1,0 +1,5 @@
+D:\Telerik\TelerikAcademy\Projects\5.Conditional-Statements\02.signProduct\bin\Debug\02.signProduct.exe
+D:\Telerik\TelerikAcademy\Projects\5.Conditional-Statements\02.signProduct\bin\Debug\02.signProduct.pdb
+D:\Telerik\TelerikAcademy\Projects\5.Conditional-Statements\02.signProduct\obj\Debug\02.signProduct.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\5.Conditional-Statements\02.signProduct\obj\Debug\02.signProduct.exe
+D:\Telerik\TelerikAcademy\Projects\5.Conditional-Statements\02.signProduct\obj\Debug\02.signProduct.pdb

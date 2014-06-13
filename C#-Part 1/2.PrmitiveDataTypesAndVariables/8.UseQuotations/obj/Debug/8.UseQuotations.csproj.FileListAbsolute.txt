@@ -1,0 +1,4 @@
+D:\Telerik\TelerikAcademy\Projects\2.PrmitiveDataTypesAndVariables\8.UseQuotations\bin\Debug\8.UseQuotations.exe
+D:\Telerik\TelerikAcademy\Projects\2.PrmitiveDataTypesAndVariables\8.UseQuotations\bin\Debug\8.UseQuotations.pdb
+D:\Telerik\TelerikAcademy\Projects\2.PrmitiveDataTypesAndVariables\8.UseQuotations\obj\Debug\8.UseQuotations.exe
+D:\Telerik\TelerikAcademy\Projects\2.PrmitiveDataTypesAndVariables\8.UseQuotations\obj\Debug\8.UseQuotations.pdb

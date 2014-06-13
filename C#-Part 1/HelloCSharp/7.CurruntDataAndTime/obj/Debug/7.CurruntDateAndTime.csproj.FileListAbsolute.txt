@@ -1,0 +1,4 @@
+D:\Telerik\TelerikAcademy\Projects\HelloCSharp\7.CurruntDataAndTime\bin\Debug\7.CurruntDataAndTime.exe
+D:\Telerik\TelerikAcademy\Projects\HelloCSharp\7.CurruntDataAndTime\bin\Debug\7.CurruntDataAndTime.pdb
+D:\Telerik\TelerikAcademy\Projects\HelloCSharp\7.CurruntDataAndTime\obj\Debug\7.CurruntDataAndTime.exe
+D:\Telerik\TelerikAcademy\Projects\HelloCSharp\7.CurruntDataAndTime\obj\Debug\7.CurruntDataAndTime.pdb

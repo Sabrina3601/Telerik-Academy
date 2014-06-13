@@ -1,0 +1,5 @@
+D:\Telerik\TelerikAcademy\Projects\5.Conditional-Statements\05.nameOfDigit\bin\Debug\05.nameOfDigit.exe
+D:\Telerik\TelerikAcademy\Projects\5.Conditional-Statements\05.nameOfDigit\bin\Debug\05.nameOfDigit.pdb
+D:\Telerik\TelerikAcademy\Projects\5.Conditional-Statements\05.nameOfDigit\obj\Debug\05.nameOfDigit.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\5.Conditional-Statements\05.nameOfDigit\obj\Debug\05.nameOfDigit.exe
+D:\Telerik\TelerikAcademy\Projects\5.Conditional-Statements\05.nameOfDigit\obj\Debug\05.nameOfDigit.pdb

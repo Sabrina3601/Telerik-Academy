@@ -1,0 +1,4 @@
+D:\Telerik\TelerikAcademy\Projects\6.Loops\03.minMax\bin\Debug\03.minMax.exe
+D:\Telerik\TelerikAcademy\Projects\6.Loops\03.minMax\bin\Debug\03.minMax.pdb
+D:\Telerik\TelerikAcademy\Projects\6.Loops\03.minMax\obj\Debug\03.minMax.exe
+D:\Telerik\TelerikAcademy\Projects\6.Loops\03.minMax\obj\Debug\03.minMax.pdb

@@ -1,0 +1,9 @@
+D:\Telerik\TelerikAcademy\Projects\Exam-CSharp\firstTask\bin\Debug\firstTask.exe.config
+D:\Telerik\TelerikAcademy\Projects\Exam-CSharp\firstTask\bin\Debug\firstTask.exe
+D:\Telerik\TelerikAcademy\Projects\Exam-CSharp\firstTask\bin\Debug\firstTask.pdb
+D:\Telerik\TelerikAcademy\Projects\Exam-CSharp\firstTask\obj\Debug\firstTask.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\Exam-CSharp\firstTask\obj\Debug\firstTask.exe
+D:\Telerik\TelerikAcademy\Projects\Exam-CSharp\firstTask\obj\Debug\firstTask.pdb
+D:\Telerik\TelerikAcademy\Projects\C#-Part 1\Exam-CSharp\firstTask\bin\Debug\firstTask.exe.config
+D:\Telerik\TelerikAcademy\Projects\C#-Part 1\Exam-CSharp\firstTask\obj\Debug\firstTask.exe
+D:\Telerik\TelerikAcademy\Projects\C#-Part 1\Exam-CSharp\firstTask\obj\Debug\firstTask.pdb

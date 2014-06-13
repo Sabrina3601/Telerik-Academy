@@ -1,0 +1,5 @@
+D:\Telerik\TelerikAcademy\Projects\5.Conditional-Statements\08.userChoice\bin\Debug\08.userChoice.exe
+D:\Telerik\TelerikAcademy\Projects\5.Conditional-Statements\08.userChoice\bin\Debug\08.userChoice.pdb
+D:\Telerik\TelerikAcademy\Projects\5.Conditional-Statements\08.userChoice\obj\Debug\08.userChoice.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\5.Conditional-Statements\08.userChoice\obj\Debug\08.userChoice.exe
+D:\Telerik\TelerikAcademy\Projects\5.Conditional-Statements\08.userChoice\obj\Debug\08.userChoice.pdb

@@ -1,0 +1,5 @@
+D:\Telerik\TelerikAcademy\Projects\3.OperatorsExpressionsAndStatements\13.exchangeBit\bin\Debug\13.exchangeBit.exe
+D:\Telerik\TelerikAcademy\Projects\3.OperatorsExpressionsAndStatements\13.exchangeBit\bin\Debug\13.exchangeBit.pdb
+D:\Telerik\TelerikAcademy\Projects\3.OperatorsExpressionsAndStatements\13.exchangeBit\obj\Debug\13.exchangeBit.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\3.OperatorsExpressionsAndStatements\13.exchangeBit\obj\Debug\13.exchangeBit.exe
+D:\Telerik\TelerikAcademy\Projects\3.OperatorsExpressionsAndStatements\13.exchangeBit\obj\Debug\13.exchangeBit.pdb

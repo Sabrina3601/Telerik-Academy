@@ -1,0 +1,5 @@
+D:\Telerik\TelerikAcademy\Projects\HelloCSharp\12.MyAge\bin\Debug\12.MyAge.exe
+D:\Telerik\TelerikAcademy\Projects\HelloCSharp\12.MyAge\bin\Debug\12.MyAge.pdb
+D:\Telerik\TelerikAcademy\Projects\HelloCSharp\12.MyAge\obj\Debug\12.MyAge.exe
+D:\Telerik\TelerikAcademy\Projects\HelloCSharp\12.MyAge\obj\Debug\12.MyAge.pdb
+D:\Telerik\TelerikAcademy\Projects\HelloCSharp\12.MyAge\obj\Debug\12.MyAge.csprojResolveAssemblyReference.cache

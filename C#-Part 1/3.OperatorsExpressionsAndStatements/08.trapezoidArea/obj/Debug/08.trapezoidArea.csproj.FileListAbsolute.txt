@@ -1,0 +1,4 @@
+D:\Telerik\TelerikAcademy\Projects\3.OperatorsExpressionsAndStatements\08.trapezoidArea\bin\Debug\08.trapezoidArea.exe
+D:\Telerik\TelerikAcademy\Projects\3.OperatorsExpressionsAndStatements\08.trapezoidArea\bin\Debug\08.trapezoidArea.pdb
+D:\Telerik\TelerikAcademy\Projects\3.OperatorsExpressionsAndStatements\08.trapezoidArea\obj\Debug\08.trapezoidArea.exe
+D:\Telerik\TelerikAcademy\Projects\3.OperatorsExpressionsAndStatements\08.trapezoidArea\obj\Debug\08.trapezoidArea.pdb

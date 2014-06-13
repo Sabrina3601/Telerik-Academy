@@ -1,0 +1,5 @@
+D:\Telerik\TelerikAcademy\Projects\2.PrmitiveDataTypesAndVariables\6.BooleanGender\bin\Debug\6.BooleanGender.exe
+D:\Telerik\TelerikAcademy\Projects\2.PrmitiveDataTypesAndVariables\6.BooleanGender\bin\Debug\6.BooleanGender.pdb
+D:\Telerik\TelerikAcademy\Projects\2.PrmitiveDataTypesAndVariables\6.BooleanGender\obj\Debug\6.BooleanGender.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\2.PrmitiveDataTypesAndVariables\6.BooleanGender\obj\Debug\6.BooleanGender.exe
+D:\Telerik\TelerikAcademy\Projects\2.PrmitiveDataTypesAndVariables\6.BooleanGender\obj\Debug\6.BooleanGender.pdb

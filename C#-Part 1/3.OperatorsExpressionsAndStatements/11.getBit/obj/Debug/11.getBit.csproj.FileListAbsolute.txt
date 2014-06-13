@@ -1,0 +1,5 @@
+D:\Telerik\TelerikAcademy\Projects\3.OperatorsExpressionsAndStatements\11.getBit\bin\Debug\11.getBit.exe
+D:\Telerik\TelerikAcademy\Projects\3.OperatorsExpressionsAndStatements\11.getBit\bin\Debug\11.getBit.pdb
+D:\Telerik\TelerikAcademy\Projects\3.OperatorsExpressionsAndStatements\11.getBit\obj\Debug\11.getBit.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\3.OperatorsExpressionsAndStatements\11.getBit\obj\Debug\11.getBit.exe
+D:\Telerik\TelerikAcademy\Projects\3.OperatorsExpressionsAndStatements\11.getBit\obj\Debug\11.getBit.pdb

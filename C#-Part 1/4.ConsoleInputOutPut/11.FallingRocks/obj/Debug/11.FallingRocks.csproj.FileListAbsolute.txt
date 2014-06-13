@@ -1,0 +1,10 @@
+C:\Users\Martin\Documents\Visual Studio 2012\Projects\4.ConsoleInputOutPut\11.FallingRocks\bin\Debug\11.FallingRocks.exe
+C:\Users\Martin\Documents\Visual Studio 2012\Projects\4.ConsoleInputOutPut\11.FallingRocks\bin\Debug\11.FallingRocks.pdb
+C:\Users\Martin\Documents\Visual Studio 2012\Projects\4.ConsoleInputOutPut\11.FallingRocks\obj\Debug\11.FallingRocks.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Documents\Visual Studio 2012\Projects\4.ConsoleInputOutPut\11.FallingRocks\obj\Debug\11.FallingRocks.exe
+C:\Users\Martin\Documents\Visual Studio 2012\Projects\4.ConsoleInputOutPut\11.FallingRocks\obj\Debug\11.FallingRocks.pdb
+D:\Telerik\TelerikAcademy\Projects\4.ConsoleInputOutPut\11.FallingRocks\obj\Debug\11.FallingRocks.exe
+D:\Telerik\TelerikAcademy\Projects\4.ConsoleInputOutPut\11.FallingRocks\obj\Debug\11.FallingRocks.pdb
+D:\Telerik\TelerikAcademy\Projects\4.ConsoleInputOutPut\11.FallingRocks\bin\Debug\11.FallingRocks.exe
+D:\Telerik\TelerikAcademy\Projects\4.ConsoleInputOutPut\11.FallingRocks\bin\Debug\11.FallingRocks.pdb
+D:\Telerik\TelerikAcademy\Projects\4.ConsoleInputOutPut\11.FallingRocks\obj\Debug\11.FallingRocks.csprojResolveAssemblyReference.cache

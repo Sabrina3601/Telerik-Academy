@@ -1,0 +1,4 @@
+D:\Telerik\TelerikAcademy\Projects\3.OperatorsExpressionsAndStatements\02.dividedExpressions\bin\Debug\02.dividedExpressions.exe
+D:\Telerik\TelerikAcademy\Projects\3.OperatorsExpressionsAndStatements\02.dividedExpressions\bin\Debug\02.dividedExpressions.pdb
+D:\Telerik\TelerikAcademy\Projects\3.OperatorsExpressionsAndStatements\02.dividedExpressions\obj\Debug\02.dividedExpressions.exe
+D:\Telerik\TelerikAcademy\Projects\3.OperatorsExpressionsAndStatements\02.dividedExpressions\obj\Debug\02.dividedExpressions.pdb

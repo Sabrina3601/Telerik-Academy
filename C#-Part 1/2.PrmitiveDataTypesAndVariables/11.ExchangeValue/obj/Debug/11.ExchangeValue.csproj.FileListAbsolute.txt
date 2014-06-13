@@ -1,0 +1,4 @@
+D:\Telerik\TelerikAcademy\Projects\2.PrmitiveDataTypesAndVariables\11.ExchangeValue\bin\Debug\11.ExchangeValue.exe
+D:\Telerik\TelerikAcademy\Projects\2.PrmitiveDataTypesAndVariables\11.ExchangeValue\bin\Debug\11.ExchangeValue.pdb
+D:\Telerik\TelerikAcademy\Projects\2.PrmitiveDataTypesAndVariables\11.ExchangeValue\obj\Debug\11.ExchangeValue.exe
+D:\Telerik\TelerikAcademy\Projects\2.PrmitiveDataTypesAndVariables\11.ExchangeValue\obj\Debug\11.ExchangeValue.pdb

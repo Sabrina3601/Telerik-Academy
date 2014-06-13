@@ -1,0 +1,7 @@
+C:\Users\Martin\Documents\Visual Studio 2012\Projects\4.ConsoleInputOutPut\03.companyInfo\bin\Debug\03.companyInfo.exe
+C:\Users\Martin\Documents\Visual Studio 2012\Projects\4.ConsoleInputOutPut\03.companyInfo\bin\Debug\03.companyInfo.pdb
+C:\Users\Martin\Documents\Visual Studio 2012\Projects\4.ConsoleInputOutPut\03.companyInfo\obj\Debug\03.companyInfo.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Documents\Visual Studio 2012\Projects\4.ConsoleInputOutPut\03.companyInfo\obj\Debug\03.companyInfo.exe
+C:\Users\Martin\Documents\Visual Studio 2012\Projects\4.ConsoleInputOutPut\03.companyInfo\obj\Debug\03.companyInfo.pdb
+D:\Telerik\TelerikAcademy\Projects\4.ConsoleInputOutPut\03.companyInfo\obj\Debug\03.companyInfo.exe
+D:\Telerik\TelerikAcademy\Projects\4.ConsoleInputOutPut\03.companyInfo\obj\Debug\03.companyInfo.pdb

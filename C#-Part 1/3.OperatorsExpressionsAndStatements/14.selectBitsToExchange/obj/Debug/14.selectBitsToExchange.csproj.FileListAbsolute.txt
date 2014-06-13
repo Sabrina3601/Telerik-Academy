@@ -1,0 +1,5 @@
+D:\Telerik\TelerikAcademy\Projects\3.OperatorsExpressionsAndStatements\14.selectBitsToExchange\bin\Debug\14.selectBitsToExchange.exe
+D:\Telerik\TelerikAcademy\Projects\3.OperatorsExpressionsAndStatements\14.selectBitsToExchange\bin\Debug\14.selectBitsToExchange.pdb
+D:\Telerik\TelerikAcademy\Projects\3.OperatorsExpressionsAndStatements\14.selectBitsToExchange\obj\Debug\14.selectBitsToExchange.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\3.OperatorsExpressionsAndStatements\14.selectBitsToExchange\obj\Debug\14.selectBitsToExchange.exe
+D:\Telerik\TelerikAcademy\Projects\3.OperatorsExpressionsAndStatements\14.selectBitsToExchange\obj\Debug\14.selectBitsToExchange.pdb

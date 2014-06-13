@@ -1,0 +1,7 @@
+C:\Users\Martin\Documents\Visual Studio 2012\Projects\4.ConsoleInputOutPut\08.printAllNumber\bin\Debug\08.printAllNumber.exe
+C:\Users\Martin\Documents\Visual Studio 2012\Projects\4.ConsoleInputOutPut\08.printAllNumber\bin\Debug\08.printAllNumber.pdb
+C:\Users\Martin\Documents\Visual Studio 2012\Projects\4.ConsoleInputOutPut\08.printAllNumber\obj\Debug\08.printAllNumber.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Documents\Visual Studio 2012\Projects\4.ConsoleInputOutPut\08.printAllNumber\obj\Debug\08.printAllNumber.exe
+C:\Users\Martin\Documents\Visual Studio 2012\Projects\4.ConsoleInputOutPut\08.printAllNumber\obj\Debug\08.printAllNumber.pdb
+D:\Telerik\TelerikAcademy\Projects\4.ConsoleInputOutPut\08.printAllNumber\obj\Debug\08.printAllNumber.exe
+D:\Telerik\TelerikAcademy\Projects\4.ConsoleInputOutPut\08.printAllNumber\obj\Debug\08.printAllNumber.pdb

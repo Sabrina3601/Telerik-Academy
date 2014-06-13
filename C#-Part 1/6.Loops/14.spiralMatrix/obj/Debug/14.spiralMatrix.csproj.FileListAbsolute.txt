@@ -1,0 +1,5 @@
+D:\Telerik\TelerikAcademy\Projects\6.Loops\14.spiralMatrix\bin\Debug\14.spiralMatrix.exe
+D:\Telerik\TelerikAcademy\Projects\6.Loops\14.spiralMatrix\bin\Debug\14.spiralMatrix.pdb
+D:\Telerik\TelerikAcademy\Projects\6.Loops\14.spiralMatrix\obj\Debug\14.spiralMatrix.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\6.Loops\14.spiralMatrix\obj\Debug\14.spiralMatrix.exe
+D:\Telerik\TelerikAcademy\Projects\6.Loops\14.spiralMatrix\obj\Debug\14.spiralMatrix.pdb

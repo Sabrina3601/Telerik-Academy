@@ -1,0 +1,7 @@
+C:\Users\Martin\Documents\Visual Studio 2012\Projects\4.ConsoleInputOutPut\10.calculateAccuracy\bin\Debug\10.calculateAccuracy.exe
+C:\Users\Martin\Documents\Visual Studio 2012\Projects\4.ConsoleInputOutPut\10.calculateAccuracy\bin\Debug\10.calculateAccuracy.pdb
+C:\Users\Martin\Documents\Visual Studio 2012\Projects\4.ConsoleInputOutPut\10.calculateAccuracy\obj\Debug\10.calculateAccuracy.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Documents\Visual Studio 2012\Projects\4.ConsoleInputOutPut\10.calculateAccuracy\obj\Debug\10.calculateAccuracy.exe
+C:\Users\Martin\Documents\Visual Studio 2012\Projects\4.ConsoleInputOutPut\10.calculateAccuracy\obj\Debug\10.calculateAccuracy.pdb
+D:\Telerik\TelerikAcademy\Projects\4.ConsoleInputOutPut\10.calculateAccuracy\obj\Debug\10.calculateAccuracy.exe
+D:\Telerik\TelerikAcademy\Projects\4.ConsoleInputOutPut\10.calculateAccuracy\obj\Debug\10.calculateAccuracy.pdb

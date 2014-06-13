@@ -1,0 +1,5 @@
+D:\Telerik\TelerikAcademy\Projects\2.PrmitiveDataTypesAndVariables\7.ConcatVariables\obj\Debug\7.ConcatVariables.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\2.PrmitiveDataTypesAndVariables\7.ConcatVariables\bin\Debug\7.ConcatVariables.exe
+D:\Telerik\TelerikAcademy\Projects\2.PrmitiveDataTypesAndVariables\7.ConcatVariables\bin\Debug\7.ConcatVariables.pdb
+D:\Telerik\TelerikAcademy\Projects\2.PrmitiveDataTypesAndVariables\7.ConcatVariables\obj\Debug\7.ConcatVariables.exe
+D:\Telerik\TelerikAcademy\Projects\2.PrmitiveDataTypesAndVariables\7.ConcatVariables\obj\Debug\7.ConcatVariables.pdb

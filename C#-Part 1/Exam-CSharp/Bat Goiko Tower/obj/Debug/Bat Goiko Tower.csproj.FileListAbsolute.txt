@@ -1,0 +1,6 @@
+D:\Telerik\TelerikAcademy\Projects\C#-Part 1\Exam-CSharp\Bat Goiko Tower\bin\Debug\Bat Goiko Tower.exe.config
+D:\Telerik\TelerikAcademy\Projects\C#-Part 1\Exam-CSharp\Bat Goiko Tower\obj\Debug\Bat Goiko Tower.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\C#-Part 1\Exam-CSharp\Bat Goiko Tower\bin\Debug\Bat Goiko Tower.exe
+D:\Telerik\TelerikAcademy\Projects\C#-Part 1\Exam-CSharp\Bat Goiko Tower\bin\Debug\Bat Goiko Tower.pdb
+D:\Telerik\TelerikAcademy\Projects\C#-Part 1\Exam-CSharp\Bat Goiko Tower\obj\Debug\Bat Goiko Tower.exe
+D:\Telerik\TelerikAcademy\Projects\C#-Part 1\Exam-CSharp\Bat Goiko Tower\obj\Debug\Bat Goiko Tower.pdb

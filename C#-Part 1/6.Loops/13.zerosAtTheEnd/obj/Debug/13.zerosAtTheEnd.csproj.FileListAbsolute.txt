@@ -1,0 +1,5 @@
+D:\Telerik\TelerikAcademy\Projects\6.Loops\13.zerosAtTheEnd\bin\Debug\13.zerosAtTheEnd.exe
+D:\Telerik\TelerikAcademy\Projects\6.Loops\13.zerosAtTheEnd\bin\Debug\13.zerosAtTheEnd.pdb
+D:\Telerik\TelerikAcademy\Projects\6.Loops\13.zerosAtTheEnd\obj\Debug\13.zerosAtTheEnd.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\6.Loops\13.zerosAtTheEnd\obj\Debug\13.zerosAtTheEnd.exe
+D:\Telerik\TelerikAcademy\Projects\6.Loops\13.zerosAtTheEnd\obj\Debug\13.zerosAtTheEnd.pdb

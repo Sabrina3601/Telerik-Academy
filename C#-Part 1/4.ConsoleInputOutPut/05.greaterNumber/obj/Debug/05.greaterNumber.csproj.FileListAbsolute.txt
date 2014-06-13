@@ -1,0 +1,6 @@
+C:\Users\Martin\Documents\Visual Studio 2012\Projects\4.ConsoleInputOutPut\05.greaterNumber\bin\Debug\05.greaterNumber.exe
+C:\Users\Martin\Documents\Visual Studio 2012\Projects\4.ConsoleInputOutPut\05.greaterNumber\bin\Debug\05.greaterNumber.pdb
+C:\Users\Martin\Documents\Visual Studio 2012\Projects\4.ConsoleInputOutPut\05.greaterNumber\obj\Debug\05.greaterNumber.exe
+C:\Users\Martin\Documents\Visual Studio 2012\Projects\4.ConsoleInputOutPut\05.greaterNumber\obj\Debug\05.greaterNumber.pdb
+D:\Telerik\TelerikAcademy\Projects\4.ConsoleInputOutPut\05.greaterNumber\obj\Debug\05.greaterNumber.exe
+D:\Telerik\TelerikAcademy\Projects\4.ConsoleInputOutPut\05.greaterNumber\obj\Debug\05.greaterNumber.pdb

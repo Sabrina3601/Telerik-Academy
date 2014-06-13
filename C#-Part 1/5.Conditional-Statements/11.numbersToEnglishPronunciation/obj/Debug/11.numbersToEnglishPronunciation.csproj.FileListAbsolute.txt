@@ -1,0 +1,5 @@
+D:\Telerik\TelerikAcademy\Projects\5.Conditional-Statements\11.numbersToEnglishPronunciation\bin\Debug\11.numbersToEnglishPronunciation.exe
+D:\Telerik\TelerikAcademy\Projects\5.Conditional-Statements\11.numbersToEnglishPronunciation\bin\Debug\11.numbersToEnglishPronunciation.pdb
+D:\Telerik\TelerikAcademy\Projects\5.Conditional-Statements\11.numbersToEnglishPronunciation\obj\Debug\11.numbersToEnglishPronunciation.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\5.Conditional-Statements\11.numbersToEnglishPronunciation\obj\Debug\11.numbersToEnglishPronunciation.exe
+D:\Telerik\TelerikAcademy\Projects\5.Conditional-Statements\11.numbersToEnglishPronunciation\obj\Debug\11.numbersToEnglishPronunciation.pdb

@@ -1,0 +1,4 @@
+D:\Telerik\TelerikAcademy\Projects\3.OperatorsExpressionsAndStatements\12.modifiesValue\bin\Debug\12.modifiesValue.exe
+D:\Telerik\TelerikAcademy\Projects\3.OperatorsExpressionsAndStatements\12.modifiesValue\bin\Debug\12.modifiesValue.pdb
+D:\Telerik\TelerikAcademy\Projects\3.OperatorsExpressionsAndStatements\12.modifiesValue\obj\Debug\12.modifiesValue.exe
+D:\Telerik\TelerikAcademy\Projects\3.OperatorsExpressionsAndStatements\12.modifiesValue\obj\Debug\12.modifiesValue.pdb

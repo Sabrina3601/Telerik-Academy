@@ -1,0 +1,5 @@
+D:\Telerik\TelerikAcademy\Projects\6.Loops\08.euclideanAlgorithm\bin\Debug\08.euclideanAlgorithm.exe
+D:\Telerik\TelerikAcademy\Projects\6.Loops\08.euclideanAlgorithm\bin\Debug\08.euclideanAlgorithm.pdb
+D:\Telerik\TelerikAcademy\Projects\6.Loops\08.euclideanAlgorithm\obj\Debug\08.euclideanAlgorithm.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\6.Loops\08.euclideanAlgorithm\obj\Debug\08.euclideanAlgorithm.exe
+D:\Telerik\TelerikAcademy\Projects\6.Loops\08.euclideanAlgorithm\obj\Debug\08.euclideanAlgorithm.pdb

@@ -1,0 +1,5 @@
+D:\Telerik\TelerikAcademy\Projects\6.Loops\04.factorialDevision\bin\Debug\04.factorialDevision.exe
+D:\Telerik\TelerikAcademy\Projects\6.Loops\04.factorialDevision\bin\Debug\04.factorialDevision.pdb
+D:\Telerik\TelerikAcademy\Projects\6.Loops\04.factorialDevision\obj\Debug\04.factorialDevision.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\6.Loops\04.factorialDevision\obj\Debug\04.factorialDevision.exe
+D:\Telerik\TelerikAcademy\Projects\6.Loops\04.factorialDevision\obj\Debug\04.factorialDevision.pdb

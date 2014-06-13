@@ -1,0 +1,7 @@
+C:\Users\Martin\Documents\Visual Studio 2012\Projects\4.ConsoleInputOutPut\01.numbersSum\bin\Debug\01.numbersSum.exe
+C:\Users\Martin\Documents\Visual Studio 2012\Projects\4.ConsoleInputOutPut\01.numbersSum\bin\Debug\01.numbersSum.pdb
+C:\Users\Martin\Documents\Visual Studio 2012\Projects\4.ConsoleInputOutPut\01.numbersSum\obj\Debug\01.numbersSum.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Documents\Visual Studio 2012\Projects\4.ConsoleInputOutPut\01.numbersSum\obj\Debug\01.numbersSum.exe
+C:\Users\Martin\Documents\Visual Studio 2012\Projects\4.ConsoleInputOutPut\01.numbersSum\obj\Debug\01.numbersSum.pdb
+D:\Telerik\TelerikAcademy\Projects\4.ConsoleInputOutPut\01.numbersSum\obj\Debug\01.numbersSum.exe
+D:\Telerik\TelerikAcademy\Projects\4.ConsoleInputOutPut\01.numbersSum\obj\Debug\01.numbersSum.pdb

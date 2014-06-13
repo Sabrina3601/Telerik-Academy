@@ -1,0 +1,5 @@
+D:\Telerik\TelerikAcademy\Projects\6.Loops\01.printNumbers\bin\Debug\01.printNumbers.exe
+D:\Telerik\TelerikAcademy\Projects\6.Loops\01.printNumbers\bin\Debug\01.printNumbers.pdb
+D:\Telerik\TelerikAcademy\Projects\6.Loops\01.printNumbers\obj\Debug\01.printNumbers.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\6.Loops\01.printNumbers\obj\Debug\01.printNumbers.exe
+D:\Telerik\TelerikAcademy\Projects\6.Loops\01.printNumbers\obj\Debug\01.printNumbers.pdb

@@ -1,0 +1,4 @@
+D:\Telerik\TelerikAcademy\Projects\2.PrmitiveDataTypesAndVariables\13.NullableVariables\bin\Debug\13.NullableVariables.exe
+D:\Telerik\TelerikAcademy\Projects\2.PrmitiveDataTypesAndVariables\13.NullableVariables\bin\Debug\13.NullableVariables.pdb
+D:\Telerik\TelerikAcademy\Projects\2.PrmitiveDataTypesAndVariables\13.NullableVariables\obj\Debug\13.NullableVariables.exe
+D:\Telerik\TelerikAcademy\Projects\2.PrmitiveDataTypesAndVariables\13.NullableVariables\obj\Debug\13.NullableVariables.pdb

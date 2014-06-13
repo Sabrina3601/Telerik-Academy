@@ -1,0 +1,6 @@
+D:\Telerik\TelerikAcademy\Projects\HelloCSharp\8.SquareNumber\bin\Debug\8.SquareNumber.exe
+D:\Telerik\TelerikAcademy\Projects\HelloCSharp\8.SquareNumber\bin\Debug\8.SquareNumber.pdb
+D:\Telerik\TelerikAcademy\Projects\HelloCSharp\8.SquareNumber\obj\Debug\8.SquareNumber.exe
+D:\Telerik\TelerikAcademy\Projects\HelloCSharp\8.SquareNumber\obj\Debug\8.SquareNumber.pdb
+D:\Telerik\TelerikAcademy\Projects\C#-Part 1\HelloCSharp\8.SquareNumber\obj\Debug\8.SquareNumber.exe
+D:\Telerik\TelerikAcademy\Projects\C#-Part 1\HelloCSharp\8.SquareNumber\obj\Debug\8.SquareNumber.pdb

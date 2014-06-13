@@ -1,0 +1,5 @@
+D:\Telerik\TelerikAcademy\Projects\6.Loops\07.fibonacciNumbers\bin\Debug\07.fibonacciNumbers.exe
+D:\Telerik\TelerikAcademy\Projects\6.Loops\07.fibonacciNumbers\bin\Debug\07.fibonacciNumbers.pdb
+D:\Telerik\TelerikAcademy\Projects\6.Loops\07.fibonacciNumbers\obj\Debug\07.fibonacciNumbers.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\6.Loops\07.fibonacciNumbers\obj\Debug\07.fibonacciNumbers.exe
+D:\Telerik\TelerikAcademy\Projects\6.Loops\07.fibonacciNumbers\obj\Debug\07.fibonacciNumbers.pdb

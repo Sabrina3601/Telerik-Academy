@@ -1,0 +1,1 @@
+D:\Telerik\TelerikAcademy\Projects\3.OperatorsExpressionsAndStatements\10.findBitPosition\bin\Debug\10.findBitPosition.exe.config

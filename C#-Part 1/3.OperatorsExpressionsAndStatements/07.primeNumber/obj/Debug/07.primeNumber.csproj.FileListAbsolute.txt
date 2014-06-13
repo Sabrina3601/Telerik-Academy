@@ -1,0 +1,5 @@
+D:\Telerik\TelerikAcademy\Projects\3.OperatorsExpressionsAndStatements\07.primeNumber\bin\Debug\07.primeNumber.exe
+D:\Telerik\TelerikAcademy\Projects\3.OperatorsExpressionsAndStatements\07.primeNumber\bin\Debug\07.primeNumber.pdb
+D:\Telerik\TelerikAcademy\Projects\3.OperatorsExpressionsAndStatements\07.primeNumber\obj\Debug\07.primeNumber.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\3.OperatorsExpressionsAndStatements\07.primeNumber\obj\Debug\07.primeNumber.exe
+D:\Telerik\TelerikAcademy\Projects\3.OperatorsExpressionsAndStatements\07.primeNumber\obj\Debug\07.primeNumber.pdb

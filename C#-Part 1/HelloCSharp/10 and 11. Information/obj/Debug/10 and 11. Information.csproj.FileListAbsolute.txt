@@ -1,0 +1,10 @@
+D:\Telerik\TelerikAcademy\Projects\HelloCSharp\10 and 11. Information\bin\Debug\_10_and_11.Information.exe
+D:\Telerik\TelerikAcademy\Projects\HelloCSharp\10 and 11. Information\bin\Debug\_10_and_11.Information.pdb
+D:\Telerik\TelerikAcademy\Projects\HelloCSharp\10 and 11. Information\obj\Debug\_10_and_11.Information.exe
+D:\Telerik\TelerikAcademy\Projects\HelloCSharp\10 and 11. Information\obj\Debug\_10_and_11.Information.pdb
+D:\Telerik\TelerikAcademy\Projects\HelloCSharp\10 and 11. Information\obj\Debug\10 and 11. Information.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\C#-Part 1\HelloCSharp\10 and 11. Information\obj\Debug\_10_and_11.Information.exe
+D:\Telerik\TelerikAcademy\Projects\C#-Part 1\HelloCSharp\10 and 11. Information\obj\Debug\_10_and_11.Information.pdb
+D:\Telerik\TelerikAcademy\Projects\C#-Part 1\HelloCSharp\10 and 11. Information\bin\Debug\_10_and_11.Information.exe
+D:\Telerik\TelerikAcademy\Projects\C#-Part 1\HelloCSharp\10 and 11. Information\bin\Debug\_10_and_11.Information.pdb
+D:\Telerik\TelerikAcademy\Projects\C#-Part 1\HelloCSharp\10 and 11. Information\obj\Debug\10 and 11. Information.csprojResolveAssemblyReference.cache
