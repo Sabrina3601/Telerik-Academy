@@ -1,0 +1,5 @@
+D:\Telerik\TelerikAcademy\Projects\JavaScript\Javascript - UI & DOM\10.jQueryPlugin\01.DropDownList\bin\01.DropDownList.dll
+D:\Telerik\TelerikAcademy\Projects\JavaScript\Javascript - UI & DOM\10.jQueryPlugin\01.DropDownList\bin\01.DropDownList.pdb
+D:\Telerik\TelerikAcademy\Projects\JavaScript\Javascript - UI & DOM\10.jQueryPlugin\01.DropDownList\obj\Debug\01.DropDownList.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\JavaScript\Javascript - UI & DOM\10.jQueryPlugin\01.DropDownList\obj\Debug\01.DropDownList.dll
+D:\Telerik\TelerikAcademy\Projects\JavaScript\Javascript - UI & DOM\10.jQueryPlugin\01.DropDownList\obj\Debug\01.DropDownList.pdb
