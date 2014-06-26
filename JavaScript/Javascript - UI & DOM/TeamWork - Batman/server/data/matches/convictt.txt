@@ -1,0 +1,1 @@
+{"time":300000,"rankRange":{"min":"1300","max":"1600"},"username":"convictt","started-looking":1402837042816,"rank":1200}

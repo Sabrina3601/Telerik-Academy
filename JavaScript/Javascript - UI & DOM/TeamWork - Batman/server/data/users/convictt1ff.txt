@@ -1,0 +1,1 @@
+{"username":"convictt1ff","password":"password","email":"d.andreev90@gmail.com","rank":1200}

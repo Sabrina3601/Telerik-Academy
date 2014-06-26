@@ -1,0 +1,6 @@
+{
+   "username":"convictt",
+   "password":"password",
+   "email":"d.andreev90@gmail.com",
+   "rank":1900
+}

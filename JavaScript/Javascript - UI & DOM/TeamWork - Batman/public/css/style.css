@@ -1,0 +1,453 @@
+html, body, div, ul, li, h1, h2, h3, h4, h5, button, p {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    width: 100%;
+    height: 100%;
+}
+
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+label {
+    color: #f1f1f1;
+}
+
+.clear {
+    display: block;
+    clear: both;
+}
+
+.red {
+    color: #FF2E12 !important;
+}
+
+.wrapper {
+    background-color: #f2f2f2;
+}
+
+input {
+    padding: 5px;
+    z-index: 1;
+    -webkit-appearance: none;
+    line-height: normal;
+    border-collapse: collapse;
+    margin: 0 5px 0 0;
+    font-size: 100%;
+    vertical-align: middle;
+    background-color: white;
+    box-sizing: border-box;
+    -webkit-rtl-ordering: logical;
+    -webkit-user-select: text;
+    cursor: auto;
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: start;
+    -webkit-writing-mode: horizontal-tb;
+    border: 1px solid #222;
+    margin-bottom: 5px;
+}
+
+button {
+
+}
+
+.clickable {
+    cursor: pointer;
+}
+
+/*
+    HEADER
+*/
+.header {
+    height: 50px;
+    width: 100%;
+    background-color: #222;
+    color: #fff;
+    z-index: 1;
+    position: fixed;
+}
+
+.header .middle {
+    height: 50px;
+    width: 999px;
+    margin: 0 auto;
+}
+
+.header .middle .logo {
+    float: left;
+    position : relative;
+    top: 10px;
+    height: 100%;
+    font-size: 22px;
+}
+
+.header .middle .logo i {
+    top: -13px;
+}
+.menu{
+	position:relative;
+}
+.header .middle .menu {
+    float:right;
+
+    list-style-type: none;
+}
+
+.header .middle .menu li {
+    display: inline-block;
+}
+
+.header .middle .menu li > i {
+    position: relative;
+    top: -30px;
+}
+
+.header .middle .menu li > span {
+    position: relative;
+    right: 15px;
+    top: -16px;
+}
+
+.header .middle .menu .dropdown {
+    position: relative;
+    top: -18px;
+    color: #f1f1f1;
+}
+
+.header .middle .devider {
+    background: #000000;
+    -webkit-box-shadow: 1px 0 0 rgba(255, 255, 255, 0.1);
+    -moz-box-shadow: 1px 0 0 rgba(255, 255, 255, 0.1);
+    box-shadow: 1px 0 0 rgba(255, 255, 255, 0.1);
+    height: 50px;
+    margin-right: 10px;
+    width: 1px;
+    box-sizing: border-box;
+}
+
+.header .middle .devider:last-child {
+    margin-right: 0;
+    margin-left: 8px;
+}
+
+.header .middle .login-box {
+    display: none;
+    min-height: 155px;
+    width: 200px;
+    position: absolute;
+    left: 0px;
+    top: 50px;
+    background-color: #f1f1f1;
+    padding: 10px;
+    -moz-box-shadow: 0px 3px 8px rgb(100, 100, 100);
+    -webkit-box-shadow: 0px 3px 8px rgb(100, 100, 100);
+    box-shadow: 0px 3px 8px rgb(100, 100, 100);
+}
+
+.header .middle .menu h2 {
+    color: #222;
+    margin-bottom: 5px;
+}
+
+.header .middle .login-box .login-submit {
+
+}
+
+.header .middle .register-box {
+    display: none;
+    min-height: 192px;
+    width: 200px;
+    position: absolute;
+    left: 1389px;
+    top: 50px;
+    background-color: #f1f1f1;
+    padding: 10px;
+    -moz-box-shadow: 0px 3px 8px rgb(100, 100, 100);
+    -webkit-box-shadow: 0px 3px 8px rgb(100, 100, 100);
+    box-shadow: 0px 3px 8px rgb(100, 100, 100);
+}
+
+button:active {
+    vertical-align: top;
+    padding: 6px;
+}
+
+.opened {
+    display: block !important;
+}
+
+.logged-in {
+    display: none !important;
+}
+
+.button {
+    font-size: 20px;
+    background-color: #222222;
+    color: #f1f1f1;
+    border: none;
+    padding: 5px;
+}
+
+.header .middle .menu .error {
+    height: 85px;
+    width: 200px;
+    display: none;
+    text-align: center;
+}
+
+.header .middle .menu .error i{
+    margin-bottom: 5px;
+}
+
+.header .middle .menu .error .error-message {
+    position: relative;
+    top: 15px;
+    padding-bottom: 10px;
+}
+
+/*
+    CONTENT
+*/
+.content {
+    width: 960px;
+    height: 870px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 70px 20px 20px 20px;
+    box-shadow: 10px 0px 10px -7px rgba(0, 0, 0, 0.5), -10px 0px 10px -7px rgba(0, 0, 0, 0.5);
+}
+
+.page {
+    height: 100%;
+    width: 100%;
+    display: none;
+}
+
+/*
+    Lobby
+*/
+
+.lobby {
+    background-color: #222;
+}
+
+.lobby .game {
+    height: 870px;
+    border: 2px solid black;
+}
+
+.lobby .game .game-header {
+    height: 70px;
+    border-bottom: 1px solid black;
+    background-color: #4294de;
+    color: #f1f1f1;
+    text-shadow: 3px 1px 1px #222;
+}
+
+.lobby .game .game-header .title {
+    width: 100px;
+    height: 70px;
+    text-align: center;
+    font-size: 35px;
+    padding-top: 11px;
+    margin: 0 auto;
+}
+
+.lobby .left {
+    width: 478px;
+    height: 800px;
+    float: left;
+    background-color: #222;
+}
+
+.lobby .left .sub-title {
+    font-size: 30px;
+    margin-left: 177px;
+    margin-top: 30px;
+    color: #f1f1f1;
+}
+
+.lobby .left .time-range {
+    margin-top: 30px;
+    margin-left: 203px;
+    height: 40px;
+    margin-bottom: 15px;
+    width: 90px;
+    border: 1px #222222 solid;
+    padding: 5px;
+    cursor: pointer;
+    border-collapse: collapse;
+    background-color: #4294de;
+    color: #f1f1f1;
+    font-size: 20px;
+}
+
+.lobby .left .rank-range #amount {
+    margin-top: 15px;
+    text-align: center;
+    color: #222 !important;
+    font-family : 'Lato', sans-serif !important;
+    font-weight: normal !important;
+    box-shadow: 10px 0px 10px -7px rgba(0, 0, 0, 0.5), -10px 0px 10px -7px rgba(0, 0, 0, 0.5) !important;
+}
+
+.lobby .left .rank-range {
+    margin-left: 18px;
+    text-align: center;
+}
+
+.lobby .left .seek i {
+    top: -14px;
+    left: 12px;
+
+}
+
+.lobby .left .seek {
+    margin-top: 35px;
+    margin-left: 203px;
+    height: 40px;
+    width: 90px;
+    border: 1px #222222 solid;
+    padding: 5px;
+    cursor: pointer;
+    border-collapse: collapse;
+    background-color: #4294de;
+    color: #f1f1f1;
+    font-size: 20px;
+}
+
+.lobby .left #slider-range {
+    width: 90%;
+    margin-left: 22px;
+    margin-top:10px;
+}
+
+.lobby .right {
+    width: 478px;
+    height: 800px;
+    float: right;
+    background-color: #222;
+}
+
+.lobby .right .active-games {
+    margin-top: 40px;
+}
+
+.lobby .right i {
+    position: relative;
+    top: -13px;
+}
+
+.lobby .right .row {
+    height: 30px;
+    cursor: pointer;
+    position: relative;
+}
+
+.lobby .right .row:hover {
+    opacity: 0.7;
+}
+
+.lobby .right .row div {
+    float: left;
+    width: 100px;
+    height:30px;
+    padding-top: 5px;
+}
+
+.lobby .right .active-games .even {
+    background-color: #4294de;
+    color: #f1f1f1;
+}
+
+.lobby .right .active-games .odd {
+    background-color: orange;
+}
+
+.lobby .right .row .action {
+    width: 50px;
+}
+
+.lobby .right .row .player-name{
+
+}
+
+.lobby .right .row .player-rating {
+    float: right;
+}
+
+.lobby .right .row .player-time {
+    float: right;
+}
+
+/*
+    Game offer
+*/
+.lobby .game-offers {
+    /* display: none; */
+    position: absolute;
+    top: -200px;
+    left: 820px;
+    z-index: 10;
+}
+
+.lobby .game-offers .offers {
+    list-style-type: none;
+    width: 250px;
+    text-align: center;
+    background-color: #f1f1f1;
+    padding: 5px;
+}
+
+.lobby .game-offers .offers li {
+
+}
+
+.lobby .game-offers .offers button {
+    margin-top: 20px;
+    font-size: 20px;
+    background-color: #222222;
+    color: #f1f1f1;
+    border: none;
+    padding: 5px;
+}
+
+.lobby .game-offers .offers button.offer-accept {
+
+}
+
+.lobby .game-offers .offers button.offer-decline {
+
+}
+
+
+/*
+    Play
+*/
+
+.page .play {
+
+}
+
+.score-board {
+    margin-left: 200px;
+    float: left;
+    width: 100px;
+    height: 50px;
+}
+
+#the-canvas {
+    margin-left: 100px;
+}
