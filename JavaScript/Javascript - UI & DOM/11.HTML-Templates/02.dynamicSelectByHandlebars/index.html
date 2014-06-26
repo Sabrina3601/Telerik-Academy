@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Dynamic Selection using Handlebars</title>
+    <script src="handlebars-v1.3.0.js" type="text/javascript"></script>
+    <script id="dynamic_selection" type="text/dynamic_selection_type">
+        <select>
+            {{#each items}}
+                <option value="{{value}}">{{text}}</option>
+            {{/each}}
+        </select>
+    </script>
+</head>
+<body>
+    <script>
+        var templateString = document.getElementById("dynamic_selection").innerHTML;
+        var template = Handlebars.compile(templateString);
+
+        var items = [{
+            value: 1,
+            text: 'One'
+        }, {
+            value: 2,
+            text: 'Two'
+        }, {
+            value: 3,
+            text: 'Three',
+        }, {
+            value: 4,
+            text: 'Four'
+        }, {
+            value: 5,
+            text: 'Five'
+        }];
+        var itemsHtml = template({
+            items:items
+        })
+
+        document.body.innerHTML += itemsHtml;
+
+        var selectHTML = selectTemplate(items);
+    </script>
+
+</body>
+</html>

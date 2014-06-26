@@ -1,0 +1,5 @@
+D:\Telerik\TelerikAcademy\Projects\JavaScript\Javascript - UI & DOM\11.HTML-Templates\01.TableWithHadlebars\bin\01.TableWithHadlebars.dll
+D:\Telerik\TelerikAcademy\Projects\JavaScript\Javascript - UI & DOM\11.HTML-Templates\01.TableWithHadlebars\bin\01.TableWithHadlebars.pdb
+D:\Telerik\TelerikAcademy\Projects\JavaScript\Javascript - UI & DOM\11.HTML-Templates\01.TableWithHadlebars\obj\Debug\01.TableWithHadlebars.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\JavaScript\Javascript - UI & DOM\11.HTML-Templates\01.TableWithHadlebars\obj\Debug\01.TableWithHadlebars.dll
+D:\Telerik\TelerikAcademy\Projects\JavaScript\Javascript - UI & DOM\11.HTML-Templates\01.TableWithHadlebars\obj\Debug\01.TableWithHadlebars.pdb

@@ -1,0 +1,5 @@
+D:\Telerik\TelerikAcademy\Projects\JavaScript\Javascript - UI & DOM\11.HTML-Templates\02.dynamicSelectByHandlebars\bin\02.dynamicSelectByHandlebars.dll
+D:\Telerik\TelerikAcademy\Projects\JavaScript\Javascript - UI & DOM\11.HTML-Templates\02.dynamicSelectByHandlebars\bin\02.dynamicSelectByHandlebars.pdb
+D:\Telerik\TelerikAcademy\Projects\JavaScript\Javascript - UI & DOM\11.HTML-Templates\02.dynamicSelectByHandlebars\obj\Debug\02.dynamicSelectByHandlebars.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\JavaScript\Javascript - UI & DOM\11.HTML-Templates\02.dynamicSelectByHandlebars\obj\Debug\02.dynamicSelectByHandlebars.dll
+D:\Telerik\TelerikAcademy\Projects\JavaScript\Javascript - UI & DOM\11.HTML-Templates\02.dynamicSelectByHandlebars\obj\Debug\02.dynamicSelectByHandlebars.pdb
