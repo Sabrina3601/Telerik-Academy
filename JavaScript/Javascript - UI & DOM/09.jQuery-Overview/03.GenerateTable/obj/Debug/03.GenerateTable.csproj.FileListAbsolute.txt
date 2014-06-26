@@ -1,0 +1,5 @@
+D:\Telerik\TelerikAcademy\Projects\JavaScript\Javascript - UI & DOM\09.jQuery-Overview\03.GenerateTable\bin\03.GenerateTable.dll
+D:\Telerik\TelerikAcademy\Projects\JavaScript\Javascript - UI & DOM\09.jQuery-Overview\03.GenerateTable\bin\03.GenerateTable.pdb
+D:\Telerik\TelerikAcademy\Projects\JavaScript\Javascript - UI & DOM\09.jQuery-Overview\03.GenerateTable\obj\Debug\03.GenerateTable.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\JavaScript\Javascript - UI & DOM\09.jQuery-Overview\03.GenerateTable\obj\Debug\03.GenerateTable.dll
+D:\Telerik\TelerikAcademy\Projects\JavaScript\Javascript - UI & DOM\09.jQuery-Overview\03.GenerateTable\obj\Debug\03.GenerateTable.pdb

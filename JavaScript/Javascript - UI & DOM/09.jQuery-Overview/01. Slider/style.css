@@ -1,0 +1,45 @@
+﻿ #slider_hodler{
+            width:800px;
+            height:450px;
+            overflow:hidden;
+            margin:0 auto;
+            position:relative;
+        }
+        #prev{
+            position:absolute;
+            left:0px;
+            top:180px;
+        }
+         #next{
+            position:absolute;
+            right:0px;
+            top:180px;
+        }
+        #first_slider{
+            border:15px solid red;
+            background-color:green;
+            width:650px;
+            height:400px;
+            margin:0 auto;
+        }
+        #second_slider{
+            border:15px solid blue;
+            background-color:yellow;
+            width:650px;
+            height:400px;
+             margin:0 auto;
+        }
+        #third_slider{
+            border:15px solid black;
+            background-color:green;
+            width:650px;
+            height:400px;
+             margin:0 auto;
+        }
+        #foruth_slider{
+            border:15px solid black;
+            background-color:yellowgreen;
+            width:650px;
+            height:400px;
+             margin:0 auto;
+        }

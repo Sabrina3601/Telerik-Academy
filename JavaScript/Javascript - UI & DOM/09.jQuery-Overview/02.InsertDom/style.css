@@ -1,0 +1,28 @@
+﻿body{
+            background-color:black;
+            color:#fff;
+        }
+        #wrapper{
+            width:400px;
+            margin:0 auto;
+        }
+        #insert_block{
+            margin-top:10px;
+            width:325px;
+            height:100%;
+            border:1px solid #fff;
+            padding:5px;
+        }
+        input{
+            width:160px;
+            height:40px;
+        }
+        button{
+            border:none;
+            background-color:#fff;
+            width:80px;
+            height:45px;
+        }
+        button:hover{
+            background-color:yellowgreen;
+        }

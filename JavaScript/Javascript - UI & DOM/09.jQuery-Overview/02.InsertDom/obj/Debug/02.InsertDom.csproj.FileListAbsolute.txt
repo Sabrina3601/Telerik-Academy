@@ -1,0 +1,4 @@
+D:\Telerik\TelerikAcademy\Projects\JavaScript\Javascript - UI & DOM\09.jQuery-Overview\02.InsertDom\bin\02.InsertDom.dll
+D:\Telerik\TelerikAcademy\Projects\JavaScript\Javascript - UI & DOM\09.jQuery-Overview\02.InsertDom\bin\02.InsertDom.pdb
+D:\Telerik\TelerikAcademy\Projects\JavaScript\Javascript - UI & DOM\09.jQuery-Overview\02.InsertDom\obj\Debug\02.InsertDom.dll
+D:\Telerik\TelerikAcademy\Projects\JavaScript\Javascript - UI & DOM\09.jQuery-Overview\02.InsertDom\obj\Debug\02.InsertDom.pdb

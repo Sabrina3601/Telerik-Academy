@@ -1,0 +1,4 @@
+D:\Telerik\TelerikAcademy\Projects\JavaScript\Javascript - UI & DOM\09.jQuery-Overview\04.ChangeBackgroun\bin\04.ChangeBackgroun.dll
+D:\Telerik\TelerikAcademy\Projects\JavaScript\Javascript - UI & DOM\09.jQuery-Overview\04.ChangeBackgroun\bin\04.ChangeBackgroun.pdb
+D:\Telerik\TelerikAcademy\Projects\JavaScript\Javascript - UI & DOM\09.jQuery-Overview\04.ChangeBackgroun\obj\Debug\04.ChangeBackgroun.dll
+D:\Telerik\TelerikAcademy\Projects\JavaScript\Javascript - UI & DOM\09.jQuery-Overview\04.ChangeBackgroun\obj\Debug\04.ChangeBackgroun.pdb

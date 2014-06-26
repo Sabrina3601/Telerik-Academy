@@ -1,0 +1,5 @@
+D:\Telerik\TelerikAcademy\Projects\JavaScript\Javascript - UI & DOM\09.jQuery-Overview\01. Slider\bin\_01.Slider.dll
+D:\Telerik\TelerikAcademy\Projects\JavaScript\Javascript - UI & DOM\09.jQuery-Overview\01. Slider\bin\_01.Slider.pdb
+D:\Telerik\TelerikAcademy\Projects\JavaScript\Javascript - UI & DOM\09.jQuery-Overview\01. Slider\obj\Debug\01. Slider.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\JavaScript\Javascript - UI & DOM\09.jQuery-Overview\01. Slider\obj\Debug\_01.Slider.dll
+D:\Telerik\TelerikAcademy\Projects\JavaScript\Javascript - UI & DOM\09.jQuery-Overview\01. Slider\obj\Debug\_01.Slider.pdb

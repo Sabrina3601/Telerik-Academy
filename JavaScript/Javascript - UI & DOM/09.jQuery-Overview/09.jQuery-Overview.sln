@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Slider", "01. Slider\01. Slider.csproj", "{009C9551-8FC8-4AA0-B459-C3846A10EEDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.InsertDom", "02.InsertDom\02.InsertDom.csproj", "{A6561E3E-A98E-4D7C-9C4F-3DBE053A651B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.GenerateTable", "03.GenerateTable\03.GenerateTable.csproj", "{55AD76F2-69E4-4814-BC15-0150274F9C92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.ChangeBackgroun", "04.ChangeBackgroun\04.ChangeBackgroun.csproj", "{51CEE8E6-5712-4A98-A8E5-4BD76E16A1D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{009C9551-8FC8-4AA0-B459-C3846A10EEDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{009C9551-8FC8-4AA0-B459-C3846A10EEDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{009C9551-8FC8-4AA0-B459-C3846A10EEDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{009C9551-8FC8-4AA0-B459-C3846A10EEDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6561E3E-A98E-4D7C-9C4F-3DBE053A651B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6561E3E-A98E-4D7C-9C4F-3DBE053A651B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6561E3E-A98E-4D7C-9C4F-3DBE053A651B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6561E3E-A98E-4D7C-9C4F-3DBE053A651B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55AD76F2-69E4-4814-BC15-0150274F9C92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55AD76F2-69E4-4814-BC15-0150274F9C92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55AD76F2-69E4-4814-BC15-0150274F9C92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55AD76F2-69E4-4814-BC15-0150274F9C92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51CEE8E6-5712-4A98-A8E5-4BD76E16A1D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51CEE8E6-5712-4A98-A8E5-4BD76E16A1D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51CEE8E6-5712-4A98-A8E5-4BD76E16A1D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51CEE8E6-5712-4A98-A8E5-4BD76E16A1D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
