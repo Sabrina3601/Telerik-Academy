@@ -1,0 +1,5 @@
+D:\Telerik\TelerikAcademy\Projects\JavaScript\JavaScript OOP\02.Classical OOP\01.CanvasDrawer\01.CanvasDrawer\bin\01.CanvasDrawer.dll
+D:\Telerik\TelerikAcademy\Projects\JavaScript\JavaScript OOP\02.Classical OOP\01.CanvasDrawer\01.CanvasDrawer\bin\01.CanvasDrawer.pdb
+D:\Telerik\TelerikAcademy\Projects\JavaScript\JavaScript OOP\02.Classical OOP\01.CanvasDrawer\01.CanvasDrawer\obj\Debug\01.CanvasDrawer.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\JavaScript\JavaScript OOP\02.Classical OOP\01.CanvasDrawer\01.CanvasDrawer\obj\Debug\01.CanvasDrawer.dll
+D:\Telerik\TelerikAcademy\Projects\JavaScript\JavaScript OOP\02.Classical OOP\01.CanvasDrawer\01.CanvasDrawer\obj\Debug\01.CanvasDrawer.pdb

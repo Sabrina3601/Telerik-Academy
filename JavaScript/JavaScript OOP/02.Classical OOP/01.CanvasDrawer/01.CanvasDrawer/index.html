@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Canvas Drawer</title>
+    <script src="script.js"></script>
+    <style>
+        #paper{
+            margin:0 auto;
+            display:block;
+        }
+    </style>
+</head>
+<body>
+    <canvas id="paper" width="400" height="400"></canvas>
+	<script>
+	    (function () {
+	        'use strict';
+
+	        var drawer = new CanvasDrawer('paper');
+
+	        drawer.Rect(50, 50, 100, 70,null,null,5);
+
+	        drawer.Circle(250, 100, 50, 'yellowgreen', 'black');
+
+	        drawer.Line(150, 120, 50, 50);
+	    }());
+	</script>
+</body>
+</html>

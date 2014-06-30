@@ -1,0 +1,96 @@
+﻿<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Dom Manipulation Model</title>
+    <script src="script.js"></script>
+   <style>
+       .bufferBox{
+           width:20px;
+           height:20px;
+           background-color:#000;
+           margin-right:5px;
+           display:inline-block;
+
+       }
+
+       button{
+           height:40px;
+           background-color:#000;
+           border:none;
+           color:#fff;
+       }
+
+       button:hover{
+           background-color:#262626;
+       }
+
+       ul{
+           padding:0px;
+       }
+
+       li{
+           list-style-type:none;
+           background-color:yellowgreen;
+           width:353px;
+           margin-top:5px;
+           cursor:pointer;
+       }
+   </style>
+</head>
+<body>
+    <button id="appendElementBtn">Append li element in Ul parent</button>
+    <button id="removeElementBtn">Remove last li element</button>
+    <button id="eventBtn">Make li Elements clickable</button>
+    <button id="bufferBtn">Buffer</button>
+    <span id="counter">The elements will be appended after 10 clicks</span>
+    <ul>
+    </ul>
+
+    
+
+    <script>
+        // appendChild
+        var appendBtn = document.getElementById('appendElementBtn');
+
+        appendBtn.addEventListener('click', function () {
+            var appendElement = document.createElement('li');
+            appendElement.innerHTML = 'This is some text in the paragraph';
+            domModule.appendElement(appendElement,'ul');
+        });
+
+
+        //removeChild
+        var removeBtn = document.getElementById('removeElementBtn');
+
+        removeBtn.addEventListener('click', function () {
+            domModule.removeElement('li');
+        });
+
+        //eventHandler
+        var eventBtn = document.getElementById('eventBtn');
+
+        eventBtn.addEventListener('click',function(){
+            domModule.addEvent('li', 'click', function(){
+                this.style.background = 'green';
+            })
+        })
+
+        //buffer
+        var bufferBtn = document.getElementById('bufferBtn');
+        var counter = 0;
+        bufferBtn.addEventListener('click', function () {
+            var bufferBox = document.createElement('div');
+            bufferBox.className = 'bufferBox';
+            domModule.appendToBuffer(bufferBox.cloneNode(true), 'body');
+            counter++;
+            if (counter === 11) {
+                counter = 1;
+            }
+            document.getElementById('counter').innerHTML = "Click Count: " + counter;
+
+        })
+    </script>
+    
+</body>
+</html>
