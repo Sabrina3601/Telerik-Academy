@@ -1,0 +1,5 @@
+D:\Telerik\TelerikAcademy\Projects\JavaScript\JavaScript Applications\WebStrages\WebStrages\bin\WebStrages.dll
+D:\Telerik\TelerikAcademy\Projects\JavaScript\JavaScript Applications\WebStrages\WebStrages\bin\WebStrages.pdb
+D:\Telerik\TelerikAcademy\Projects\JavaScript\JavaScript Applications\WebStrages\WebStrages\obj\Debug\WebStrages.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\JavaScript\JavaScript Applications\WebStrages\WebStrages\obj\Debug\WebStrages.dll
+D:\Telerik\TelerikAcademy\Projects\JavaScript\JavaScript Applications\WebStrages\WebStrages\obj\Debug\WebStrages.pdb

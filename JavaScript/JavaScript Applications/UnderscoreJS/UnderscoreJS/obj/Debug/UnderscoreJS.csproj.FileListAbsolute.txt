@@ -1,0 +1,5 @@
+D:\Telerik\TelerikAcademy\Projects\JavaScript\JavaScript Applications\UnderscoreJS\UnderscoreJS\bin\UnderscoreJS.dll
+D:\Telerik\TelerikAcademy\Projects\JavaScript\JavaScript Applications\UnderscoreJS\UnderscoreJS\bin\UnderscoreJS.pdb
+D:\Telerik\TelerikAcademy\Projects\JavaScript\JavaScript Applications\UnderscoreJS\UnderscoreJS\obj\Debug\UnderscoreJS.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\JavaScript\JavaScript Applications\UnderscoreJS\UnderscoreJS\obj\Debug\UnderscoreJS.dll
+D:\Telerik\TelerikAcademy\Projects\JavaScript\JavaScript Applications\UnderscoreJS\UnderscoreJS\obj\Debug\UnderscoreJS.pdb
