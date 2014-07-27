@@ -1,0 +1,48 @@
+﻿body{
+    background:#000;
+    color:#fff;
+}
+#wrap{
+    width:500px;
+    margin:0 auto;
+}
+#holder{
+    width:300px;
+    margin:0 auto;
+}
+input{
+    border:none;
+    height:40px;
+    width:140px;
+    margin-bottom:5px;
+}
+button{
+    background-color:yellowgreen;
+    border:none;
+    height:40px;
+    width:200px;
+}
+button:hover{
+    background-color:#b8ee49;
+    cursor:pointer;
+}
+.info {
+    font-size: 0.9em;
+    font-style: italic;
+    border: 1px solid orange;
+    display: block;
+    padding: 5px 15px;
+    width: 250px;
+    margin: 0 auto;
+    text-indent: 0;
+}
+.message.success {
+    color: yellowgreen;
+}
+.message.error {
+    color: red;
+}
+.message.error,
+.message.success {
+    display: none;
+}

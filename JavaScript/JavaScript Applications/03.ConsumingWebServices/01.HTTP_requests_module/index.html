@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>HTTP Requests with getJSON/postJSON</title>
+    <link href="style.css" rel="stylesheet" />
+    <script src="scripts/lib/require.js" data-main="scripts/app"></script>
+</head>
+<body>
+    <div id="wrap">
+        <div id="holder">
+            <label for="tb-name">Name:</label>
+            <input id="tb-name" name="tb-name" type="text" />
+            <br/>
+            <label for="tb-grade">Grade:</label>
+            <input id="tb-grade" name="tb-grade" type="number" min='1' max='12' />
+            <br/>
+            <button id='btn-add-student'>Add new</button>
+       
+            <div class="messages">
+                <strong class="message success">
+		        </strong>
+                <strong class="message error">
+		        </strong>
+            </div>
+         </div>
+        <div id="students-container"></div>
+        <p class='info'>This web page should be run on a server (localhost or in WWW).</p>
+    </div>
+</body>
+</html>

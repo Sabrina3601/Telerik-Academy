@@ -1,0 +1,36 @@
+﻿body {
+    background-color:#000;
+    color:#fff;
+    font-family:Calibri;
+}
+input{
+    border:none;
+    height:40px;
+    width:140px;
+    margin-bottom:5px;
+}
+h1{
+    text-align:center;
+}
+button{
+    background-color:yellowgreen;
+    border:none;
+    height:40px;
+    width:225px;
+    margin-bottom:5px;
+    display:block;
+}
+button:hover{
+    background-color:#acee25;
+    cursor:pointer;
+}
+section{
+    width:250px;
+    margin:0 auto;
+}
+#error{
+    color:red;
+}
+#success{
+    color:yellowgreen;
+}
