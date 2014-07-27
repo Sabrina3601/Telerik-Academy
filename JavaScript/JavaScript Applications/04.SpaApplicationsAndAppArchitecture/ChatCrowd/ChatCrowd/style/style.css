@@ -1,0 +1,138 @@
+﻿body{
+    background-color:#000;
+    margin:0px;
+    font-family:Calibri;
+    color:white;
+}
+nav{
+    background-color:yellowgreen;
+    height:50px;
+    list-style-type:none;
+}
+ul{
+    margin:0px;
+    padding:15px;
+    display:block;
+}
+img{
+    margin-top:5px;
+    margin-left:50px;
+}
+ li{
+     display:inline-block;
+    margin-left:50px;
+    text-transform:uppercase;
+   
+    
+}
+ li a{
+     text-decoration:none;
+      color:white;
+      
+}
+ li a:hover{
+    border-bottom:5px solid white; 
+ }
+#nav{
+    display:inline-block;
+    font-size:20px;
+    font-weight:bold;
+    position:absolute;
+}
+#main-content{
+    display:block;
+    width:500px;
+    margin:0 auto;
+    margin-top:50px;
+}
+input{
+    height:60px;
+    font-size:20px;
+    margin-left:10px;
+    border:none;
+    padding:0px;
+    padding-left:10px;
+}
+label{
+    font-size:18px;
+}
+button{
+    height:61px;
+    border:none;
+    background:yellowgreen;
+    width:150px;
+    font-size:18px;
+    margin-left:5px;
+    color:white;
+    cursor:pointer;
+}
+button:hover{
+    background:#a5de30;
+}
+
+#chat-div {
+    height: 250px;
+    margin: 10px;
+    overflow-y: auto;
+    background: white;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    overflow-x:hidden;
+}
+
+#chat-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+    #chat-list li {
+        font-size: 18px;
+        margin-bottom: 3px;
+        padding-left: 15px;
+        padding-right: 15px;
+        display:block;
+        margin:0px;
+    }
+
+        #chat-list li:nth-child(odd) {
+            background: #ee8f0b;
+        }
+
+        #chat-list li:nth-child(even) {
+            text-align: right;
+            background: #fba021;
+        }
+
+        #chat-list li strong {
+            font-size: 22px;
+            color:black;
+        }
+
+#send-div {
+    margin: 10px;
+    height: 60px;
+}
+
+#tb-send {
+    width: 442px;
+    height: 33px;
+    font-size: 22px;
+    padding: 4px;
+    padding-right: 10px;
+}
+
+#send-btn {
+    margin-top:10px;
+    margin-right:14px;
+    font-size: 22px;
+    padding: 5px 15px;
+    float: right;
+    height:40px;
+    background:#ff9400;
+}
+#send-btn:hover{
+     background: #fb9f20;
+}
+#about-div{
+    font-size:22px;
+}

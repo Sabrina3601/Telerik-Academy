@@ -1,0 +1,5 @@
+D:\Telerik\TelerikAcademy\Projects\JavaScript\JavaScript Applications\04.SpaApplicationsAndAppArchitecture\ChatCrowd\ChatCrowd\bin\ChatCrowd.dll
+D:\Telerik\TelerikAcademy\Projects\JavaScript\JavaScript Applications\04.SpaApplicationsAndAppArchitecture\ChatCrowd\ChatCrowd\bin\ChatCrowd.pdb
+D:\Telerik\TelerikAcademy\Projects\JavaScript\JavaScript Applications\04.SpaApplicationsAndAppArchitecture\ChatCrowd\ChatCrowd\obj\Debug\ChatCrowd.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\JavaScript\JavaScript Applications\04.SpaApplicationsAndAppArchitecture\ChatCrowd\ChatCrowd\obj\Debug\ChatCrowd.dll
+D:\Telerik\TelerikAcademy\Projects\JavaScript\JavaScript Applications\04.SpaApplicationsAndAppArchitecture\ChatCrowd\ChatCrowd\obj\Debug\ChatCrowd.pdb
