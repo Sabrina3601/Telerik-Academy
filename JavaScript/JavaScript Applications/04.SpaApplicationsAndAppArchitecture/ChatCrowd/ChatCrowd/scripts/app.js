@@ -35,9 +35,12 @@
                     .append($('<span/>')
                     .html(chatters[i].text))
                     .appendTo(chatlist);
+                   
                 };
 
                 $('#chat-div').html(chatlist);
+                $("#chat-div").scrollTop($("#chat-div")[0].scrollHeight);
+                setInterval(reloadChat(resourceUrl), 10000);
             },
             error: function (error) {
             }
@@ -70,9 +73,11 @@
                                     };
                                     sendMessage(resourceUrl, message);
                                     $("#chat-div").scrollTop($("#chat-div")[0].scrollHeight);
+                                    
                                 })));
                 reloadChat(resourceUrl);
                 
+                $("#chat-div").scrollTop($("#chat-div")[0].scrollHeight);
             });
 
             this.get("#/about", function () {
@@ -91,7 +96,7 @@
         
         
         app.run('#/');
-
+       
 
    
 }());
