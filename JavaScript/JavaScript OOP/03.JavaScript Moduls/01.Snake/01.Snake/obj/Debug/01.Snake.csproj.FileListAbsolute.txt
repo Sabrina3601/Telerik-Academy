@@ -1,0 +1,5 @@
+D:\Telerik\TelerikAcademy\Projects\JavaScript\JavaScript OOP\03.JavaScript Moduls\01.Snake\01.Snake\bin\01.Snake.dll
+D:\Telerik\TelerikAcademy\Projects\JavaScript\JavaScript OOP\03.JavaScript Moduls\01.Snake\01.Snake\bin\01.Snake.pdb
+D:\Telerik\TelerikAcademy\Projects\JavaScript\JavaScript OOP\03.JavaScript Moduls\01.Snake\01.Snake\obj\Debug\01.Snake.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\JavaScript\JavaScript OOP\03.JavaScript Moduls\01.Snake\01.Snake\obj\Debug\01.Snake.dll
+D:\Telerik\TelerikAcademy\Projects\JavaScript\JavaScript OOP\03.JavaScript Moduls\01.Snake\01.Snake\obj\Debug\01.Snake.pdb

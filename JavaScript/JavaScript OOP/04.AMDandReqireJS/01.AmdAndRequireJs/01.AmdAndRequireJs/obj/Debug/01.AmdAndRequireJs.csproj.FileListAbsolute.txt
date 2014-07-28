@@ -1,0 +1,5 @@
+D:\Telerik\TelerikAcademy\Projects\JavaScript\JavaScript OOP\04.AMDandReqireJS\01.AmdAndRequireJs\01.AmdAndRequireJs\bin\01.AmdAndRequireJs.dll
+D:\Telerik\TelerikAcademy\Projects\JavaScript\JavaScript OOP\04.AMDandReqireJS\01.AmdAndRequireJs\01.AmdAndRequireJs\bin\01.AmdAndRequireJs.pdb
+D:\Telerik\TelerikAcademy\Projects\JavaScript\JavaScript OOP\04.AMDandReqireJS\01.AmdAndRequireJs\01.AmdAndRequireJs\obj\Debug\01.AmdAndRequireJs.csprojResolveAssemblyReference.cache
+D:\Telerik\TelerikAcademy\Projects\JavaScript\JavaScript OOP\04.AMDandReqireJS\01.AmdAndRequireJs\01.AmdAndRequireJs\obj\Debug\01.AmdAndRequireJs.dll
+D:\Telerik\TelerikAcademy\Projects\JavaScript\JavaScript OOP\04.AMDandReqireJS\01.AmdAndRequireJs\01.AmdAndRequireJs\obj\Debug\01.AmdAndRequireJs.pdb
