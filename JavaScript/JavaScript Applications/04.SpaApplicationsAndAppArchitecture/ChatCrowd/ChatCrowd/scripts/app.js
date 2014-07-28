@@ -3,6 +3,7 @@
     $('#log-btn').on('click',function(){
         window.location = "#/chat";
     });
+
      function sendMessage(resourceUrl, data) {
         return $.ajax({
             url: resourceUrl,
@@ -40,7 +41,7 @@
 
                 $('#chat-div').html(chatlist);
                 $("#chat-div").scrollTop($("#chat-div")[0].scrollHeight);
-                setInterval(reloadChat(resourceUrl), 10000);
+                
             },
             error: function (error) {
             }
@@ -49,23 +50,16 @@
 
          var resourceUrl = 'http://crowd-chat.herokuapp.com/posts';
          var app = Sammy('#main-content', function () {
-            
+      
 
             this.get("#/chat", function () {
                 var userName = $('#tb-user-name').val() || 'Anonymous';
                
                 $('#main-content')
-                    .append($('<div />')
-                            .attr("id", "chat-div"))
-                    .append($('<div />')
-                            .attr("id", "send-div")
-                            .append($('<input /> ')
-                                .attr("type", "text")
-                                .attr("maxlength", "70")
-                                .attr("id", "tb-send"))
-                            .append($('<button />')
-                                .attr("id", "send-btn")
-                                .html("Send")
+                    .append($('<div />').attr("id", "chat-div"))
+                        .append($('<div />').attr("id", "send-div")
+                            .append($('<input /> ').attr("type", "text").attr("maxlength", "70").attr("id", "tb-send"))
+                                .append($('<button />').attr("id", "send-btn").html("Send")
                                 .on('click', function () {
                                     var message = {
                                         user: userName,
@@ -74,7 +68,22 @@
                                     sendMessage(resourceUrl, message);
                                     $("#chat-div").scrollTop($("#chat-div")[0].scrollHeight);
                                     
-                                })));
+                                })
+                               
+                                
+                         ));
+               $('#tb-send').on('keyup',function(e){
+                   if (e.which == 13 && !e.shiftKey) {
+                        console.log(e);
+                        var message = {
+                            user: userName,
+                            text: $('#tb-send').val()
+                        }
+                        sendMessage(resourceUrl, message);
+                        $("#chat-div").scrollTop($("#chat-div")[0].scrollHeight);
+                    }
+               })
+                
                 reloadChat(resourceUrl);
                 
                 $("#chat-div").scrollTop($("#chat-div")[0].scrollHeight);
@@ -97,6 +106,10 @@
         
         app.run('#/');
        
+        
+       setInterval(function () { reloadChat(resourceUrl) }, 5000);
+        
 
+        
    
 }());
