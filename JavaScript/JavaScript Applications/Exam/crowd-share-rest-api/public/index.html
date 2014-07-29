@@ -1,0 +1,52 @@
+<!DOCTYPE html><html>
+<head>
+    <title>Telerik Academy Courses</title>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="stylesheet" href="/css/bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="/css/site.css">
+    <script src="http://crypto-js.googlecode.com/svn/tags/3.1.2/build/rollups/sha1.js"></script>
+</head>
+<body ng-app="app">
+<header class="nav navbar">
+    <div class="container">
+        <h1 class="text-center">JS Apps Crowd Sharing</h1>
+    </div>
+    <nav>
+        <ul id="navigation">
+             <li id="view-posts"><a href="#" title="login">View Posts</a></li>
+            <li id="login"><a href="#" title="login">Login</a></li>
+            <li id="reg"><a href="#" title="login">Registration</a></li>
+        </ul>
+    </nav>
+</header>
+</body>
+    <input type="text" id="text-search" />
+    <button id="search-btn" class="all-btn">Search by name</button>
+    <button id="loren-search" class="all-btn">Search by content</button>
+<section class="container text-center">
+    
+    <h2 id="total-posts">Last 100 posts:</h2>
+    <div id="posts">
+
+    </div>
+</section>
+<footer>
+    <h4 class="text-center">
+        &copy; Telerik Academy 2014
+    </h4>
+</footer>
+<script src="js/jquery-2.1.1.min.js"></script>
+<script src="js/script.js"></script>
+<!--<script>
+    $.get('/post')
+            .then(function(result) {
+                var totalPosts = result.length;
+                var $postsContainer = $('#posts');
+
+                for (var i = 0; i < totalPosts; i++) {
+                    var currentPost = result[i];
+                    var well = $('<div />').addClass('well').text(currentPost.title + ': "' + currentPost.body + '" by ' + currentPost.user.username).appendTo('#posts');
+                }
+            });
+</script>-->
+</html>
