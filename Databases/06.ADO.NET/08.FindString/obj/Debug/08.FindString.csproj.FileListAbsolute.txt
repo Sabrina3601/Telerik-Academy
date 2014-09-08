@@ -1,0 +1,6 @@
+C:\Users\Plamen\SkyDrive\IV Semester\Databases\7. ADO.NET\Homework\ADO.NET\08.FindString\bin\Debug\08.FindString.exe.config
+C:\Users\Plamen\SkyDrive\IV Semester\Databases\7. ADO.NET\Homework\ADO.NET\08.FindString\bin\Debug\08.FindString.exe
+C:\Users\Plamen\SkyDrive\IV Semester\Databases\7. ADO.NET\Homework\ADO.NET\08.FindString\bin\Debug\08.FindString.pdb
+C:\Users\Plamen\SkyDrive\IV Semester\Databases\7. ADO.NET\Homework\ADO.NET\08.FindString\obj\Debug\08.FindString.csprojResolveAssemblyReference.cache
+C:\Users\Plamen\SkyDrive\IV Semester\Databases\7. ADO.NET\Homework\ADO.NET\08.FindString\obj\Debug\08.FindString.exe
+C:\Users\Plamen\SkyDrive\IV Semester\Databases\7. ADO.NET\Homework\ADO.NET\08.FindString\obj\Debug\08.FindString.pdb

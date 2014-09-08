@@ -1,0 +1,6 @@
+C:\Users\Plamen\SkyDrive\IV Semester\Databases\7. ADO.NET\Homework\ADO.NET\07.InsertRowsInExcel\bin\Debug\07.InsertRowsInExcel.exe.config
+C:\Users\Plamen\SkyDrive\IV Semester\Databases\7. ADO.NET\Homework\ADO.NET\07.InsertRowsInExcel\bin\Debug\07.InsertRowsInExcel.exe
+C:\Users\Plamen\SkyDrive\IV Semester\Databases\7. ADO.NET\Homework\ADO.NET\07.InsertRowsInExcel\bin\Debug\07.InsertRowsInExcel.pdb
+C:\Users\Plamen\SkyDrive\IV Semester\Databases\7. ADO.NET\Homework\ADO.NET\07.InsertRowsInExcel\obj\Debug\07.InsertRowsInExcel.csprojResolveAssemblyReference.cache
+C:\Users\Plamen\SkyDrive\IV Semester\Databases\7. ADO.NET\Homework\ADO.NET\07.InsertRowsInExcel\obj\Debug\07.InsertRowsInExcel.exe
+C:\Users\Plamen\SkyDrive\IV Semester\Databases\7. ADO.NET\Homework\ADO.NET\07.InsertRowsInExcel\obj\Debug\07.InsertRowsInExcel.pdb

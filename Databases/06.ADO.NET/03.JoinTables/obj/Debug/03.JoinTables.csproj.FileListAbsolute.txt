@@ -1,0 +1,5 @@
+C:\Users\Plamen\SkyDrive\IV Semester\Databases\7. ADO.NET\Homework\ADO.NET\03.JoinTables\bin\Debug\03.JoinTables.exe.config
+C:\Users\Plamen\SkyDrive\IV Semester\Databases\7. ADO.NET\Homework\ADO.NET\03.JoinTables\bin\Debug\03.JoinTables.exe
+C:\Users\Plamen\SkyDrive\IV Semester\Databases\7. ADO.NET\Homework\ADO.NET\03.JoinTables\bin\Debug\03.JoinTables.pdb
+C:\Users\Plamen\SkyDrive\IV Semester\Databases\7. ADO.NET\Homework\ADO.NET\03.JoinTables\obj\Debug\03.JoinTables.exe
+C:\Users\Plamen\SkyDrive\IV Semester\Databases\7. ADO.NET\Homework\ADO.NET\03.JoinTables\obj\Debug\03.JoinTables.pdb

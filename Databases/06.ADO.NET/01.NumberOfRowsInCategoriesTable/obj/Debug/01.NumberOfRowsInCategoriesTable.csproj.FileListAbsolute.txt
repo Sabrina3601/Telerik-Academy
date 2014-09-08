@@ -1,0 +1,6 @@
+C:\Users\Plamen\SkyDrive\IV Semester\Databases\7. ADO.NET\Homework\ADO.NET\01.NumberOfRowsInCategoriesTable\bin\Debug\01.NumberOfRowsInCategoriesTable.exe.config
+C:\Users\Plamen\SkyDrive\IV Semester\Databases\7. ADO.NET\Homework\ADO.NET\01.NumberOfRowsInCategoriesTable\bin\Debug\01.NumberOfRowsInCategoriesTable.exe
+C:\Users\Plamen\SkyDrive\IV Semester\Databases\7. ADO.NET\Homework\ADO.NET\01.NumberOfRowsInCategoriesTable\bin\Debug\01.NumberOfRowsInCategoriesTable.pdb
+C:\Users\Plamen\SkyDrive\IV Semester\Databases\7. ADO.NET\Homework\ADO.NET\01.NumberOfRowsInCategoriesTable\obj\Debug\01.NumberOfRowsInCategoriesTable.csprojResolveAssemblyReference.cache
+C:\Users\Plamen\SkyDrive\IV Semester\Databases\7. ADO.NET\Homework\ADO.NET\01.NumberOfRowsInCategoriesTable\obj\Debug\01.NumberOfRowsInCategoriesTable.exe
+C:\Users\Plamen\SkyDrive\IV Semester\Databases\7. ADO.NET\Homework\ADO.NET\01.NumberOfRowsInCategoriesTable\obj\Debug\01.NumberOfRowsInCategoriesTable.pdb

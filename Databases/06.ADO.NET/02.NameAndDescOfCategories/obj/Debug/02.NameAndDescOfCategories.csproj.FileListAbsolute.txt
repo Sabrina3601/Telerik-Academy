@@ -1,0 +1,6 @@
+C:\Users\Plamen\SkyDrive\IV Semester\Databases\7. ADO.NET\Homework\ADO.NET\02.NameAndDescOfCategories\bin\Debug\02.NameAndDescOfCategories.exe.config
+C:\Users\Plamen\SkyDrive\IV Semester\Databases\7. ADO.NET\Homework\ADO.NET\02.NameAndDescOfCategories\bin\Debug\02.NameAndDescOfCategories.exe
+C:\Users\Plamen\SkyDrive\IV Semester\Databases\7. ADO.NET\Homework\ADO.NET\02.NameAndDescOfCategories\bin\Debug\02.NameAndDescOfCategories.pdb
+C:\Users\Plamen\SkyDrive\IV Semester\Databases\7. ADO.NET\Homework\ADO.NET\02.NameAndDescOfCategories\obj\Debug\02.NameAndDescOfCategories.exe
+C:\Users\Plamen\SkyDrive\IV Semester\Databases\7. ADO.NET\Homework\ADO.NET\02.NameAndDescOfCategories\obj\Debug\02.NameAndDescOfCategories.pdb
+C:\Users\Plamen\SkyDrive\IV Semester\Databases\7. ADO.NET\Homework\ADO.NET\02.NameAndDescOfCategories\obj\Debug\02.NameAndDescOfCategories.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+C:\Users\Martin\Desktop\Homework-master\Homework-master\Databases\JSON Processing\bin\Debug\ParseQaRSSFeed.exe.config
+C:\Users\Martin\Desktop\Homework-master\Homework-master\Databases\JSON Processing\bin\Debug\ParseQaRSSFeed.exe
+C:\Users\Martin\Desktop\Homework-master\Homework-master\Databases\JSON Processing\bin\Debug\ParseQaRSSFeed.pdb
+C:\Users\Martin\Desktop\Homework-master\Homework-master\Databases\JSON Processing\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Martin\Desktop\Homework-master\Homework-master\Databases\JSON Processing\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Martin\Desktop\Homework-master\Homework-master\Databases\JSON Processing\obj\Debug\ParseQaRSSFeed.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Desktop\Homework-master\Homework-master\Databases\JSON Processing\obj\Debug\ParseQaRSSFeed.exe
+C:\Users\Martin\Desktop\Homework-master\Homework-master\Databases\JSON Processing\obj\Debug\ParseQaRSSFeed.pdb

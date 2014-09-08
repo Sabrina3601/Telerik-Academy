@@ -1,0 +1,7 @@
+C:\Users\Plamen\SkyDrive\IV Semester\Databases\7. ADO.NET\Homework\ADO.NET\09.MySQL-Connector-Methods\bin\Debug\09.MySQL-Connector-Methods.exe.config
+C:\Users\Plamen\SkyDrive\IV Semester\Databases\7. ADO.NET\Homework\ADO.NET\09.MySQL-Connector-Methods\bin\Debug\09.MySQL-Connector-Methods.exe
+C:\Users\Plamen\SkyDrive\IV Semester\Databases\7. ADO.NET\Homework\ADO.NET\09.MySQL-Connector-Methods\bin\Debug\09.MySQL-Connector-Methods.pdb
+C:\Users\Plamen\SkyDrive\IV Semester\Databases\7. ADO.NET\Homework\ADO.NET\09.MySQL-Connector-Methods\bin\Debug\MySql.Data.dll
+C:\Users\Plamen\SkyDrive\IV Semester\Databases\7. ADO.NET\Homework\ADO.NET\09.MySQL-Connector-Methods\obj\Debug\09.MySQL-Connector-Methods.csprojResolveAssemblyReference.cache
+C:\Users\Plamen\SkyDrive\IV Semester\Databases\7. ADO.NET\Homework\ADO.NET\09.MySQL-Connector-Methods\obj\Debug\09.MySQL-Connector-Methods.exe
+C:\Users\Plamen\SkyDrive\IV Semester\Databases\7. ADO.NET\Homework\ADO.NET\09.MySQL-Connector-Methods\obj\Debug\09.MySQL-Connector-Methods.pdb

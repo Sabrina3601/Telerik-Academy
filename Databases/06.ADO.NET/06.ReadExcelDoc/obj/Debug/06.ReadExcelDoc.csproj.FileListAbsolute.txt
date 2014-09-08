@@ -1,0 +1,6 @@
+C:\Users\Plamen\SkyDrive\IV Semester\Databases\7. ADO.NET\Homework\ADO.NET\06.ReadExcelDoc\bin\Debug\06.ReadExcelDoc.exe.config
+C:\Users\Plamen\SkyDrive\IV Semester\Databases\7. ADO.NET\Homework\ADO.NET\06.ReadExcelDoc\bin\Debug\06.ReadExcelDoc.exe
+C:\Users\Plamen\SkyDrive\IV Semester\Databases\7. ADO.NET\Homework\ADO.NET\06.ReadExcelDoc\bin\Debug\06.ReadExcelDoc.pdb
+C:\Users\Plamen\SkyDrive\IV Semester\Databases\7. ADO.NET\Homework\ADO.NET\06.ReadExcelDoc\obj\Debug\06.ReadExcelDoc.csprojResolveAssemblyReference.cache
+C:\Users\Plamen\SkyDrive\IV Semester\Databases\7. ADO.NET\Homework\ADO.NET\06.ReadExcelDoc\obj\Debug\06.ReadExcelDoc.exe
+C:\Users\Plamen\SkyDrive\IV Semester\Databases\7. ADO.NET\Homework\ADO.NET\06.ReadExcelDoc\obj\Debug\06.ReadExcelDoc.pdb

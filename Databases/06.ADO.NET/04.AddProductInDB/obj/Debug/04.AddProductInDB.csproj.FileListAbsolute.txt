@@ -1,0 +1,5 @@
+C:\Users\Plamen\SkyDrive\IV Semester\Databases\7. ADO.NET\Homework\ADO.NET\04.AddProductInDB\bin\Debug\04.AddProductInDB.exe.config
+C:\Users\Plamen\SkyDrive\IV Semester\Databases\7. ADO.NET\Homework\ADO.NET\04.AddProductInDB\bin\Debug\04.AddProductInDB.exe
+C:\Users\Plamen\SkyDrive\IV Semester\Databases\7. ADO.NET\Homework\ADO.NET\04.AddProductInDB\bin\Debug\04.AddProductInDB.pdb
+C:\Users\Plamen\SkyDrive\IV Semester\Databases\7. ADO.NET\Homework\ADO.NET\04.AddProductInDB\obj\Debug\04.AddProductInDB.exe
+C:\Users\Plamen\SkyDrive\IV Semester\Databases\7. ADO.NET\Homework\ADO.NET\04.AddProductInDB\obj\Debug\04.AddProductInDB.pdb
