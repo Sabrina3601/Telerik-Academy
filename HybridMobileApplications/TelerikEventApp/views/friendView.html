@@ -1,0 +1,22 @@
+<div data-role="view" id="single-friend" data-layout="main" class="friend-view" data-model="app.FriendModel">
+    <div data-role="header">
+        <div data-role="navbar">
+            Friend
+            <a class="nav-button nav-button-back hide-text" data-align="left" data-role="backbutton"> Back </a>
+        </div>
+    </div>
+    
+    <div id="status-container" class="user-status-wrp cf" data-role="listview" data-style="inset">
+        <div class="user-avatar">
+            <img data-bind="attr:{src: User().PictureUrl}" alt="styles/images/avatar.png" />
+        </div>
+        <div class="friend-content">
+            <h2 id="personName" class="person-name" data-bind='text: User().DisplayName'></h2>
+            <span id="email" class="time-span" data-bind="text: User().Email"></span>
+        </div>
+    </div>
+    
+    <div data-role="footer">
+        <a data-role="button" data-bind="visible: isVisible" data-click="app.FriendModel.remove" class="btn btn-delete"> Delete </a>
+    </div>
+</div>

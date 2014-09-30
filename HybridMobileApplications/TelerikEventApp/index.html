@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Pinaple - Telerik Event Application</title> 
+        <meta charset="utf-8" />
+        <script src="cordova.js"></script>
+        <script src="kendo/js/jquery.min.js"></script>
+        <script src="kendo/js/kendo.mobile.min.js"></script>
+        <script src="scripts/lib/everlive.all.min.js"></script>
+        <script src="scripts/app/identity-provider.js"></script>
+        <script src="scripts/app/settings.js" type="text/javascript"></script>
+        <script src="scripts/app/app.js" type="text/javascript"></script>
+        <script src="scripts/app/analytics-monitor.js"></script>
+        <script src="scripts/app/users.js" type="text/javascript"></script>
+        <script src="scripts/app/login.js" type="text/javascript"></script>
+        <script src="scripts/app/signup.js" type="text/javascript"></script>
+        
+        <script src="scripts/app/eventModel.js" type="text/javascript"></script>
+        <script src="scripts/app/events.js" type="text/javascript"></script>
+        <script src="scripts/app/add-event.js" type="text/javascript"></script>
+        <script src="scripts/app/homepage.js" type="text/javascript"></script>
+        
+        <script src="scripts/app/friendModel.js" type="text/javascript"></script>
+        <script src="scripts/app/friends.js" type="text/javascript"></script>
+        <script src="scripts/app/add-friend.js" type="text/javascript"></script>
+        <script src="scripts/app/join.js" type="text/javascript"></script>
+
+        <link href="//fonts.googleapis.com/css?family=Open+Sans:400,600,300,700,800" rel="stylesheet" type="text/css" />
+        <link href="kendo/styles/kendo.mobile.all.min.css" rel="stylesheet" />
+        <link href="styles/main.css" rel="stylesheet" />
+    </head>
+    <body id="goOutApp">
+        <div data-role="layout" data-id="main">
+        </div>
+        
+        <div data-role="view" id="welcome" data-layout="default" class="welcome-scrn form-view" data-model="app.Login" data-init="app.Login.init" data-show="app.Login.show">
+            
+            <h1 style="text-align:center">Team Pinaple </h1>
+            <h2 class="app-name center-text">Telerik Event Application<small>Hybrid Mobile Application</small></h2>
+            <form id="login-form">
+                <ul data-role="listview" data-style="inset">
+                    <li class="username"><input type="text" id="loginUsername" placeholder="Username" required validationMessage="Username is required!" /></li>
+                    <li class="password"><input type="password" id="loginPassword" placeholder="Password" required validationMessage="Password is required!" /></li>
+                </ul>
+            </form>
+            <ul class="group-wrp">
+                <li>
+                    <span id="login" data-role="touch" data-bind="events: { tap: login }">
+                        <a data-role="button" class="btn btn-login">Login</a>
+                    </span>
+                </li>               
+                <li class="signup">
+                    <a data-role="button" href="views/signupView.html" class="btn-signup"> Sign Up </a>
+                </li>
+            </ul>
+        </div>    
+    </body>
+</html>
